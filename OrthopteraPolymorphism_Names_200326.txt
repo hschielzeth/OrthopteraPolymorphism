@@ -1,0 +1,1087 @@
+SpecID	Suborder	Superfamily	Family	Subfamily	Tribe	Genus	Subgenus	Species	Synonyms	AlternativeGenus	Subspecies	RemarksTaxonomy
+S00010	Ensifera	Grylloidea	Gryllidae	Gryllinae	Gryllini	Acheta	Acheta	Acheta domesticus	.	.	.	.
+S00020	Ensifera	Grylloidea	Gryllidae	Gryllinae	Gryllini	Acheta	Acheta	Acheta gossypii	.	.	.	only once ever recorded
+S00030	Ensifera	Grylloidea	Gryllidae	Gryllinae	Gryllini	Acheta	Acheta	Acheta hispanicus	.	.	.	.
+S00040	Ensifera	Grylloidea	Gryllidae	Gryllinae	Gryllini	Gryllodinus	Gryllodinus	Gryllodinus kerkennensis	.	.	.	.
+S00050	Ensifera	Grylloidea	Gryllidae	Gryllinae	Gryllini	Gryllodinus	Gryllodinus	Gryllodinus odicus	.	.	.	.
+S00060	Ensifera	Grylloidea	Gryllidae	Gryllinae	Gryllini	Gryllus	Gryllus (Gryllus)	Gryllus (Gryllus) bimaculatus	.	.	.	.
+S00070	Ensifera	Grylloidea	Gryllidae	Gryllinae	Gryllini	Gryllus	Gryllus (Gryllus)	Gryllus (Gryllus) campestris	.	.	.	.
+S00080	Ensifera	Grylloidea	Gryllidae	Gryllinae	Gryllini	Melanogryllus	Melanogryllus	Melanogryllus desertus	.	.	.	.
+S00090	Ensifera	Grylloidea	Gryllidae	Gryllinae	Gryllini	Svercus	Svercus	Svercus palmetorum	.	also Modicogryllus	.	.
+S00100	Ensifera	Grylloidea	Gryllidae	Gryllinae	Gryllini	Tartarogryllus	Tartarogryllus	Tartarogryllus sandanski	.	.	.	.
+S00110	Ensifera	Grylloidea	Gryllidae	Gryllinae	Gryllini	Tartarogryllus	Tartarogryllus	Tartarogryllus tartarus	.	.	.	.
+S00120	Ensifera	Grylloidea	Gryllidae	Gryllinae	Modicogryllini	Eumodicogryllus	Eumodicogryllus	Eumodicogryllus bordigalensis	.	.	.	.
+S00130	Ensifera	Grylloidea	Gryllidae	Gryllinae	Modicogryllini	Eumodicogryllus	Eumodicogryllus	Eumodicogryllus theryi	.	.	.	.
+S00140	Ensifera	Grylloidea	Gryllidae	Gryllinae	Modicogryllini	Gryllodes	Gryllodes	Gryllodes sigillatus	.	.	.	.
+S00150	Ensifera	Grylloidea	Gryllidae	Gryllinae	Modicogryllini	Gryllopsis	Gryllopsis	Gryllopsis caspicus	.	.	.	.
+S00160	Ensifera	Grylloidea	Gryllidae	Gryllinae	Modicogryllini	Modicogryllus	Modicogryllus (Modicogryllus)	Modicogryllus (Modicogryllus) algirius	.	.	.	.
+S00170	Ensifera	Grylloidea	Gryllidae	Gryllinae	Modicogryllini	Modicogryllus	Modicogryllus (Modicogryllus)	Modicogryllus (Modicogryllus) frontalis	.	.	.	.
+S00180	Ensifera	Grylloidea	Gryllidae	Gryllinae	Modicogryllini	Modicogryllus	Modicogryllus (Modicogryllus)	Modicogryllus (Modicogryllus) pallipalpis	.	.	.	.
+S00190	Ensifera	Grylloidea	Gryllidae	Gryllinae	Modicogryllini	Modicogryllus	Modicogryllus (Modicogryllus)	Modicogryllus (Modicogryllus) truncatus	.	.	.	.
+S00200	Ensifera	Grylloidea	Gryllidae	Gryllinae	Other Gryllinae	Brachytrupes	Brachytrupes	Brachytrupes megacephalus	.	.	.	.
+S00210	Ensifera	Grylloidea	Gryllidae	Gryllinae	Other Gryllinae	Grylloderes	Grylloderes	Grylloderes brunneri	.	.	.	.
+S00220	Ensifera	Grylloidea	Gryllidae	Gryllinae	Other Gryllinae	Grylloderes	Grylloderes	Grylloderes orlovskajae	.	.	.	.
+S00230	Ensifera	Grylloidea	Gryllidae	Gryllinae	Sciobiini	Sciobia	Sciobia (Sciobia)	Sciobia (Sciobia) barbara	.	.	.	.
+S00240	Ensifera	Grylloidea	Gryllidae	Gryllinae	Sciobiini	Sciobia	Sciobia (Sciobia)	Sciobia (Sciobia) boscai	.	.	.	.
+S00250	Ensifera	Grylloidea	Gryllidae	Gryllinae	Sciobiini	Sciobia	Sciobia (Sciobia)	Sciobia (Sciobia) lusitanica	.	.	.	.
+S00260	Ensifera	Grylloidea	Gryllidae	Gryllinae	Sciobiini	Sciobia	Sciobia (Thliptoblemmus)	Sciobia (Thliptoblemmus) caliendra	Sciobia caliendrum	.	.	.
+S00270	Ensifera	Grylloidea	Gryllidae	Gryllinae	Sciobiini	Sciobia	Sciobia (Thliptoblemmus)	Sciobia (Thliptoblemmus) natalia	.	.	.	.
+S00280	Ensifera	Grylloidea	Gryllidae	Gryllinae	Turanogryllini	Turanogryllus	Turanogryllus	Turanogryllus lateralis	.	.	.	.
+S00290	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Gryllomorphini	Eugryllodes	Eugryllodes	Eugryllodes escalerae	.	.	.	.
+S00300	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Gryllomorphini	Eugryllodes	Eugryllodes	Eugryllodes littoreus	.	.	.	.
+S00310	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Gryllomorphini	Eugryllodes	Eugryllodes	Eugryllodes pipiens	.	.	.	.
+S00320	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Gryllomorphini	Gryllomorpha	Gryllomorpha (Gryllomorpha)	Gryllomorpha (Gryllomorpha) dalmatina	.	.	"including cretensis, pieperi and schmidti"	.
+S00330	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Gryllomorphini	Gryllomorpha	Gryllomorpha (Gryllomorpha)	Gryllomorpha (Gryllomorpha) longicauda	.	.	including merobricensis	.
+S00340	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Gryllomorphini	Gryllomorpha	Gryllomorpha (Gryllomorphella)	Gryllomorpha (Gryllomorphella) albanica	.	.	.	.
+S00350	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Gryllomorphini	Gryllomorpha	Gryllomorpha (Gryllomorphella)	Gryllomorpha (Gryllomorphella) miramae	.	.	including guentheri	.
+S00360	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Gryllomorphini	Gryllomorpha	Gryllomorpha (Gryllomorphella)	Gryllomorpha (Gryllomorphella) uclensis	.	.	.	.
+S00370	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Acroneuroptila	Acroneuroptila	Acroneuroptila puddui	.	.	.	.
+S00380	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Acroneuroptila	Acroneuroptila	Acroneuroptila sardoa	.	.	.	.
+S00390	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Ovaliptila	Ovaliptila	Ovaliptila buresi	.	also Discoptila	.	.
+S00400	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Ovaliptila	Ovaliptila	Ovaliptila kinzelbachi	.	also Discoptila	.	.
+S00410	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Ovaliptila	Ovaliptila	Ovaliptila krueperi	.	also Discoptila	.	.
+S00420	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Ovaliptila	Ovaliptila	Ovaliptila lindbergi	.	also Discoptila	.	.
+S00430	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Ovaliptila	Ovaliptila	Ovaliptila nana	.	.	.	.
+S00440	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Ovaliptila	Ovaliptila	Ovaliptila newmanae	.	also Discoptila	.	.
+S00450	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Ovaliptila	Ovaliptila	Ovaliptila rhodos	.	.	.	.
+S00460	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Ovaliptila	Ovaliptila	Ovaliptila wettsteini	.	.	.	.
+S00470	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Ovaliptila	Ovaliptila	Ovaliptila willemsei	.	also Discoptila	.	.
+S00480	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Petaloptila	Petaloptila (Italoptila)	Petaloptila (Italoptila) andreinii	.	.	.	.
+S00490	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Petaloptila	Petaloptila (Petaloptila)	Petaloptila (Petaloptila) aliena	Discoptila eitschbergeri	.	.	.
+S00500	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Petaloptila	Petaloptila (Petaloptila)	Petaloptila (Petaloptila) clauseri	.	"also Discoptila, Ovaliptila"	.	only holotype known
+S00510	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Petaloptila	Petaloptila (Petaloptila)	Petaloptila (Petaloptila) fermini 	.	.	.	.
+S00520	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Petaloptila	Petaloptila (Petaloptila)	Petaloptila (Petaloptila) fragosoi	.	"also Discoptila, Ovaliptila"	.	.
+S00530	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Petaloptila	Petaloptila (Petaloptila)	Petaloptila (Petaloptila) isabelae	.	.	.	.
+S00540	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Petaloptila	Petaloptila (Petaloptila)	Petaloptila (Petaloptila) pallescens	.	.	.	.
+S00550	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Petaloptila	Petaloptila (Petaloptila)	Petaloptila (Petaloptila) pyrenaea	.	.	.	.
+S00560	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Petaloptila	Petaloptila (Petaloptila)	Petaloptila (Petaloptila) sbordonii	.	"also Discoptila, Ovaliptila"	.	.
+S00570	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Petaloptila	Petaloptila (Zapetaloptila)	Petaloptila (Zapetaloptila) baenai 	.	.	.	.
+S00580	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Petaloptila	Petaloptila (Zapetaloptila)	Petaloptila (Zapetaloptila) barrancoi 	.	.	.	.
+S00590	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Petaloptila	Petaloptila (Zapetaloptila)	Petaloptila (Zapetaloptila) bolivari	.	.	.	.
+S00600	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Petaloptila	Petaloptila (Zapetaloptila)	Petaloptila (Zapetaloptila) carabajali	.	.	.	.
+S00610	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Petaloptila	Petaloptila (Zapetaloptila)	Petaloptila (Zapetaloptila) llorenteae	.	.	.	.
+S00620	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Petaloptila	Petaloptila (Zapetaloptila)	Petaloptila (Zapetaloptila) malacitana	.	.	.	.
+S00630	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Petaloptila	Petaloptila (Zapetaloptila)	Petaloptila (Zapetaloptila) mogon	.	.	.	.
+S00640	Ensifera	Grylloidea	Gryllidae	Gryllomorphinae	Petaloptilini	Petaloptila	Petaloptila (Zapetaloptila)	Petaloptila (Zapetaloptila) venosa	.	.	.	.
+S00650	Ensifera	Grylloidea	Gryllidae	Oecanthinae	Oecanthini	Oecanthus	Oecanthus	Oecanthus dulcisonans	.	.	.	.
+S00660	Ensifera	Grylloidea	Gryllidae	Oecanthinae	Oecanthini	Oecanthus	Oecanthus	Oecanthus pellucens	.	.	.	.
+S00670	Ensifera	Grylloidea	Gryllidae	Oecanthinae	Oecanthini	Oecanthus	Oecanthus	Oecanthus turanicus	.	.	.	.
+S00680	Ensifera	Grylloidea	Mogoplistidae	Mogoplistinae	Arachnocephalini	Arachnocephalus	Arachnocephalus	Arachnocephalus vestitus	.	.	.	.
+S00690	Ensifera	Grylloidea	Mogoplistidae	Mogoplistinae	Arachnocephalini	Pseudomogoplistes	Pseudomogoplistes	Pseudomogoplistes byzantius	.	.	.	.
+S00700	Ensifera	Grylloidea	Mogoplistidae	Mogoplistinae	Arachnocephalini	Pseudomogoplistes	Pseudomogoplistes	Pseudomogoplistes squamiger	.	.	.	.
+S00710	Ensifera	Grylloidea	Mogoplistidae	Mogoplistinae	Arachnocephalini	Pseudomogoplistes	Pseudomogoplistes	Pseudomogoplistes vicentae	.	.	.	.
+S00720	Ensifera	Grylloidea	Mogoplistidae	Mogoplistinae	Mogoplistini	Mogoplistes	Mogoplistes	Mogoplistes brunneus	.	.	.	.
+S00730	Ensifera	Grylloidea	Mogoplistidae	Mogoplistinae	Mogoplistini	Mogoplistes	Mogoplistes	Mogoplistes kinzelbachi	.	.	.	.
+S00740	Ensifera	Grylloidea	Mogoplistidae	Mogoplistinae	Mogoplistini	Paramogoplistes	Paramogoplistes	Paramogoplistes dentatus	.	.	.	.
+S00750	Ensifera	Grylloidea	Mogoplistidae	Mogoplistinae	Mogoplistini	Paramogoplistes	Paramogoplistes	Paramogoplistes novaki	.	.	.	.
+S00760	Ensifera	Grylloidea	Mogoplistidae	Mogoplistinae	Mogoplistini	Paramogoplistes	Paramogoplistes	Paramogoplistes ortini	.	.	.	.
+S00770	Ensifera	Grylloidea	Trigonidiidae	Nemobiinae	Nemobiini	Nemobius	Nemobius	Nemobius interstitialis	.	.	.	.
+S00780	Ensifera	Grylloidea	Trigonidiidae	Nemobiinae	Nemobiini	Nemobius	Nemobius	Nemobius sylvestris	.	.	.	.
+S00790	Ensifera	Grylloidea	Trigonidiidae	Nemobiinae	Pteronemobiini	Pteronemobius	Pteronemobius (Pteronemobius)	Pteronemobius (Pteronemobius) heydenii	.	.	.	.
+S00800	Ensifera	Grylloidea	Trigonidiidae	Nemobiinae	Pteronemobiini	Pteronemobius	Pteronemobius (Stilbonemobius)	Pteronemobius (Stilbonemobius) lineolatus	.	.	.	.
+S00810	Ensifera	Grylloidea	Trigonidiidae	Nemobiinae	Pteronemobiini	Stenonemobius	Stenonemobius (Ocellonemobius)	Stenonemobius (Ocellonemobius) bicolor	.	.	.	.
+S00820	Ensifera	Grylloidea	Trigonidiidae	Nemobiinae	Pteronemobiini	Stenonemobius	Stenonemobius (Stenonemobius)	Stenonemobius (Stenonemobius) gracilis	.	.	.	.
+S00830	Ensifera	Grylloidea	Trigonidiidae	Trigonidiinae	Trigonidiini	Natula	Natula	Natula averni	.	.	.	.
+S00840	Ensifera	Grylloidea	Trigonidiidae	Trigonidiinae	Trigonidiini	Trigonidium	Trigonidium (Trigonidium)	Trigonidium (Trigonidium) cicindeloides	.	.	.	.
+S00850	Ensifera	Gryllotalpoidea	Gryllotalpidae	Gryllotalpinae	Gryllotalpini	Gryllotalpa	Gryllotalpa	Gryllotalpa africana	.	.	.	.
+S00860	Ensifera	Gryllotalpoidea	Gryllotalpidae	Gryllotalpinae	Gryllotalpini	Gryllotalpa	Gryllotalpa	Gryllotalpa cossyrensis	.	.	.	.
+S00870	Ensifera	Gryllotalpoidea	Gryllotalpidae	Gryllotalpinae	Gryllotalpini	Gryllotalpa	Gryllotalpa	Gryllotalpa gryllotalpa	.	.	.	.
+S00880	Ensifera	Gryllotalpoidea	Gryllotalpidae	Gryllotalpinae	Gryllotalpini	Gryllotalpa	Gryllotalpa	Gryllotalpa krimbasi	.	.	.	.
+S00890	Ensifera	Gryllotalpoidea	Gryllotalpidae	Gryllotalpinae	Gryllotalpini	Gryllotalpa	Gryllotalpa	Gryllotalpa octodecim	.	.	.	.
+S00900	Ensifera	Gryllotalpoidea	Gryllotalpidae	Gryllotalpinae	Gryllotalpini	Gryllotalpa	Gryllotalpa	Gryllotalpa quindecim	.	.	.	.
+S00910	Ensifera	Gryllotalpoidea	Gryllotalpidae	Gryllotalpinae	Gryllotalpini	Gryllotalpa	Gryllotalpa	Gryllotalpa sedecim	.	.	.	.
+S00920	Ensifera	Gryllotalpoidea	Gryllotalpidae	Gryllotalpinae	Gryllotalpini	Gryllotalpa	Gryllotalpa	Gryllotalpa septemdecimchromosomica	.	.	.	.
+S00930	Ensifera	Gryllotalpoidea	Gryllotalpidae	Gryllotalpinae	Gryllotalpini	Gryllotalpa	Gryllotalpa	Gryllotalpa stepposa	.	.	.	.
+S00940	Ensifera	Gryllotalpoidea	Gryllotalpidae	Gryllotalpinae	Gryllotalpini	Gryllotalpa	Gryllotalpa	Gryllotalpa unispina	.	.	.	.
+S00950	Ensifera	Gryllotalpoidea	Gryllotalpidae	Gryllotalpinae	Gryllotalpini	Gryllotalpa	Gryllotalpa	Gryllotalpa viginti	.	.	.	.
+S00960	Ensifera	Gryllotalpoidea	Gryllotalpidae	Gryllotalpinae	Gryllotalpini	Gryllotalpa	Gryllotalpa	Gryllotalpa vigintiunum	.	.	.	.
+S00970	Ensifera	Gryllotalpoidea	Gryllotalpidae	Gryllotalpinae	Gryllotalpini	Gryllotalpa	Gryllotalpa	Gryllotalpa vineae	.	.	.	.
+S00980	Ensifera	Gryllotalpoidea	Myrmecophilidae	Myrmecophilinae	Myrmecophilini	Myrmecophilus	Myrmecophilus (Myrmecophilus)	Myrmecophilus (Myrmecophilus) acervorum	.	.	.	pathenogenetic
+S00990	Ensifera	Gryllotalpoidea	Myrmecophilidae	Myrmecophilinae	Myrmecophilini	Myrmecophilus	Myrmecophilus (Myrmecophilus)	Myrmecophilus (Myrmecophilus) aequispina	.	.	.	.
+S01000	Ensifera	Gryllotalpoidea	Myrmecophilidae	Myrmecophilinae	Myrmecophilini	Myrmecophilus	Myrmecophilus (Myrmecophilus)	Myrmecophilus (Myrmecophilus) balcanicus	.	.	.	.
+S01010	Ensifera	Gryllotalpoidea	Myrmecophilidae	Myrmecophilinae	Myrmecophilini	Myrmecophilus	Myrmecophilus (Myrmecophilus)	Myrmecophilus (Myrmecophilus) baronii	.	.	.	.
+S01020	Ensifera	Gryllotalpoidea	Myrmecophilidae	Myrmecophilinae	Myrmecophilini	Myrmecophilus	Myrmecophilus (Myrmecophilus)	Myrmecophilus (Myrmecophilus) fuscus	.	.	.	.
+S01030	Ensifera	Gryllotalpoidea	Myrmecophilidae	Myrmecophilinae	Myrmecophilini	Myrmecophilus	Myrmecophilus (Myrmecophilus)	Myrmecophilus (Myrmecophilus) gallicus	.	.	.	.
+S01040	Ensifera	Gryllotalpoidea	Myrmecophilidae	Myrmecophilinae	Myrmecophilini	Myrmecophilus	Myrmecophilus (Myrmecophilus)	Myrmecophilus (Myrmecophilus) hirticaudus	"Myrmecophilus termitophilus, Myrmecophilus zorae"	.	.	.
+S01050	Ensifera	Gryllotalpoidea	Myrmecophilidae	Myrmecophilinae	Myrmecophilini	Myrmecophilus	Myrmecophilus (Myrmecophilus)	Myrmecophilus (Myrmecophilus) myrmecophilus	.	.	.	.
+S01060	Ensifera	Gryllotalpoidea	Myrmecophilidae	Myrmecophilinae	Myrmecophilini	Myrmecophilus	Myrmecophilus (Myrmecophilus)	Myrmecophilus (Myrmecophilus) nonveilleri	.	.	.	.
+S01070	Ensifera	Gryllotalpoidea	Myrmecophilidae	Myrmecophilinae	Myrmecophilini	Myrmecophilus	Myrmecophilus (Myrmophilina)	Myrmecophilus (Myrmophilina) ochraceus	Myrmecophilina salomonis	.	.	.
+S01080	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Aemodogryllinae	Aemodogryllini	Diestrammena	Diestrammena	Diestrammena asynamora	.	.	.	.
+S01090	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Capraiacris)	Dolichopoda (Capraiacris) aegilion	.	.	.	.
+S01100	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Capraiacris)	Dolichopoda (Capraiacris) baccettii	.	.	.	.
+S01110	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Capraiacris)	Dolichopoda (Capraiacris) bolivari	.	.	.	.
+S01120	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Chopardina)	Dolichopoda (Chopardina) bormansi	.	.	.	.
+S01130	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Chopardina)	Dolichopoda (Chopardina) cyrnensis	.	.	.	.
+S01140	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Chopardina)	Dolichopoda (Chopardina) lustriae	.	.	.	.
+S01150	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Chopardina)	Dolichopoda (Chopardina) muceddai	.	.	.	.
+S01160	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Chopardina)	Dolichopoda (Chopardina) remyi	.	.	.	.
+S01170	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Chopardina)	Dolichopoda (Chopardina) schiavazzii	.	.	.	.
+S01180	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) annae	.	.	.	.
+S01190	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) araneiformis	.	.	.	.
+S01200	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) azami	.	.	including ligustica	.
+S01210	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) bakolitsasi	.	.	.	.
+S01220	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) calidnae	.	.	.	.
+S01230	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) capreensis	.	.	.	.
+S01240	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) chopardi	.	.	.	.
+S01250	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) christosnifoni	.	.	.	.
+S01260	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) dalensi	.	.	.	.
+S01270	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) euxina	.	.	.	.
+S01280	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) gasparoi	.	.	.	.
+S01290	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) geniculata	.	.	.	.
+S01300	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) giachinoi	.	.	.	.
+S01310	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) giulianae	.	.	.	.
+S01320	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) graeca	.	.	.	.
+S01330	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) hussoni	.	.	.	.
+S01340	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) ithakii	.	.	.	.
+S01350	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) kalithea	.	.	.	.
+S01360	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) kiriakii	.	.	.	.
+S01370	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) laetitiae	.	.	.	.
+S01380	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) linderii	.	.	.	.
+S01390	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) matsakisi	.	.	.	.
+S01400	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) naxia	.	.	.	.
+S01410	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) palpata	Dolichopoda calabra	.	.	.
+S01420	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) paraskevi	.	.	.	.
+S01430	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) patrizii	.	.	.	.
+S01440	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) pavesii	.	.	.	.
+S01450	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) steriotisi	.	.	.	.
+S01460	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) thasosensis	.	.	.	.
+S01470	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Dolichopoda)	Dolichopoda (Dolichopoda) unicolor	.	.	.	.
+S01480	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Petrochilosina)	Dolichopoda (Petrochilosina) cassagnaui	.	.	.	.
+S01490	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Petrochilosina)	Dolichopoda (Petrochilosina) insignis	.	.	.	.
+S01500	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Petrochilosina)	Dolichopoda (Petrochilosina) makrykapa	.	.	.	.
+S01510	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Petrochilosina)	Dolichopoda (Petrochilosina) ochtoniai	.	.	.	.
+S01520	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Petrochilosina)	Dolichopoda (Petrochilosina) petrochilosi	.	.	.	.
+S01530	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Petrochilosina)	Dolichopoda (Petrochilosina) saraolacosi	.	.	.	.
+S01540	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Dolichopodainae	Dolichopodaini	Dolichopoda	Dolichopoda (Petrochilosina)	Dolichopoda (Petrochilosina) vandeli	.	.	.	.
+S01550	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Troglophilinae	Troglophilini	Troglophilus	Troglophilus (Paratroglophilus)	Troglophilus (Paratroglophilus) neglectus	.	.	.	inofficial name of tribe (only a single genus in subfamily)
+S01560	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Troglophilinae	Troglophilini	Troglophilus	Troglophilus (Paratroglophilus)	Troglophilus (Paratroglophilus) ovuliformis	Troglophilus pretneri	.	.	inofficial name of tribe (only a single genus in subfamily)
+S01570	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Troglophilinae	Troglophilini	Troglophilus	Troglophilus (Troglophilus)	Troglophilus (Troglophilus) andreinii	.	.	.	inofficial name of tribe (only a single genus in subfamily)
+S01580	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Troglophilinae	Troglophilini	Troglophilus	Troglophilus (Troglophilus)	Troglophilus (Troglophilus) brevicauda	.	.	.	inofficial name of tribe (only a single genus in subfamily)
+S01590	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Troglophilinae	Troglophilini	Troglophilus	Troglophilus (Troglophilus)	Troglophilus (Troglophilus) cavicola	Troglophilus bukovici	.	.	inofficial name of tribe (only a single genus in subfamily)
+S01600	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Troglophilinae	Troglophilini	Troglophilus	Troglophilus (Troglophilus)	Troglophilus (Troglophilus) lagoi	.	.	.	inofficial name of tribe (only a single genus in subfamily)
+S01610	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Troglophilinae	Troglophilini	Troglophilus	Troglophilus (Troglophilus)	Troglophilus (Troglophilus) lazaropolensis	.	.	.	inofficial name of tribe (only a single genus in subfamily)
+S01620	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Troglophilinae	Troglophilini	Troglophilus	Troglophilus (Troglophilus)	Troglophilus (Troglophilus) marinae	.	.	.	inofficial name of tribe (only a single genus in subfamily)
+S01630	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Troglophilinae	Troglophilini	Troglophilus	Troglophilus (Troglophilus)	Troglophilus (Troglophilus) spinulosus	.	.	.	inofficial name of tribe (only a single genus in subfamily)
+S01640	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Troglophilinae	Troglophilini	Troglophilus	Troglophilus (Troglophilus)	Troglophilus (Troglophilus) zoiai	.	.	.	inofficial name of tribe (only a single genus in subfamily)
+S01650	Ensifera	Rhaphidophoroidea	Rhaphidophoridae	Troglophilinae	Troglophilini	Troglophilus	Troglophilus (Troglophilus)	Troglophilus (Troglophilus) zorae	.	.	.	inofficial name of tribe (only a single genus in subfamily)
+S01660	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Bradyporini	Bradyporus	Bradyporus (Bradyporus)	Bradyporus (Bradyporus) dasypus	.	.	.	.
+S01670	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Bradyporini	Bradyporus	Bradyporus (Callimenus)	Bradyporus (Callimenus) macrogaster	.	.	.	.
+S01680	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Bradyporini	Bradyporus	Bradyporus (Callimenus)	Bradyporus (Callimenus) multituberculatus	.	.	including montandoni	.
+S01690	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Bradyporini	Bradyporus	Bradyporus (Callimenus)	Bradyporus (Callimenus) oniscus	.	.	.	.
+S01710	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Bradyporini	Pycnogaster	Pycnogaster (Bradygaster) 	Pycnogaster (Bradygaster) algecirensis	.	.	.	.
+S01720	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Bradyporini	Pycnogaster	Pycnogaster (Bradygaster) 	Pycnogaster (Bradygaster) gaditana	.	.	.	.
+S01730	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Bradyporini	Pycnogaster	Pycnogaster (Bradygaster) 	Pycnogaster (Bradygaster) inermis	.	.	.	.
+S01700	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Bradyporini	Pycnogaster	Pycnogaster (Bradygaster) 	Pycnogaster (Bradygaster) sanchezgomezi	.	.	.	.
+S01750	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Bradyporini	Pycnogaster	Pycnogaster (Pycnogaster)	Pycnogaster (Pycnogaster) cucullatus	.	.	.	.
+S01760	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Bradyporini	Pycnogaster	Pycnogaster (Pycnogaster)	Pycnogaster (Pycnogaster) graellsii	.	.	.	.
+S01740	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Bradyporini	Pycnogaster	Pycnogaster (Pycnogaster)	Pycnogaster (Pycnogaster) jugicola	.	.	.	.
+S01770	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Bradyporini	Pycnogaster	Pycnogaster (Pycnogaster)	Pycnogaster (Pycnogaster) valentini	.	.	.	.
+S01780	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Albarracinia	Albarracinia	Albarracinia zapaterii	.	also Ephippigerida	.	.
+S01790	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Baetica	Baetica	Baetica ustulata	.	.	.	.
+S01800	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Callicrania	Callicrania (Callicrania)	Callicrania (Callicrania) belarrensis	.	.	.	.
+S01810	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Callicrania	Callicrania (Callicrania)	Callicrania (Callicrania) denticulata	.	.	.	.
+S01820	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Callicrania	Callicrania (Callicrania)	Callicrania (Callicrania) plaxicauda	.	.	.	.
+S01830	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Callicrania	Callicrania (Callicrania)	Callicrania (Callicrania) ramburii	.	.	.	.
+S01840	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Callicrania	Callicrania (Mucrocallicrania)	Callicrania (Mucrocallicrania) demandae	.	.	.	.
+S01850	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Callicrania	Callicrania (Mucrocallicrania)	Callicrania (Mucrocallicrania) faberi	.	also Platystolus	.	.
+S01860	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Callicrania	Callicrania (Mucrocallicrania)	Callicrania (Mucrocallicrania) vicentae	.	.	.	.
+S01870	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Coracinotus	Coracinotus	Coracinotus notarioi	.	.	.	.
+S01880	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Coracinotus	Coracinotus	Coracinotus politus	.	also Steropleurus	.	.
+S01890	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Coracinotus	Coracinotus	Coracinotus presai	.	.	.	.
+S01900	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Coracinotus	Coracinotus	Coracinotus squamiferus	.	also Steropleurus	.	.
+S01910	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Corsteropleurus	Corsteropleurus	Corsteropleurus chopardi	.	also Steropleurus	.	.
+S01920	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Ephippiger	Ephippiger	Ephippiger apulus	.	.	.	.
+S01930	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Ephippiger	Ephippiger	Ephippiger camillae	.	.	.	only holotype known
+S01940	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Ephippiger	Ephippiger	Ephippiger carlottae	.	.	.	.
+S01950	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Ephippiger	Ephippiger	Ephippiger cavannai	.	.	.	.
+S01960	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Ephippiger	Ephippiger	Ephippiger discoidalis	.	.	.	.
+S01970	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Ephippiger	Ephippiger	Ephippiger diurnus	.	.	.	.
+S01980	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Ephippiger	Ephippiger	Ephippiger ephippiger	.	.	.	.
+S01990	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Ephippiger	Ephippiger	Ephippiger melisi	.	.	.	.
+S02000	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Ephippiger	Ephippiger	Ephippiger perforatus	.	.	.	.
+S02010	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Ephippiger	Ephippiger	Ephippiger persicarius	.	.	.	.
+S02020	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Ephippiger	Ephippiger	Ephippiger provincialis	.	.	.	.
+S02030	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Ephippiger	Ephippiger	Ephippiger ruffoi	.	.	.	.
+S02040	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Ephippiger	Ephippiger	Ephippiger terrestris	.	.	.	.
+S02050	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Ephippiger	Ephippiger	Ephippiger zelleri	.	.	.	.
+S02130	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Ephippigerida	Ephippigerida (Ephippigerida)	Ephippigerida (Ephippigerida) diluta	.	.	.	.
+S02140	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Ephippigerida	Ephippigerida (Ephippigerida)	Ephippigerida (Ephippigerida) rosae	.	.	.	.
+S02150	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Ephippigerida	Ephippigerida (Ephippigerida)	Ephippigerida (Lobionifera) laserena	.	.	.	.
+S02060	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Ephippigerida	Ephippigerida	Ephippigerida areolaria	.	.	.	.
+S02070	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Ephippigerida	Ephippigerida	Ephippigerida asella	.	.	.	.
+S02080	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Ephippigerida	Ephippigerida	Ephippigerida carinata	.	.	.	.
+S02090	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Ephippigerida	Ephippigerida	Ephippigerida longicauda	.	.	.	.
+S02100	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Ephippigerida	Ephippigerida	Ephippigerida marceti	.	.	.	.
+S02110	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Ephippigerida	Ephippigerida	Ephippigerida pantingana	.	.	.	.
+S02120	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Ephippigerida	Ephippigerida	Ephippigerida saussureiana	.	.	.	.
+S02160	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Lluciapomaresius	Lluciapomaresius	Lluciapomaresius anapaulae	.	.	.	.
+S02170	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Lluciapomaresius	Lluciapomaresius	Lluciapomaresius asturiensis	.	also Steropleurus	.	.
+S02180	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Lluciapomaresius	Lluciapomaresius	Lluciapomaresius eclipticus	.	.	.	.
+S02190	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Lluciapomaresius	Lluciapomaresius	Lluciapomaresius nobrei	.	also Steropleurus	.	.
+S02200	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Lluciapomaresius	Lluciapomaresius	Lluciapomaresius ortegai	.	also Steropleurus	.	.
+S02210	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Lluciapomaresius	Lluciapomaresius	Lluciapomaresius panteli	.	also Steropleurus	.	.
+S02220	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Lluciapomaresius	Lluciapomaresius	Lluciapomaresius stalii	.	also Steropleurus	.	.
+S02230	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Lucasinova	Lucasinova	Lucasinova nigromarginata	.	also Ephippigerida	.	.
+S02240	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Neocallicrania	Neocallicrania	Neocallicrania barrosi	.	.	.	.
+S02250	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Neocallicrania	Neocallicrania	Neocallicrania bolivarii	.	.	.	.
+S02260	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Neocallicrania	Neocallicrania	Neocallicrania lusitanica	.	.	.	.
+S02270	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Neocallicrania	Neocallicrania	Neocallicrania miegii	.	.	.	.
+S02280	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Neocallicrania	Neocallicrania	Neocallicrania selligera	.	.	.	.
+S02290	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Neocallicrania	Neocallicrania	Neocallicrania serrata	.	.	.	.
+S02300	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Parasteropleurus	Parasteropleurus	Parasteropleurus balearicus	.	also Steropleurus	.	.
+S02310	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Parasteropleurus	Parasteropleurus	Parasteropleurus martorellii	.	also Steropleurus	.	.
+S02320	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Parasteropleurus	Parasteropleurus	Parasteropleurus perezi	.	also Steropleurus	.	.
+S02330	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Platystolus	Platystolus	Platystolus martinezii	.	.	.	probably including Platystolus monticola (Fauna Catalonia)
+S02340	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Platystolus	Platystolus	Platystolus surcularius	.	.	.	.
+S02350	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Praephippigera	Praephippigera	Praephippigera pachygaster	.	.	.	.
+S02360	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Sabaterpia	Sabaterpia	Sabaterpia hispanica	.	also Ephippigerida	.	.
+S02370	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Sabaterpia	Sabaterpia	Sabaterpia paulinoi	.	also Ephippigerida	.	.
+S02380	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Sabaterpia	Sabaterpia	Sabaterpia taeniata	.	also Ephippigerida	.	.
+S02390	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Sorapagus	Sorapagus	Sorapagus catalaunicus	.	also Steropleurus	.	.
+S02400	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Steropleurus	Steropleurus	Steropleurus andalusius	.	.	.	.
+S02410	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Steropleurus	Steropleurus	Steropleurus brunneri	.	.	.	.
+S02420	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Steropleurus	Steropleurus	Steropleurus castellanus	.	.	.	.
+S02430	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Steropleurus	Steropleurus	Steropleurus flavovittatus	.	.	.	.
+S02440	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Steropleurus	Steropleurus	Steropleurus obsoletus	.	.	.	.
+S02450	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Steropleurus	Steropleurus	Steropleurus pseudolus	.	.	.	.
+S02460	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Steropleurus	Steropleurus	Steropleurus recticarinatus	.	.	.	.
+S02470	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Synephippius	Synephippius	Synephippius obvius	.	also Platystolus	.	.
+S02480	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Uromenus	Uromenus	Uromenus agarenus	.	.	.	.
+S02490	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Uromenus	Uromenus	Uromenus annae	.	also Steropleurus	.	.
+S02500	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Uromenus	Uromenus	Uromenus bonneti	.	.	.	.
+S02510	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Uromenus	Uromenus	Uromenus brevicollis	.	.	.	.
+S02520	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Uromenus	Uromenus	Uromenus dyrrhachiacus	.	.	.	.
+S02530	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Uromenus	Uromenus	Uromenus elegans	.	.	.	.
+S02540	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Uromenus	Uromenus	Uromenus maroccanus	.	.	.	.
+S02550	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Uromenus	Uromenus	Uromenus riggioi	.	.	.	.
+S02560	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Uromenus	Uromenus	Uromenus rugosicollis	.	.	.	.
+S02570	Ensifera	Tettigonioidea	Tettigoniidae	Bradyporinae	Ephippigerini	Uromenus	Uromenus	Uromenus siculus	.	.	.	.
+S02590	Ensifera	Tettigonioidea	Tettigoniidae	Conocephalinae	Conocephalini	Conocephalus	Conocephalus (Anisoptera)	Conocephalus (Anisoptera) concolor	.	.	.	.
+S02600	Ensifera	Tettigonioidea	Tettigoniidae	Conocephalinae	Conocephalini	Conocephalus	Conocephalus (Anisoptera)	Conocephalus (Anisoptera) dorsalis	.	.	.	.
+S02610	Ensifera	Tettigonioidea	Tettigoniidae	Conocephalinae	Conocephalini	Conocephalus	Conocephalus (Anisoptera)	Conocephalus (Anisoptera) ebneri	.	.	.	.
+S02620	Ensifera	Tettigonioidea	Tettigoniidae	Conocephalinae	Conocephalini	Conocephalus	Conocephalus (Anisoptera)	Conocephalus (Anisoptera) fuscus	.	.	.	.
+S02630	Ensifera	Tettigonioidea	Tettigoniidae	Conocephalinae	Conocephalini	Conocephalus	Conocephalus (Anisoptera)	Conocephalus (Anisoptera) hastatus	.	.	.	.
+S02640	Ensifera	Tettigonioidea	Tettigoniidae	Conocephalinae	Conocephalini	Conocephalus	Conocephalus (Anisoptera)	Conocephalus (Anisoptera) kisi	.	.	.	.
+S02650	Ensifera	Tettigonioidea	Tettigoniidae	Conocephalinae	Conocephalini	Conocephalus	Conocephalus (Conocephalus)	Conocephalus (Conocephalus) conocephalus	.	.	.	.
+S02580	Ensifera	Tettigonioidea	Tettigoniidae	Conocephalinae	Conocephalini	Conocephalus	Conocephalus	Conocephalus grebenchikovi	.	.	.	.
+S02660	Ensifera	Tettigonioidea	Tettigoniidae	Conocephalinae	Copiphorini	Ruspolia	Ruspolia	Ruspolia differens	.	.	.	.
+S02670	Ensifera	Tettigonioidea	Tettigoniidae	Conocephalinae	Copiphorini	Ruspolia	Ruspolia	Ruspolia nitidula	.	.	.	.
+S02680	Ensifera	Tettigonioidea	Tettigoniidae	Meconematinae	Meconematini	Canariola	Canariola	Canariola emarginata 	.	.	.	.
+S02690	Ensifera	Tettigonioidea	Tettigoniidae	Meconematinae	Meconematini	Canariola	Canariola	Canariola quinonesi	.	.	.	.
+S02700	Ensifera	Tettigonioidea	Tettigoniidae	Meconematinae	Meconematini	Cyrtaspis	Cyrtaspis	Cyrtaspis scutata	.	.	.	.
+S02710	Ensifera	Tettigonioidea	Tettigoniidae	Meconematinae	Meconematini	Cyrtaspis	Cyrtaspis	Cyrtaspis tuberculata	.	.	.	.
+S02720	Ensifera	Tettigonioidea	Tettigoniidae	Meconematinae	Meconematini	Meconema	Meconema	Meconema meridionale	.	.	.	.
+S02730	Ensifera	Tettigonioidea	Tettigoniidae	Meconematinae	Meconematini	Meconema	Meconema	Meconema thalassinum	.	.	.	.
+S02740	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Acrometopini	Acrometopa	Acrometopa	Acrometopa cretensis	.	.	.	.
+S02750	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Acrometopini	Acrometopa	Acrometopa	Acrometopa italica	.	.	.	.
+S02760	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Acrometopini	Acrometopa	Acrometopa	Acrometopa macropoda	.	.	.	.
+S02770	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Acrometopini	Acrometopa	Acrometopa	Acrometopa servillea	.	.	.	.
+S02780	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Acrometopini	Acrometopa	Acrometopa	Acrometopa syriaca	.	.	.	.
+S02790	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Ancistrura	Ancistrura	Ancistrura nigrovittata	.	.	.	.
+S02800	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Andreiniimon	Andreiniimon	Andreiniimon nuptialis	.	.	.	.
+S02810	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Barbitistes	Barbitistes	Barbitistes alpinus	.	.	.	.
+S02820	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Barbitistes	Barbitistes	Barbitistes constrictus	.	.	.	.
+S02830	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Barbitistes	Barbitistes	Barbitistes fischeri	.	.	.	.
+S02840	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Barbitistes	Barbitistes	Barbitistes kaltenbachi	.	.	.	.
+S02850	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Barbitistes	Barbitistes	Barbitistes obtusus	.	.	.	.
+S02860	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Barbitistes	Barbitistes	Barbitistes ocskayi	.	.	.	.
+S02870	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Barbitistes	Barbitistes	Barbitistes serricauda	.	.	.	.
+S02880	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Barbitistes	Barbitistes	Barbitistes vicetinus	.	.	.	.
+S02890	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Barbitistes	Barbitistes	Barbitistes yersini	.	.	.	.
+S02900	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Euconocercus	Euconocercus	Euconocercus caucasicus	.	.	.	.
+S02910	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isoimon	Isoimon	Isoimon riabovi 	.	.	.	.
+S02920	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya amplipennis	.	.	.	.
+S02930	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya andreevae	.	.	.	.
+S02940	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya beibienko	.	.	.	.
+S02950	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya boldyrevi	.	.	.	.
+S02960	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya brevicauda	.	.	.	.
+S02970	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya brunneri	.	.	.	.
+S02980	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya bucovinensis	.	.	.	.
+S02990	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya bureschi	.	.	.	.
+S03000	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya camptoxypha	Isophya brevipennis	.	.	.
+S03010	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya ciucasi	.	.	.	.
+S03020	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya clara	.	.	.	.
+S03030	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya costata	.	.	.	.
+S03040	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya dobrogensis	.	.	.	.
+S03050	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya dochia	.	.	.	.
+S03060	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya doneciana	.	.	.	.
+S03070	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya fatrensis	.	.	.	.
+S03080	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya gulae	.	.	.	.
+S03090	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya harzi	.	.	.	.
+S03100	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya hospodar	.	.	.	.
+S03110	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya kalishevskii	.	.	.	.
+S03120	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya kraussii	.	.	.	.
+S03130	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya lemnotica	.	.	.	.
+S03140	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya longicaudata	.	.	.	.
+S03150	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya miksici	.	.	.	.
+S03160	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya modesta	.	.	including rossica	.
+S03170	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya modestior	.	.	.	.
+S03180	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya obtusa	.	.	.	.
+S03190	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya pavelii	Isophya rammei	.	.	.
+S03200	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya pienensis	.	.	.	.
+S03210	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya plevnensis	Isophya pravdini	.	.	.
+S03220	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya posthumoidalis	.	.	.	.
+S03230	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya pylnovi	.	.	.	.
+S03240	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya pyrenaea	.	.	.	.
+S03250	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya rectipennis	.	.	.	.
+S03260	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya rhodopensis	Isophya kisi	.	including leonorae and petkovi	.
+S03270	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya schneideri	.	.	.	.
+S03280	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya sicula	.	.	.	.
+S03290	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya speciosa	.	.	.	.
+S03300	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya stepposa	.	.	.	.
+S03310	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya straubei	.	.	.	.
+S03320	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya stysi	.	.	.	.
+S03330	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya taurica	.	.	.	.
+S03340	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya thracica	.	.	.	.
+S03350	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya tosevski	.	.	.	.
+S03360	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Isophya	Isophya	Isophya zubowskii	.	.	.	.
+S03370	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Leptophyes	Leptophyes	Leptophyes albovittata	.	.	.	.
+S03380	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Leptophyes	Leptophyes	Leptophyes asamo	.	.	.	.
+S03390	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Leptophyes	Leptophyes	Leptophyes boscii	.	.	.	.
+S03400	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Leptophyes	Leptophyes	Leptophyes calabra	.	.	.	.
+S03410	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Leptophyes	Leptophyes	Leptophyes discoidalis	.	.	.	.
+S03420	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Leptophyes	Leptophyes	Leptophyes intermedia	.	.	.	.
+S03430	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Leptophyes	Leptophyes	Leptophyes laticauda	.	.	.	.
+S03440	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Leptophyes	Leptophyes	Leptophyes lisae	.	.	.	.
+S03450	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Leptophyes	Leptophyes	Leptophyes punctatissima	.	.	.	.
+S03460	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Leptophyes	Leptophyes	Leptophyes sicula	.	.	.	.
+S03470	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Metaplastes	Metaplastes	Metaplastes ippolitoi	.	.	.	.
+S03480	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Metaplastes	Metaplastes	Metaplastes oertzemi	.	.	.	.
+S03490	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Metaplastes	Metaplastes	Metaplastes ornatus	.	.	.	.
+S03500	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Metaplastes	Metaplastes	Metaplastes pulchripennis	.	.	.	.
+S03510	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Hamatopoecilimon)	Poecilimon (Hamatopoecilimon) deplanatus	.	.	.	.
+S03520	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Hamatopoecilimon)	Poecilimon (Hamatopoecilimon) hamatus	.	.	.	.
+S03530	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Hamatopoecilimon)	Poecilimon (Hamatopoecilimon) ikariensis	.	.	.	.
+S03540	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Hamatopoecilimon)	Poecilimon (Hamatopoecilimon) klausgerhardi	.	.	.	.
+S03550	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Hamatopoecilimon)	Poecilimon (Hamatopoecilimon) paros	.	.	.	.
+S03560	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Hamatopoecilimon)	Poecilimon (Hamatopoecilimon) unispinosus	.	.	.	.
+S03570	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) aegaeus	.	.	.	.
+S03580	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) affinis	"Poecilimon harzi, Poecilimon mistshenkoi"	.	.	.
+S03590	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) albolineatus	.	.	.	.
+S03600	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) amissus	.	.	.	.
+S03610	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) ampliatus	.	.	.	.
+S03620	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) artedentatus	.	.	.	.
+S03630	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) athos	.	.	.	.
+S03640	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) bidens	.	.	.	.
+S03650	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) bifenestratus	.	.	.	.
+S03660	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) bosphoricus	.	.	.	.
+S03670	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) brunneri	.	.	.	.
+S03680	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) chopardi	.	.	.	.
+S03690	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) cretensis	.	.	.	.
+S03700	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) djakonovi	.	.	.	.
+S03710	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) ebneri	"Poecilimon ebneri, Poecilimon klisuriensis"	.	.	.
+S03720	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) ege	.	.	.	.
+S03730	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) elegans	.	.	.	.
+S03740	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) erimanthos	.	.	.	.
+S03750	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) fussii	.	.	.	.
+S03760	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) geoktschajcus	.	.	.	.
+S03770	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) gerlindae	.	.	.	.
+S03780	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) gracilioides	.	.	.	.
+S03790	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) gracilis	.	.	.	.
+S03800	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) heinrichi	.	.	.	.
+S03810	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) heroicus	.	.	.	.
+S03820	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) hoelzeli	Poecilimon kisi	.	.	.
+S03830	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) intermedius	.	.	.	pathenogenetic
+S03840	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) istanbul 	.	.	.	.
+S03850	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) jablanicensis	.	.	.	.
+S03860	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) jonicus	.	.	including superbus	.
+S03870	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) laevissimus	.	.	.	.
+S03880	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) macedonicus	.	.	.	.
+S03890	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) mariannae	.	.	.	.
+S03900	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) marmaraensis	.	.	.	.
+S03910	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) miramae	.	.	.	.
+S03920	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) mytilenensis	.	.	.	.
+S03930	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) nobilis	.	.	.	.
+S03940	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) nonveilleri	.	.	.	.
+S03950	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) obesus	.	.	.	.
+S03960	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) oligacanthus	.	.	.	.
+S03970	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) orbelicus	.	.	.	.
+S03980	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) ornatus	.	.	.	.
+S03990	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) pechevi	.	.	.	.
+S04000	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) pergamicus	.	.	.	.
+S04010	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) pindos	.	.	.	.
+S04020	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) pliginskii	Poecilimon boldyrevi	.	.	.
+S04030	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) propinquus	.	.	.	.
+S04040	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) pseudornatus	.	.	.	.
+S04050	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) roseoviridis	.	.	.	.
+S04060	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) sanctipauli	.	.	.	.
+S04070	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) schmidtii	.	.	.	.
+S04080	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) scythicus	.	.	.	.
+S04090	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) similis	.	.	.	.
+S04100	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) soulion	.	.	.	.
+S04110	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) sureyanus	Poecilimon anatolicus	.	.	.
+S04120	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) syriacus	.	.	.	.
+S04130	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) tauricus	"Poecilimon beybienkoi, Poecilimon kusnezovi"	.	.	.
+S04140	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) thessalicus	.	.	.	.
+S04150	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) thoracicus	.	.	.	.
+S04160	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) tricuspis	.	.	.	.
+S04170	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) turcicus	.	.	.	.
+S04180	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) ukrainicus 	.	.	.	.
+S04190	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) veluchianus	.	.	.	.
+S04200	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) vodnensis	.	.	.	.
+S04210	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) werneri	.	.	.	.
+S04220	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) zimmeri	.	.	.	.
+S04230	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Poecilimon	Poecilimon (Poecilimon)	Poecilimon (Poecilimon) zwicki	.	.	.	.
+S04240	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Polysarcus	Polysarcus	Polysarcus denticauda	.	.	.	.
+S04250	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Polysarcus	Polysarcus	Polysarcus scutatus	.	.	.	.
+S04260	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Barbitistini	Polysarcus	Polysarcus	Polysarcus zacharovi	.	.	.	.
+S04280	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Odonturini	Odontura	Odontura (Odontura)	Odontura (Odontura) borrei 	.	.	.	.
+S04290	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Odonturini	Odontura	Odontura (Odontura)	Odontura (Odontura) calaritana	Odontura festai	.	.	.
+S04300	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Odonturini	Odontura	Odontura (Odontura)	Odontura (Odontura) glabricauda	.	.	.	.
+S04310	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Odonturini	Odontura	Odontura (Odontura)	Odontura (Odontura) stenoxypha	.	.	including arcuata	.
+S04320	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Odonturini	Odontura	Odontura (Odonturella)	Odontura (Odonturella) macphersoni	.	.	.	.
+S04270	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Odonturini	Odontura	Odontura	Odontura aspericauda	.	.	.	.
+S04330	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Phaneropterini	Phaneroptera	Phaneroptera	Phaneroptera falcata	.	.	.	.
+S04340	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Phaneropterini	Phaneroptera	Phaneroptera	Phaneroptera gracilis	.	.	.	.
+S04350	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Phaneropterini	Phaneroptera	Phaneroptera	Phaneroptera nana	.	.	.	.
+S04360	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Phaneropterini	Phaneroptera	Phaneroptera	Phaneroptera sparsa	.	.	.	.
+S04370	Ensifera	Tettigonioidea	Tettigoniidae	Phaneropterinae	Tylopsidini	Tylopsis	Tylopsis	Tylopsis lilifolia	.	.	.	.
+S04380	Ensifera	Tettigonioidea	Tettigoniidae	Saginae	Sagini	Saga	Saga	Saga campbelli	.	.	.	.
+S04390	Ensifera	Tettigonioidea	Tettigoniidae	Saginae	Sagini	Saga	Saga	Saga hellenica	.	.	.	.
+S04400	Ensifera	Tettigonioidea	Tettigoniidae	Saginae	Sagini	Saga	Saga	Saga natoliae	.	.	.	.
+S04410	Ensifera	Tettigonioidea	Tettigoniidae	Saginae	Sagini	Saga	Saga	Saga pedo	.	.	.	pathenogenetic
+S04420	Ensifera	Tettigonioidea	Tettigoniidae	Saginae	Sagini	Saga	Saga	Saga rammei	.	.	.	.
+S04430	Ensifera	Tettigonioidea	Tettigoniidae	Saginae	Sagini	Saga	Saga	Saga rhodiensis	.	.	.	.
+S04440	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Ctenodecticini	Ctenodecticus	Ctenodecticus	Ctenodecticus bolivari	.	.	.	.
+S04450	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Ctenodecticini	Ctenodecticus	Ctenodecticus	Ctenodecticus granatensis	.	.	.	.
+S04460	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Ctenodecticini	Ctenodecticus	Ctenodecticus	Ctenodecticus lusitanicus	.	.	.	.
+S04470	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Ctenodecticini	Ctenodecticus	Ctenodecticus	Ctenodecticus major	.	.	.	.
+S04480	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Ctenodecticini	Ctenodecticus	Ctenodecticus	Ctenodecticus masferreri	.	.	.	.
+S04490	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Ctenodecticini	Ctenodecticus	Ctenodecticus	Ctenodecticus pupulus	.	.	.	.
+S04500	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Ctenodecticini	Ctenodecticus	Ctenodecticus	Ctenodecticus ramburi	.	.	.	.
+S04510	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Ctenodecticini	Ctenodecticus	Ctenodecticus	Ctenodecticus siculus	.	.	.	.
+S04520	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Ctenodecticini	Ctenodecticus	Ctenodecticus	Ctenodecticus thymi	.	.	.	.
+S04530	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Ctenodecticini	Miramiola	Miramiola	Miramiola pusilla	.	.	.	.
+S04540	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Decticini	Decticus	Decticus	Decticus albifrons	.	.	.	.
+S04550	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Decticini	Decticus	Decticus	Decticus aprutianus	.	.	.	.
+S04560	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Decticini	Decticus	Decticus	Decticus loudoni	.	.	.	.
+S04570	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Decticini	Decticus	Decticus	Decticus verrucivorus	.	.	.	.
+S04580	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Drymadusini	Anadrymadusa	Anadrymadusa (Anadrymadusa)	Anadrymadusa (Anadrymadusa) brevipennis	.	.	.	.
+S04590	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Drymadusini	Anadrymadusa	Anadrymadusa (Anadrymadusa)	Anadrymadusa (Anadrymadusa) ornatipennis	.	.	.	.
+S04600	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Drymadusini	Anadrymadusa	Anadrymadusa (Anadrymadusa)	Anadrymadusa (Anadrymadusa) retowskii	.	.	.	.
+S04610	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Drymadusini	Anadrymadusa	Anadrymadusa (Orodusa)	Anadrymadusa (Orodusa) beckeri	.	.	.	.
+S04620	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Drymadusini	Anadrymadusa	Anadrymadusa (Orodusa)	Anadrymadusa (Orodusa) robusta	.	.	.	.
+S04630	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Drymadusini	Ceraeocercus	Ceraeocercus	Ceraeocercus fuscipennis	.	.	.	.
+S04640	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Drymadusini	Drymadusa	Drymadusa	Drymadusa dorsalis	.	.	.	.
+S04650	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Drymadusini	Lithodusa	Lithodusa	Lithodusa daghestanica	.	.	.	.
+S04660	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Drymadusini	Paradrymadusa	Paradrymadusa	Paradrymadusa galitzini	.	.	.	.
+S04670	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Drymadusini	Paradrymadusa	Paradrymadusa	Paradrymadusa picta	.	also Anadrymadusa	.	.
+S04680	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Drymadusini	Paradrymadusa	Paradrymadusa	Paradrymadusa sordida	.	.	.	.
+S04690	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Gampsocleidini	Gampsocleis	Gampsocleis	Gampsocleis abbreviata	.	.	.	.
+S04700	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Gampsocleidini	Gampsocleis	Gampsocleis	Gampsocleis glabra	.	.	.	.
+S04710	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Gampsocleidini	Gampsocleis	Gampsocleis	Gampsocleis schelkovnikovae	.	.	.	.
+S04720	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Gampsocleidini	Gampsocleis	Gampsocleis	Gampsocleis sedakovii	.	.	.	.
+S04730	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Onconotini	Onconotus	Onconotus	Onconotus laxmanni	.	.	.	.
+S04740	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Onconotini	Onconotus	Onconotus	Onconotus servillei	.	.	.	.
+S04750	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera annamariae	.	.	.	.
+S04760	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera astyla	.	.	.	.
+S04770	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera bimucronata	.	.	.	.
+S04780	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera cephalonica	.	.	.	.
+S04790	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera chabrieri	"Eupholidoptera beybienkoi, Eupholidoptera marani"	.	including brunneri	.
+S04800	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera cretica	.	.	.	.
+S04810	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera danconai	.	.	.	.
+S04820	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera epirotica	.	.	.	.
+S04830	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera feri	.	.	.	.
+S04840	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera forcipata	.	.	.	.
+S04850	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera garganica	.	.	.	.
+S04860	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera gemellata	.	.	.	.
+S04870	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera giuliae	.	.	.	.
+S04880	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera hesperica	.	.	.	.
+S04890	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera icariensis	.	.	.	.
+S04900	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera jacquelinae	.	.	.	.
+S04910	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera kykladica	.	.	.	.
+S04920	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera latens	.	.	.	.
+S04930	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera leucasi	.	.	.	.
+S04940	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera magnifica	.	.	.	.
+S04950	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera mariannae	.	.	.	.
+S04960	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera megastyla	Eupholidoptera kinzelbachi	.	.	.
+S04970	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera pallipes	.	.	.	.
+S04980	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera parsina	.	.	.	.
+S04990	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera schmidti	.	.	.	.
+S05000	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera smyrnensis	.	.	.	.
+S05010	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera spinigera	.	.	.	.
+S05020	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera tyrrhenica	.	.	.	.
+S05030	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Eupholidoptera	Eupholidoptera	Eupholidoptera uvarovi	.	.	.	.
+S05040	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Parapholidoptera	Parapholidoptera	Parapholidoptera castaneoviridis	.	.	.	.
+S05050	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Parapholidoptera	Parapholidoptera	Parapholidoptera noxia	.	.	.	.
+S05060	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Parapholidoptera	Parapholidoptera	Parapholidoptera signata	.	.	.	.
+S05070	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Pholidoptera	Pholidoptera	Pholidoptera aptera	Pholidoptera ganevi	.	.	.
+S05080	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Pholidoptera	Pholidoptera	Pholidoptera brevipes	.	.	.	.
+S05090	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Pholidoptera	Pholidoptera	Pholidoptera dalmatica	.	.	.	.
+S05100	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Pholidoptera	Pholidoptera	Pholidoptera ebneri	.	.	.	.
+S05110	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Pholidoptera	Pholidoptera	Pholidoptera fallax	.	.	.	.
+S05120	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Pholidoptera	Pholidoptera	Pholidoptera femorata	.	.	.	.
+S05130	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Pholidoptera	Pholidoptera	Pholidoptera frivaldszkyi	.	.	.	.
+S05140	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Pholidoptera	Pholidoptera	Pholidoptera griseoaptera	.	.	.	.
+S05150	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Pholidoptera	Pholidoptera	Pholidoptera littoralis	.	.	.	.
+S05160	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Pholidoptera	Pholidoptera	Pholidoptera lucasi	.	.	.	.
+S05170	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Pholidoptera	Pholidoptera	Pholidoptera macedonica	.	.	.	.
+S05180	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Pholidoptera	Pholidoptera	Pholidoptera pustulipes	.	.	.	.
+S05190	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Pholidoptera	Pholidoptera	Pholidoptera rhodopensis	.	.	.	.
+S05200	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Pholidoptera	Pholidoptera	Pholidoptera stankoi	.	.	.	.
+S05210	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Pholidopterini	Pholidoptera	Pholidoptera	Pholidoptera transsylvanica	.	.	.	.
+S05220	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Amedegnatiana	Amedegnatiana	Amedegnatiana vicheti	.	.	.	.
+S05230	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Anonconotus	Anonconotus	Anonconotus alpinus	.	.	.	.
+S05240	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Anonconotus	Anonconotus	Anonconotus apenninigenus	.	.	.	.
+S05250	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Anonconotus	Anonconotus	Anonconotus baracunensis	.	.	.	.
+S05260	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Anonconotus	Anonconotus	Anonconotus ghiliani	.	.	.	.
+S05270	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Anonconotus	Anonconotus	Anonconotus italoaustriacus	.	.	.	.
+S05280	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Anonconotus	Anonconotus	Anonconotus ligustinus	.	.	.	.
+S05290	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Anonconotus	Anonconotus	Anonconotus mercantouri	.	.	.	.
+S05300	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Anonconotus	Anonconotus	Anonconotus occidentalis	.	.	.	.
+S05310	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Anonconotus	Anonconotus	Anonconotus pusillus	.	.	.	.
+S05320	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Anonconotus	Anonconotus	Anonconotus sibyllinus	.	.	.	.
+S05330	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Antaxius	Antaxius (Antaxius)	Antaxius (Antaxius) kraussii	.	.	.	.
+S05340	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Antaxius	Antaxius (Chopardius)	Antaxius (Chopardius) beieri	.	.	.	.
+S05350	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Antaxius	Antaxius (Chopardius)	Antaxius (Chopardius) chopardi	.	.	.	.
+S05360	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Antaxius	Antaxius (Chopardius)	Antaxius (Chopardius) florezi	.	.	.	.
+S05370	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Antaxius	Antaxius (Chopardius)	Antaxius (Chopardius) hispanicus	Antaxius capellei	.	.	.
+S05380	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Antaxius	Antaxius (Chopardius)	Antaxius (Chopardius) pedestris	.	.	.	.
+S05390	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Antaxius	Antaxius (Chopardius)	Antaxius (Chopardius) sorrezensis	.	.	.	.
+S05400	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Antaxius	Antaxius (Chopardius)	Antaxius (Chopardius) spinibrachius	.	.	.	.
+S05410	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Antaxius	Antaxius (Cyrnantaxius)	Antaxius (Cyrnantaxius) bouvieri	.	.	.	.
+S05420	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Antaxius	Antaxius (Hoelzeliana)	Antaxius (Hoelzeliana) difformis	.	.	.	.
+S05430	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Anterastes	Anterastes	Anterastes serbicus	.	.	.	.
+S05440	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Bicolorana	Bicolorana	Bicolorana bicolor	Bicolorana helleri	.	.	.
+S05450	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Bicolorana	Bicolorana	Bicolorana burri	.	.	.	.
+S05460	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Bicolorana	Bicolorana	Bicolorana kraussi	Metrioptera kuntzeni	also Metrioptera	.	.
+S05470	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Broughtonia	Broughtonia	Broughtonia arnoldi	.	also Metrioptera	.	.
+S05480	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Broughtonia	Broughtonia	Broughtonia domogledi	.	also Metrioptera	.	.
+S05490	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Bucephaloptera	Bucephaloptera	Bucephaloptera bucephala	.	.	.	.
+S05500	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Incertana	Incertana	Incertana decorata	.	also Decorana	.	.
+S05510	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Incertana	Incertana	Incertana drepanensis	.	.	.	.
+S05520	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Incertana	Incertana	Incertana incerta	.	.	.	.
+S05530	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Metrioptera	Metrioptera	Metrioptera brachyptera	.	.	.	.
+S05540	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Metrioptera	Metrioptera	Metrioptera buyssoni	.	.	.	.
+S05550	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Metrioptera	Metrioptera	Metrioptera hoermanni	.	.	.	.
+S05560	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Metrioptera	Metrioptera	Metrioptera karnyana	.	.	.	.
+S05570	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Metrioptera	Metrioptera	Metrioptera maritima	.	.	.	.
+S05580	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Metrioptera	Metrioptera	Metrioptera prenjica	.	.	.	.
+S05590	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Metrioptera	Metrioptera	Metrioptera saussuriana	.	.	.	.
+S05600	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Metrioptera	Metrioptera	Metrioptera tsirojanni	.	.	.	.
+S05610	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Metriptera	Metriptera	Metriptera ambigua	.	.	.	.
+S05620	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Metriptera	Metriptera	Metriptera caprai	.	.	.	.
+S05630	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Modestana	Modestana	Modestana ebneri	.	.	.	.
+S05640	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Modestana	Modestana	Modestana modesta	.	.	.	.
+S05650	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Modestana	Modestana	Montana barretii	.	.	.	.
+S05660	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Montana	Montana	Montana carpetana	.	.	.	.
+S05670	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Montana	Montana	Montana decticiformis	.	.	.	.
+S05680	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Montana	Montana	Montana eversmanni	.	.	.	.
+S05690	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Montana	Montana	Montana macedonica	.	.	.	.
+S05700	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Montana	Montana	Montana medvedevi	.	.	.	.
+S05710	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Montana	Montana	Montana montana	.	.	.	.
+S05720	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Montana	Montana	Montana striata	.	.	.	.
+S05730	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Montana	Montana	Montana stricta	.	.	.	.
+S05740	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Motana	Motana	Motana daghestanica	.	.	.	.
+S05750	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Pachytrachis	Pachytrachis	Pachytrachis bosniacus	.	.	.	.
+S05760	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Pachytrachis	Pachytrachis	Pachytrachis frater	.	.	.	.
+S05770	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Pachytrachis	Pachytrachis	Pachytrachis gracilis	.	.	.	.
+S05780	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Pachytrachis	Pachytrachis	Pachytrachis striolatus	.	.	.	.
+S05790	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Pachytrachis	Pachytrachis	Pachytrachis tumidus	.	.	.	.
+S05800	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Parnassiana	Parnassiana	Parnassiana chelmos	.	.	.	.
+S05810	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Parnassiana	Parnassiana	Parnassiana coracis	.	.	.	.
+S05820	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Parnassiana	Parnassiana	Parnassiana dirphys	.	.	.	.
+S05830	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Parnassiana	Parnassiana	Parnassiana fusca	.	.	.	.
+S05840	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Parnassiana	Parnassiana	Parnassiana gionica	.	.	.	.
+S05850	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Parnassiana	Parnassiana	Parnassiana menalon	.	.	.	.
+S05860	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Parnassiana	Parnassiana	Parnassiana nigromarginata	.	.	.	.
+S05870	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Parnassiana	Parnassiana	Parnassiana panaetolikon	.	.	.	.
+S05880	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Parnassiana	Parnassiana	Parnassiana parnassica	.	.	.	.
+S05890	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Parnassiana	Parnassiana	Parnassiana parnon	.	.	.	.
+S05900	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Parnassiana	Parnassiana	Parnassiana tenuis	.	.	.	.
+S05910	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Parnassiana	Parnassiana	Parnassiana tymphiensis	.	.	.	.
+S05920	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Parnassiana	Parnassiana	Parnassiana tymphrestos	.	.	.	.
+S05930	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Platycleis	Platycleis	Platycleis affinis	.	.	.	.
+S05940	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Platycleis	Platycleis	Platycleis albopunctata	.	.	.	.
+S05950	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Platycleis	Platycleis	Platycleis concii	.	.	.	.
+S05960	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Platycleis	Platycleis	Platycleis escalerai	.	.	.	.
+S05970	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Platycleis	Platycleis	Platycleis falx	.	.	.	.
+S05980	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Platycleis	Platycleis	Platycleis grisea	.	.	.	.
+S05990	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Platycleis	Platycleis	Platycleis iberica	.	.	.	.
+S06000	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Platycleis	Platycleis	Platycleis intermedia	.	.	.	.
+S06010	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Platycleis	Platycleis	Platycleis ragusai	misspelled Platycleis ragusei	.	.	.
+S06020	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Platycleis	Platycleis	Platycleis romana	.	.	.	.
+S06030	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Platycleis	Platycleis	Platycleis sabulosa	.	.	.	.
+S06040	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Platycleis	Platycleis	Platycleis waltheri	.	.	.	.
+S06050	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Psorodonotus	Psorodonotus	Psorodonotus fieberi	.	.	.	.
+S06060	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Psorodonotus	Psorodonotus	Psorodonotus illyricus	.	.	.	.
+S06070	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Psorodonotus	Psorodonotus	Psorodonotus macedonicus	.	.	.	.
+S06080	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Psorodonotus	Psorodonotus	Psorodonotus specularis	.	.	.	.
+S06090	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Psorodonotus	Psorodonotus	Psorodonotus venosus	.	.	.	.
+S06100	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Pterolepis	Pterolepis	Pterolepis berberica	.	.	.	.
+S06110	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Pterolepis	Pterolepis	Pterolepis cordubensis	.	.	.	.
+S06120	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Pterolepis	Pterolepis	Pterolepis elymica	.	.	.	.
+S06130	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Pterolepis	Pterolepis	Pterolepis lusitanica	.	.	.	.
+S06140	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Pterolepis	Pterolepis	Pterolepis pedata	Pterolepis parvula	.	.	.
+S06150	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Pterolepis	Pterolepis	Pterolepis spoliata	.	.	.	.
+S06160	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Rhacocleis	Rhacocleis	Rhacocleis agiostratica	.	also Pterolepis	.	.
+S06170	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Rhacocleis	Rhacocleis	Rhacocleis anatolica	.	also Pterolepis	.	.
+S06180	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Rhacocleis	Rhacocleis	Rhacocleis andikithirensis	.	also Pterolepis	.	.
+S06190	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Rhacocleis	Rhacocleis	Rhacocleis annulata	.	also Pterolepis	.	.
+S06200	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Rhacocleis	Rhacocleis	Rhacocleis baccettii	.	also Pterolepis	.	.
+S06210	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Rhacocleis	Rhacocleis	Rhacocleis bonfilsi 	.	also Pterolepis	.	.
+S06220	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Rhacocleis	Rhacocleis	Rhacocleis bucchicii	.	also Pterolepis	.	.
+S06230	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Rhacocleis	Rhacocleis	Rhacocleis corsicana 	Rhacocleis minerva	also Pterolepis	.	.
+S06240	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Rhacocleis	Rhacocleis	Rhacocleis crypta	.	.	.	.
+S06250	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Rhacocleis	Rhacocleis	Rhacocleis derrai 	.	also Pterolepis	.	.
+S06260	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Rhacocleis	Rhacocleis	Rhacocleis distinguenda	.	also Pterolepis	.	.
+S06270	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Rhacocleis	Rhacocleis	Rhacocleis edentata	.	also Pterolepis	.	.
+S06280	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Rhacocleis	Rhacocleis	Rhacocleis ferdinandi 	.	also Pterolepis	.	.
+S06290	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Rhacocleis	Rhacocleis	Rhacocleis germanica	.	also Pterolepis	.	.
+S06300	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Rhacocleis	Rhacocleis	Rhacocleis graeca	.	also Pterolepis	.	.
+S06310	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Rhacocleis	Rhacocleis	Rhacocleis insularis	.	also Pterolepis	.	.
+S06320	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Rhacocleis	Rhacocleis	Rhacocleis japygia	.	also Pterolepis	.	.
+S06330	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Rhacocleis	Rhacocleis	Rhacocleis lithoscirtetes	.	.	.	.
+S06340	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Rhacocleis	Rhacocleis	Rhacocleis maculipedes	Rhacocleis maculipedes	also Anataxius	.	apparently duplicated as Rhacocleis grisea in Species list Europe
+S06350	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Rhacocleis	Rhacocleis	Rhacocleis neglecta	.	also Pterolepis	.	.
+S06360	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Rhacocleis	Rhacocleis	Rhacocleis poneli	.	also Pterolepis	.	.
+S06370	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Rhacocleis	Rhacocleis	Rhacocleis silvestrii	.	also Pterolepis	.	.
+S06380	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Rhacocleis	Rhacocleis	Rhacocleis thyrrhenica	.	also Pterolepis	.	.
+S06390	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Rhacocleis	Rhacocleis	Rhacocleis trilobata	.	also Pterolepis	.	.
+S06400	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Rhacocleis	Rhacocleis	Rhacocleis uvarovi	.	also Pterolepis	.	.
+S06410	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Rhacocleis	Rhacocleis	Rhacocleis werneri	.	also Pterolepis	.	.
+S06420	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Roeseliana	Roeseliana	Roeseliana ambitiosa	.	.	.	.
+S06430	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Roeseliana	Roeseliana	Roeseliana azami	.	.	including minor	.
+S06440	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Roeseliana	Roeseliana	Roeseliana brunneri	.	.	.	.
+S06450	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Roeseliana	Roeseliana	Roeseliana fedtschenkoi	.	.	.	.
+S06460	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Roeseliana	Roeseliana	Roeseliana oporina	.	.	.	.
+S06470	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Roeseliana	Roeseliana	Roeseliana roeselii	.	.	.	.
+S06480	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Sardoplatycleis	Sardoplatycleis	Sardoplatycleis galvagnii	.	.	.	.
+S06490	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Schizonotinus	Schizonotinus	Schizonotinus forficalis	.	.	.	.
+S06500	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Schizonotinus	Schizonotinus	Schizonotinus kerketa	.	.	.	.
+S06510	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Sepiana	Sepiana	Sepiana sepium	.	.	.	.
+S06520	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Sporadiana	Sporadiana	Sporadiana sporadarum	.	also Tessellana	.	.
+S06530	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Tessellana	Tessellana	Tessellana  nigrosignata	.	.	.	.
+S06540	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Tessellana	Tessellana	Tessellana carinata	.	.	.	.
+S06550	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Tessellana	Tessellana	Tessellana lagrecai	.	.	.	.
+S06560	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Tessellana	Tessellana	Tessellana orina	.	.	.	.
+S06570	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Tessellana	Tessellana	Tessellana tessellata	.	.	.	.
+S06580	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Tessellana	Tessellana	Tessellana veyseli	Locusta vittata	.	.	.
+S06590	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Vichetia	Vichetia	Vichetia knipperi 	.	also Metrioptera	.	.
+S06600	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Vichetia	Vichetia	Vichetia oblongicollis	.	also Metrioptera	.	.
+S06610	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Yersinella	Yersinella	Yersinella beybienko	.	.	.	.
+S06620	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Yersinella	Yersinella	Yersinella raymondi	.	.	.	.
+S06630	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Zeuneriana	Zeuneriana	Zeuneriana abbreviata	.	.	.	.
+S06640	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Zeuneriana	Zeuneriana	Zeuneriana amplipennis	.	.	.	.
+S06650	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Zeuneriana	Zeuneriana	Zeuneriana burriana	.	.	.	.
+S06660	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Platycleidini	Zeuneriana	Zeuneriana	Zeuneriana marmorata	.	.	.	.
+S06670	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Tettigoniini	Amphiestris	Amphiestris	Amphiestris baetica	.	.	.	.
+S06680	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Tettigoniini	Medecticus	Medecticus	Medecticus assimilis	.	.	.	.
+S06690	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Tettigoniini	Tettigonia	Tettigonia	Tettigonia balcanica	.	.	.	.
+S06700	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Tettigoniini	Tettigonia	Tettigonia	Tettigonia cantans	.	.	.	.
+S06710	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Tettigoniini	Tettigonia	Tettigonia	Tettigonia caudata	.	.	.	.
+S06720	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Tettigoniini	Tettigonia	Tettigonia	Tettigonia hispanica	.	.	.	.
+S06730	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Tettigoniini	Tettigonia	Tettigonia	Tettigonia longispina	.	.	.	.
+S06740	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Tettigoniini	Tettigonia	Tettigonia	Tettigonia silana 	.	.	.	.
+S06750	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Tettigoniini	Tettigonia	Tettigonia	Tettigonia viridissima	.	.	.	.
+S06760	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Tettigoniini	Thyreonotus	Thyreonotus	Thyreonotus bidens	.	.	.	.
+S06770	Ensifera	Tettigonioidea	Tettigoniidae	Tettigoniinae	Tettigoniini	Thyreonotus	Thyreonotus	Thyreonotus corsicus	.	.	.	.
+S06780	Caelifera	Acridoidea	Acrididae	Acridinae	Acridini	Acrida	Acrida	Acrida bicolor	.	.	.	.
+S06790	Caelifera	Acridoidea	Acrididae	Acridinae	Acridini	Acrida	Acrida	Acrida oxycephala	.	.	.	.
+S06800	Caelifera	Acridoidea	Acrididae	Acridinae	Acridini	Acrida	Acrida	Acrida turrita	.	.	.	.
+S06810	Caelifera	Acridoidea	Acrididae	Acridinae	Acridini	Acrida	Acrida	Acrida ungarica	.	.	.	.
+S06820	Caelifera	Acridoidea	Acrididae	Acridinae	Calephorini	Calephorus	Calephorus	Calephorus compressicornis	.	.	.	.
+S06830	Caelifera	Acridoidea	Acrididae	Acridinae	Other Acridinae	Phlocerus	Phlocerus	Phlocerus menetriesii	.	.	.	.
+S06840	Caelifera	Acridoidea	Acrididae	Acridinae	Other Acridinae	Phlocerus	Phlocerus	Phlocerus zaitzevi	.	.	.	.
+S06850	Caelifera	Acridoidea	Acrididae	Acridinae	Phlaeobini	Duroniella	Duroniella	Duroniella carinata	.	.	.	.
+S06860	Caelifera	Acridoidea	Acrididae	Acridinae	Phlaeobini	Duroniella	Duroniella	Duroniella fracta	.	.	.	.
+S06870	Caelifera	Acridoidea	Acrididae	Acridinae	Phlaeobini	Duroniella	Duroniella	Duroniella gracilis	.	.	.	.
+S06880	Caelifera	Acridoidea	Acrididae	Acridinae	Phlaeobini	Duroniella	Duroniella	Duroniella kalmyka	.	.	.	.
+S06890	Caelifera	Acridoidea	Acrididae	Acridinae	Phlaeobini	Duroniella	Duroniella	Duroniella laticornis	.	.	.	.
+S06900	Caelifera	Acridoidea	Acrididae	Acridinae	Phlaeobini	Duroniella	Duroniella	Duroniella lucasii	.	.	.	.
+S06910	Caelifera	Acridoidea	Acrididae	Acridinae	Truxalini	Truxalis	Truxalis	Truxalis nasuta	.	.	.	.
+S06920	Caelifera	Acridoidea	Acrididae	Calliptaminae	All Calliptaminae	Calliptamus	Calliptamus	Calliptamus barbarus	.	.	.	.
+S06930	Caelifera	Acridoidea	Acrididae	Calliptaminae	All Calliptaminae	Calliptamus	Calliptamus	Calliptamus coelesyriensis	.	.	.	.
+S06940	Caelifera	Acridoidea	Acrididae	Calliptaminae	All Calliptaminae	Calliptamus	Calliptamus	Calliptamus italicus	.	.	.	.
+S06950	Caelifera	Acridoidea	Acrididae	Calliptaminae	All Calliptaminae	Calliptamus	Calliptamus	Calliptamus siciliae	.	.	.	.
+S06960	Caelifera	Acridoidea	Acrididae	Calliptaminae	All Calliptaminae	Calliptamus	Calliptamus	Calliptamus tenuicercis	.	.	.	.
+S06970	Caelifera	Acridoidea	Acrididae	Calliptaminae	All Calliptaminae	Calliptamus	Calliptamus	Calliptamus wattenwylianus	.	.	.	.
+S06980	Caelifera	Acridoidea	Acrididae	Calliptaminae	All Calliptaminae	Paracaloptenus	Paracaloptenus	Paracaloptenus bolivari	.	.	.	.
+S06990	Caelifera	Acridoidea	Acrididae	Calliptaminae	All Calliptaminae	Paracaloptenus	Paracaloptenus	Paracaloptenus caloptenoides	.	.	.	.
+S07000	Caelifera	Acridoidea	Acrididae	Calliptaminae	All Calliptaminae	Paracaloptenus	Paracaloptenus	Paracaloptenus cristatus	.	.	.	.
+S07010	Caelifera	Acridoidea	Acrididae	Cyrtacanthacridinae	Cyrtacanthacridini	Anacridium	Anacridium	Anacridium aegyptium	.	.	.	.
+S07020	Caelifera	Acridoidea	Acrididae	Cyrtacanthacridinae	Cyrtacanthacridini	Schistocerca	Schistocerca	Schistocerca gregaria	.	.	.	.
+S07030	Caelifera	Acridoidea	Acrididae	Cyrtacanthacridinae	Other Cyrtacanthacridinae	Acanthacris	Acanthacris	Acanthacris ruficornis	.	.	.	.
+S07040	Caelifera	Acridoidea	Acrididae	Egnatiinae	Egnatiini	Egnatioides	Egnatioides	Egnatioides desertus	.	.	.	.
+S07050	Caelifera	Acridoidea	Acrididae	Egnatiinae	Egnatiini	Egnatius	Egnatius	Egnatius apicalis	.	.	.	.
+S07060	Caelifera	Acridoidea	Acrididae	Eyprepocnemidinae	Eyprepocnemidini	Eyprepocnemis	Eyprepocnemis	Eyprepocnemis plorans	.	.	.	.
+S07070	Caelifera	Acridoidea	Acrididae	Eyprepocnemidinae	Eyprepocnemidini	Heteracris	Heteracris	Heteracris adspersa	.	.	.	.
+S07080	Caelifera	Acridoidea	Acrididae	Eyprepocnemidinae	Eyprepocnemidini	Heteracris	Heteracris	Heteracris annulosa	.	.	.	.
+S07090	Caelifera	Acridoidea	Acrididae	Eyprepocnemidinae	Eyprepocnemidini	Heteracris	Heteracris	Heteracris littoralis	.	.	.	.
+S07100	Caelifera	Acridoidea	Acrididae	Eyprepocnemidinae	Eyprepocnemidini	Heteracris	Heteracris	Heteracris pterosticha	.	also Thisoicetrinus	.	.
+S07110	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Arcypterini	Arcyptera	Arcyptera (Arcyptera)	Arcyptera (Arcyptera) fusca	.	.	.	.
+S07120	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Arcypterini	Arcyptera	Arcyptera (Arcyptera)	Arcyptera (Arcyptera) tornosi	.	.	.	.
+S07130	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Arcypterini	Arcyptera	Arcyptera (Arcyptera)	Arcyptera (Pararcyptera) alzonai	.	.	.	.
+S07140	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Arcypterini	Arcyptera	Arcyptera (Pararcyptera)	Arcyptera (Pararcyptera) brevipennis	.	.	.	.
+S07150	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Arcypterini	Arcyptera	Arcyptera (Pararcyptera)	Arcyptera (Pararcyptera) kheili	.	.	.	.
+S07160	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Arcypterini	Arcyptera	Arcyptera (Pararcyptera)	Arcyptera (Pararcyptera) labiata	.	.	.	.
+S07170	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Arcypterini	Arcyptera	Arcyptera (Pararcyptera)	Arcyptera (Pararcyptera) microptera	.	.	.	.
+S07180	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Chrysochraontini	Chrysochraon	Chrysochraon	Chrysochraon beybienkoi	.	.	.	.
+S07190	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Chrysochraontini	Chrysochraon	Chrysochraon	Chrysochraon dispar	.	.	.	.
+S07200	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Chrysochraontini	Euchorthippus	Euchorthippus	Euchorthippus albolineatus	.	.	.	.
+S07210	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Chrysochraontini	Euchorthippus	Euchorthippus	Euchorthippus angustulus	.	.	.	.
+S07220	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Chrysochraontini	Euchorthippus	Euchorthippus	Euchorthippus chopardi	.	.	.	.
+S07230	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Chrysochraontini	Euchorthippus	Euchorthippus	Euchorthippus declivus	.	.	.	.
+S07240	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Chrysochraontini	Euchorthippus	Euchorthippus	Euchorthippus elegantulus	.	.	.	.
+S07250	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Chrysochraontini	Euchorthippus	Euchorthippus	Euchorthippus pulvinatus	.	.	.	.
+S07260	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Chrysochraontini	Euchorthippus	Euchorthippus	Euchorthippus sardous	.	.	.	.
+S07270	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Chrysochraontini	Euthystira	Euthystira	Euthystira brachyptera	.	.	.	.
+S07280	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Chrysochraontini	Podismopsis	Podismopsis	Podismopsis keisti	.	.	.	.
+S07290	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Chrysochraontini	Podismopsis	Podismopsis	Podismopsis poppiusi	.	.	.	.
+S07300	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Chrysochraontini	Podismopsis	Podismopsis	Podismopsis relicta	.	.	.	.
+S07310	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Chrysochraontini	Podismopsis	Podismopsis	Podismopsis styriaca	.	.	.	.
+S07320	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Chrysochraontini	Podismopsis	Podismopsis	Podismopsis transsylvana	.	.	.	.
+S07330	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Dociostaurini	Dociostaurus	Dociostaurus (Dociostaurus)	Dociostaurus (Dociostaurus) hispanicus	.	.	.	.
+S07340	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Dociostaurini	Dociostaurus	Dociostaurus (Dociostaurus)	Dociostaurus (Dociostaurus) maroccanus	.	.	.	.
+S07350	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Dociostaurini	Dociostaurus	Dociostaurus (Dociostaurus)	Dociostaurus (Dociostaurus) minutus	.	.	.	.
+S07360	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Dociostaurini	Dociostaurus	Dociostaurus (Kazakia)	Dociostaurus (Kazakia) brevicollis	.	.	.	.
+S07370	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Dociostaurini	Dociostaurus	Dociostaurus (Kazakia)	Dociostaurus (Kazakia) genei	.	.	.	.
+S07380	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Dociostaurini	Dociostaurus	Dociostaurus (Kazakia)	Dociostaurus (Kazakia) jagoi	Dociostaurus monserrati	.	.	.
+S07390	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Dociostaurini	Dociostaurus	Dociostaurus (Kazakia)	Dociostaurus (Kazakia) tartarus	.	.	.	.
+S07400	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Dociostaurini	Dociostaurus	Dociostaurus (Stauronotulus)	Dociostaurus (Stauronotulus) crassiusculus	.	.	.	.
+S07410	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Dociostaurini	Dociostaurus	Dociostaurus (Stauronotulus)	Dociostaurus (Stauronotulus) kraussi	.	.	.	.
+S07420	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Dociostaurini	Eremippus	Eremippus	Eremippus cornatus	.	.	.	.
+S07430	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Dociostaurini	Eremippus	Eremippus	Eremippus costatus	.	.	.	.
+S07440	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Dociostaurini	Eremippus	Eremippus	Eremippus mirami	.	.	.	.
+S07450	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Dociostaurini	Eremippus	Eremippus	Eremippus opacus	.	.	.	.
+S07460	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Dociostaurini	Eremippus	Eremippus	Eremippus simplex	.	.	.	.
+S07470	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Dociostaurini	Eremippus	Eremippus	Eremippus sobolevi	.	.	.	.
+S07480	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Dociostaurini	Notostaurus	Notostaurus	Notostaurus albicornis	.	.	.	.
+S07490	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Dociostaurini	Notostaurus	Notostaurus	Notostaurus anatolicus	.	.	.	.
+S07500	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Dociostaurini	Xerohippus	Xerohippus	Xerohippus occidentalis	.	.	.	.
+S07510	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Dociostaurini	Xerohippus	Xerohippus	Xerohippus solerii	.	.	.	.
+S07520	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Aeropedellus	Aeropedellus	Aeropedellus variegatus	.	.	.	.
+S07530	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Aeropedellus	Aeropedellus	Aeropedellus volgensis	.	.	.	.
+S07540	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Brachycrotaphus	Brachycrotaphus	Brachycrotaphus tryxalicerus	.	.	.	.
+S07550	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Chorthippus)	Chorthippus (Chorthippus) abchasicus	.	.	.	.
+S07560	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Chorthippus)	Chorthippus (Chorthippus) albomarginatus	.	.	.	.
+S07570	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Chorthippus)	Chorthippus (Chorthippus) dichrous	.	.	.	.
+S07580	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Chorthippus)	Chorthippus (Chorthippus) dorsatus	.	.	.	.
+S07590	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Chorthippus)	Chorthippus (Chorthippus) ferdinandi	.	.	.	.
+S07600	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Chorthippus)	Chorthippus (Chorthippus) jucundus	.	.	.	.
+S07610	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Chorthippus)	Chorthippus (Chorthippus) karelini	.	.	.	.
+S07620	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Chorthippus)	Chorthippus (Chorthippus) lacustris	.	.	.	.
+S07630	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Chorthippus)	Chorthippus (Chorthippus) loratus	Chorthippus dessyi	.	.	.
+S07640	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Chorthippus)	Chorthippus (Chorthippus) oschei	.	.	.	.
+S07650	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Chorthippus)	Chorthippus (Chorthippus) smardai	.	.	.	.
+S07660	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) acroleucus	.	.	.	.
+S07670	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) alticola	.	.	.	.
+S07680	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) apicalis	.	.	.	.
+S07690	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) apricarius	.	.	.	.
+S07700	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) ariasi	.	.	.	.
+S07710	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) biguttulus	.	.	.	.
+S07720	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) bionatus	.	.	.	.
+S07730	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) biroi	.	.	.	.
+S07740	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) bornhalmi	.	.	.	.
+S07750	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) brunneus	.	.	.	.
+S07760	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) cazurroi	.	.	.	.
+S07770	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) chloroticus	.	.	.	.
+S07780	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) cialancensis	.	.	.	.
+S07790	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) corsicus	.	.	.	.
+S07800	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) crassiceps	.	.	.	.
+S07810	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) dubius	.	.	.	.
+S07820	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) eisentrauti	.	.	.	.
+S07830	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) elbrusianus	.	.	.	.
+S07840	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) jacobsi	.	.	.	.
+S07850	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) jutlandica	.	.	.	.
+S07860	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) macrocerus	.	.	.	.
+S07870	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) maritimus	.	.	.	.
+S07880	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) messinai	.	.	.	.
+S07890	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) mollis	.	.	including lesinensis	.
+S07900	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) porphyropterus	.	.	.	.
+S07910	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) pulloides	.	.	.	.
+S07920	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) pullus	.	.	.	.
+S07930	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) reissingeri	.	.	.	.
+S07940	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) rubratibialis	.	.	.	.
+S07950	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) sampeyrensis	.	.	.	.
+S07960	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) sangiorgii	.	.	.	.
+S07970	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) saulcyi	.	.	.	.
+S07980	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) trinacriae	.	.	.	.
+S07990	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) vagans	.	.	.	.
+S08000	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) willemsei	.	.	.	.
+S08010	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (Glyptobothrus)	Chorthippus (Glyptobothrus) yersini	.	.	.	.
+S08020	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (NA)	Chorthippus (NA) hirtus	.	.	.	.
+S08030	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (NA)	Chorthippus (NA) moreanus	.	.	.	.
+S08040	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (NA)	Chorthippus (NA) nevadensis	.	.	.	.
+S08050	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Chorthippus	Chorthippus (NA)	Chorthippus (NA) parnon	.	.	.	.
+S08060	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Gomphoceridius	Gomphoceridius	Gomphoceridius brevipennis	.	.	.	.
+S08070	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Gomphocerippus	Gomphocerippus	Gomphocerippus rufus	.	.	.	.
+S08080	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Gomphocerus	Gomphocerus	Gomphocerus sibiricus	.	.	.	.
+S08090	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Italohippus	Italohippus	Italohippus albicornis	.	also Chorthippus	.	.
+S08100	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Italohippus	Italohippus	Italohippus modestus	.	also Chorthippus	.	.
+S08110	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Italohippus	Italohippus	Italohippus monticola	.	also Chorthippus	.	.
+S08120	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Myrmeleotettix	Myrmeleotettix	Myrmeleotettix antennatus	.	.	.	.
+S08130	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Myrmeleotettix	Myrmeleotettix	Myrmeleotettix maculatus	.	.	.	.
+S08140	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Myrmeleotettix	Myrmeleotettix	Myrmeleotettix pallidus	.	.	.	.
+S08150	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Pseudochorthippus	Pseudochorthippus	Pseudochorthippus montanus	.	.	.	.
+S08160	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Pseudochorthippus	Pseudochorthippus	Pseudochorthippus parallelus	.	.	including caffer as a named morph	.
+S08170	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Pseudochorthippus	Pseudochorthippus	Pseudochorthippus tatrae	.	.	.	.
+S08180	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Gomphocerini	Stauroderus	Stauroderus	Stauroderus scalaris	.	.	.	.
+S08190	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Hypernephiini	Caucasippus	Caucasippus	Caucasippus rufipes	.	.	.	.
+S08200	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Ochrilidiini	Ochrilidia	Ochrilidia	Ochrilidia harterti	.	.	.	.
+S08210	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Ochrilidiini	Ochrilidia	Ochrilidia	Ochrilidia nuragica	.	.	.	.
+S08220	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Ochrilidiini	Ochrilidia	Ochrilidia	Ochrilidia pruinosa	.	.	.	.
+S08230	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Ochrilidiini	Ochrilidia	Ochrilidia	Ochrilidia sicula	.	.	.	.
+S08240	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Ochrilidiini	Ochrilidia	Ochrilidia	Ochrilidia tibialis	.	.	.	.
+S08250	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Other Gomphocerinae	Rammeihippus	Rammeihippus	Rammeihippus dinaricus	.	.	.	.
+S08260	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Ramburiellini	Ramburiella	Ramburiella (Palaeocesa)	Ramburiella (Palaeocesa) bolivari	.	.	.	.
+S08270	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Ramburiellini	Ramburiella	Ramburiella (Palaeocesa)	Ramburiella (Palaeocesa) turcomana	.	.	.	.
+S08280	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Ramburiellini	Ramburiella	Ramburiella (Ramburiella)	Ramburiella (Ramburiella) hispanica	.	.	.	.
+S08290	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Omocestus	Omocestus (Dreuxius)	Omocestus (Dreuxius) antigai	Omocestus broelemanni	.	.	.
+S08300	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Omocestus	Omocestus (Dreuxius)	Omocestus (Dreuxius) bolivari	.	.	.	.
+S08310	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Omocestus	Omocestus (Dreuxius)	Omocestus (Dreuxius) femoralis	.	.	.	.
+S08320	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Omocestus	Omocestus (Dreuxius)	Omocestus (Dreuxius) minutissimus	Omocestus burri	.	.	.
+S08330	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Omocestus	Omocestus (Dreuxius)	Omocestus (Dreuxius) navasi	.	.	.	.
+S08340	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Omocestus	Omocestus (Dreuxius)	Omocestus (Dreuxius) uhagonii	.	.	.	.
+S08350	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Omocestus	Omocestus (Omocestus)	Omocestus (Omocestus) africanus 	.	.	.	.
+S08360	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Omocestus	Omocestus (Omocestus)	Omocestus (Omocestus) defauti	.	.	.	.
+S08370	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Omocestus	Omocestus (Omocestus)	Omocestus (Omocestus) haemorrhoidalis	.	.	.	.
+S08380	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Omocestus	Omocestus (Omocestus)	Omocestus (Omocestus) lopadusae	.	.	.	.
+S08390	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Omocestus	Omocestus (Omocestus)	Omocestus (Omocestus) minutus	.	.	.	.
+S08400	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Omocestus	Omocestus (Omocestus)	Omocestus (Omocestus) panteli	.	.	.	.
+S08410	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Omocestus	Omocestus (Omocestus)	Omocestus (Omocestus) petraeus	.	.	.	.
+S08420	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Omocestus	Omocestus (Omocestus)	Omocestus (Omocestus) raymondi	.	.	.	.
+S08430	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Omocestus	Omocestus (Omocestus)	Omocestus (Omocestus) rufipes	.	.	.	.
+S08440	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Omocestus	Omocestus (Omocestus)	Omocestus (Omocestus) uvarovi	.	.	.	.
+S08450	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Omocestus	Omocestus (Omocestus)	Omocestus (Omocestus) viridulus	.	.	.	.
+S08460	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Stenobothrus	Stenobothrus	Stenobothrus apenninus	.	.	.	.
+S08470	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Stenobothrus	Stenobothrus	Stenobothrus bolivarii	.	.	.	.
+S08480	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Stenobothrus	Stenobothrus	Stenobothrus carbonarius	.	.	.	.
+S08490	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Stenobothrus	Stenobothrus	Stenobothrus caucasicus	.	.	.	.
+S08500	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Stenobothrus	Stenobothrus	Stenobothrus clavatus	.	.	.	.
+S08510	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Stenobothrus	Stenobothrus	Stenobothrus cotticus	.	.	.	.
+S08520	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Stenobothrus	Stenobothrus	Stenobothrus crassipes	.	.	.	.
+S08530	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Stenobothrus	Stenobothrus	Stenobothrus croaticus	.	.	.	.
+S08540	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Stenobothrus	Stenobothrus	Stenobothrus eurasius	.	.	.	.
+S08550	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Stenobothrus	Stenobothrus	Stenobothrus festivus	.	.	.	.
+S08560	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Stenobothrus	Stenobothrus	Stenobothrus fischeri	.	.	.	.
+S08570	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Stenobothrus	Stenobothrus	Stenobothrus graecus	.	.	.	.
+S08580	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Stenobothrus	Stenobothrus	Stenobothrus grammicus	.	.	.	.
+S08590	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Stenobothrus	Stenobothrus	Stenobothrus lineatus	.	.	.	.
+S08600	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Stenobothrus	Stenobothrus	Stenobothrus miramae	.	.	.	.
+S08610	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Stenobothrus	Stenobothrus	Stenobothrus mistshenkoi	Stenobothrus monticola	.	.	.
+S08620	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Stenobothrus	Stenobothrus	Stenobothrus nigromaculatus	Stenobothrus bulgaricus	.	.	.
+S08630	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Stenobothrus	Stenobothrus	Stenobothrus posthumus	.	.	.	.
+S08640	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Stenobothrus	Stenobothrus	Stenobothrus rubicundulus	.	.	.	.
+S08650	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Stenobothrus	Stenobothrus	Stenobothrus stigmaticus	.	.	.	.
+S08660	Caelifera	Acridoidea	Acrididae	Gomphocerinae	Stenobothrini	Stenobothrus	Stenobothrus	Stenobothrus ursulae	.	.	.	.
+S08670	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Bohemanella	Bohemanella	Bohemanella frigida	.	.	.	.
+S08880	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Capraiuscola	Capraiuscola	Capraiuscola ebneri 	.	.	.	.
+S08680	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Chortopodisma	Chortopodisma	Chortopodisma cobellii	.	.	.	.
+S08690	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Cophopodisma	Cophopodisma	Cophopodisma iberica	.	.	.	.
+S08700	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Cophopodisma	Cophopodisma	Cophopodisma pyrenaea	.	.	.	.
+S08710	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Epipodisma	Epipodisma	Epipodisma pedemontana	.	.	.	.
+S08720	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Italopodisma	Italopodisma	Italopodisma acuminata	.	.	.	.
+S08730	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Italopodisma	Italopodisma	Italopodisma baccettii	.	.	.	.
+S08740	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Italopodisma	Italopodisma	Italopodisma costae	.	.	.	.
+S08750	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Italopodisma	Italopodisma	Italopodisma ebneri	.	also Miramella	.	.
+S08760	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Italopodisma	Italopodisma	Italopodisma fiscellana	.	.	.	.
+S08770	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Italopodisma	Italopodisma	Italopodisma lagrecai	.	.	.	.
+S08780	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Italopodisma	Italopodisma	Italopodisma lucianae	.	.	.	.
+S08790	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Italopodisma	Italopodisma	Italopodisma samnitica	.	.	.	.
+S08800	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Italopodisma	Italopodisma	Italopodisma trapezoidalis	.	.	.	.
+S08810	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Micropodisma	Micropodisma	Micropodisma koenigi	.	.	.	.
+S08820	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Micropodisma	Micropodisma	Micropodisma salamandra	.	.	.	.
+S08830	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Micropodisma	Micropodisma	Micropodisma svanetica	.	.	.	.
+S08840	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Miramella	Miramella (Galvagniella)	Miramella (Galvagniella) albanica	.	.	.	.
+S08850	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Miramella	Miramella (Kisella)	Miramella (Kisella) alpina	.	.	including subalpina	.
+S08860	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Miramella	Miramella (Kisella)	Miramella (Kisella) carinthiaca	.	.	.	.
+S08870	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Miramella	Miramella (Kisella)	Miramella (Kisella) irena	.	.	.	.
+S08890	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Nadigella	Nadigella	Nadigella formosanta	.	.	.	.
+S08900	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Odontopodisma	Odontopodisma	Odontopodisma acuminata	.	.	.	.
+S08910	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Odontopodisma	Odontopodisma	Odontopodisma albanica	.	.	.	.
+S08920	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Odontopodisma	Odontopodisma	Odontopodisma carpathica	.	.	.	.
+S08930	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Odontopodisma	Odontopodisma	Odontopodisma decipiens	.	.	.	.
+S08940	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Odontopodisma	Odontopodisma	Odontopodisma fallax	Odontopodisma rammei	.	.	.
+S08950	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Odontopodisma	Odontopodisma	Odontopodisma montana	.	.	.	.
+S08960	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Odontopodisma	Odontopodisma	Odontopodisma rubripes	.	.	.	.
+S08970	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Odontopodisma	Odontopodisma	Odontopodisma schmidtii	.	.	.	.
+S08980	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Oropodisma	Oropodisma	Oropodisma chelmosi	.	.	.	.
+S08990	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Oropodisma	Oropodisma	Oropodisma erymanthosi	.	.	.	.
+S09000	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Oropodisma	Oropodisma	Oropodisma karavica	.	.	.	.
+S09010	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Oropodisma	Oropodisma	Oropodisma kylinii	.	.	.	.
+S09020	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Oropodisma	Oropodisma	Oropodisma lagrecai	.	.	.	.
+S09030	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Oropodisma	Oropodisma	Oropodisma macedonica	.	.	.	.
+S09040	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Oropodisma	Oropodisma	Oropodisma parnassica	.	.	.	.
+S09050	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Oropodisma	Oropodisma	Oropodisma taygetosi	.	.	.	.
+S09060	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Oropodisma	Oropodisma	Oropodisma tymphrestosi	.	.	.	.
+S09070	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Oropodisma	Oropodisma	Oropodisma willemsei	.	.	.	.
+S09080	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Pachypodisma	Pachypodisma	Pachypodisma crassa	.	.	.	.
+S09090	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Pachypodisma	Pachypodisma	Pachypodisma lezgina	.	.	.	.
+S09100	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Peripodisma	Peripodisma	Peripodisma ceraunii	.	.	.	.
+S09110	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Peripodisma	Peripodisma	Peripodisma llofizii	.	.	.	.
+S09120	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Peripodisma	Peripodisma	Peripodisma tymphii	.	.	.	.
+S09130	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Podisma	Podisma	Podisma amedegnatoae	.	.	.	.
+S09140	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Podisma	Podisma	Podisma cantabricae	.	.	.	.
+S09150	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Podisma	Podisma	Podisma carpetana	.	.	.	.
+S09160	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Podisma	Podisma	Podisma dechambrei	.	.	.	.
+S09170	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Podisma	Podisma	Podisma eitschbergeri	.	.	.	.
+S09180	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Podisma	Podisma	Podisma emiliae	.	.	.	.
+S09190	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Podisma	Podisma	Podisma goidanichi	.	.	.	.
+S09200	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Podisma	Podisma	Podisma magdalenae	.	.	.	.
+S09210	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Podisma	Podisma	Podisma pedestris	.	.	.	.
+S09220	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Podisma	Podisma	Podisma ruffoi	.	.	.	.
+S09230	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Podisma	Podisma	Podisma satunini	.	.	.	.
+S09240	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Podisma	Podisma	Podisma silvestrii	.	.	.	.
+S09250	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Podisma	Podisma	Podisma teberdina	.	.	.	.
+S09260	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Podisma	Podisma	Podisma uvarovi	.	.	.	.
+S09270	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Pseudopodisma	Pseudopodisma	Pseudopodisma fieberi	.	.	.	.
+S09280	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Pseudopodisma	Pseudopodisma	Pseudopodisma nagyi	.	.	.	.
+S09290	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Pseudopodisma	Pseudopodisma	Pseudopodisma transilvanica	.	.	.	.
+S09300	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Pseudoprumna	Pseudoprumna	Pseudoprumna baldensis	.	.	.	.
+S09310	Caelifera	Acridoidea	Acrididae	Melanoplinae	Podismini	Zubovskya	Zubovskya	Zubovskya banatica	.	.	.	very different taxonimic position on GoE
+S09320	Caelifera	Acridoidea	Acrididae	Oedipodinae	Acrotylini	Acrotylus	Acrotylus	Acrotylus fischeri	.	.	.	.
+S09330	Caelifera	Acridoidea	Acrididae	Oedipodinae	Acrotylini	Acrotylus	Acrotylus	Acrotylus insubricus	.	.	including braudi	.
+S09340	Caelifera	Acridoidea	Acrididae	Oedipodinae	Acrotylini	Acrotylus	Acrotylus	Acrotylus longipes	.	.	.	.
+S09350	Caelifera	Acridoidea	Acrididae	Oedipodinae	Acrotylini	Acrotylus	Acrotylus	Acrotylus patruelis	.	.	.	.
+S09360	Caelifera	Acridoidea	Acrididae	Oedipodinae	Bryodemini	Bryodema	Bryodema	Bryodema gebleri	.	.	.	.
+S09370	Caelifera	Acridoidea	Acrididae	Oedipodinae	Bryodemini	Bryodemella	Bryodemella (Bryodemella)	Bryodemella (Bryodemella) tuberculatum	.	.	.	.
+S09380	Caelifera	Acridoidea	Acrididae	Oedipodinae	Epacromiini	Aiolopus	Aiolopus	Aiolopus puissanti	.	.	.	.
+S09390	Caelifera	Acridoidea	Acrididae	Oedipodinae	Epacromiini	Aiolopus	Aiolopus	Aiolopus simulatrix	.	.	.	.
+S09400	Caelifera	Acridoidea	Acrididae	Oedipodinae	Epacromiini	Aiolopus	Aiolopus	Aiolopus strepens	.	.	.	.
+S09410	Caelifera	Acridoidea	Acrididae	Oedipodinae	Epacromiini	Aiolopus	Aiolopus	Aiolopus thalassinus	.	.	.	.
+S09420	Caelifera	Acridoidea	Acrididae	Oedipodinae	Epacromiini	Epacromius	Epacromius	Epacromius coerulipes	.	.	.	.
+S09430	Caelifera	Acridoidea	Acrididae	Oedipodinae	Epacromiini	Epacromius	Epacromius	Epacromius pulverulentus	.	.	.	.
+S09440	Caelifera	Acridoidea	Acrididae	Oedipodinae	Epacromiini	Epacromius	Epacromius	Epacromius tergestinus	.	.	.	.
+S09450	Caelifera	Acridoidea	Acrididae	Oedipodinae	Epacromiini	Paracinema	Paracinema	Paracinema tricolor	.	.	.	.
+S09460	Caelifera	Acridoidea	Acrididae	Oedipodinae	Epacromiini	Platypygius	Platypygius	Platypygius crassus	.	.	.	.
+S09470	Caelifera	Acridoidea	Acrididae	Oedipodinae	Epacromiini	Platypygius	Platypygius	Platypygius platypygius	.	.	.	.
+S09480	Caelifera	Acridoidea	Acrididae	Oedipodinae	Locustini	Locusta	Locusta	Locusta migratoria	.	.	.	.
+S09490	Caelifera	Acridoidea	Acrididae	Oedipodinae	Locustini	Oedaleus	Oedaleus	Oedaleus decorus	.	.	.	.
+S09500	Caelifera	Acridoidea	Acrididae	Oedipodinae	Locustini	Psophus	Psophus	Psophus stridulus	.	.	.	.
+S09510	Caelifera	Acridoidea	Acrididae	Oedipodinae	Locustini	Pyrgodera	Pyrgodera	Pyrgodera armata	.	.	.	.
+S09520	Caelifera	Acridoidea	Acrididae	Oedipodinae	Locustini	Scintharista	Scintharista	Scintharista notabilis	.	.	.	.
+S09530	Caelifera	Acridoidea	Acrididae	Oedipodinae	Oedipodini	Celes	Celes	Celes variabilis	.	.	.	.
+S09540	Caelifera	Acridoidea	Acrididae	Oedipodinae	Oedipodini	Mioscirtus	Mioscirtus	Mioscirtus wagneri	.	.	.	.
+S09550	Caelifera	Acridoidea	Acrididae	Oedipodinae	Oedipodini	Oedipoda	Oedipoda	Oedipoda aurea	.	.	.	.
+S09560	Caelifera	Acridoidea	Acrididae	Oedipodinae	Oedipodini	Oedipoda	Oedipoda	Oedipoda caerulescens	.	.	.	.
+S09570	Caelifera	Acridoidea	Acrididae	Oedipodinae	Oedipodini	Oedipoda	Oedipoda	Oedipoda charpentieri	.	.	.	.
+S09580	Caelifera	Acridoidea	Acrididae	Oedipodinae	Oedipodini	Oedipoda	Oedipoda	Oedipoda coerulea	.	.	.	.
+S09590	Caelifera	Acridoidea	Acrididae	Oedipodinae	Oedipodini	Oedipoda	Oedipoda	Oedipoda cynthiae	.	.	.	.
+S09600	Caelifera	Acridoidea	Acrididae	Oedipodinae	Oedipodini	Oedipoda	Oedipoda	Oedipoda fuscocincta	.	.	.	.
+S09610	Caelifera	Acridoidea	Acrididae	Oedipodinae	Oedipodini	Oedipoda	Oedipoda	Oedipoda germanica	.	.	including meridionalis	.
+S09620	Caelifera	Acridoidea	Acrididae	Oedipodinae	Oedipodini	Oedipoda	Oedipoda	Oedipoda miniata	.	.	.	.
+S09630	Caelifera	Acridoidea	Acrididae	Oedipodinae	Oedipodini	Oedipoda	Oedipoda	Oedipoda schochii	.	.	.	.
+S09640	Caelifera	Acridoidea	Acrididae	Oedipodinae	Oedipodini	Oedipoda	Oedipoda	Oedipoda venusta	.	.	.	.
+S09650	Caelifera	Acridoidea	Acrididae	Oedipodinae	Other Oedipodinae	Leptopternis	Leptopternis	Leptopternis gracilis	.	.	.	.
+S09660	Caelifera	Acridoidea	Acrididae	Oedipodinae	Other Oedipodinae	Morphacris	Morphacris	Morphacris fasciata	.	.	.	.
+S09670	Caelifera	Acridoidea	Acrididae	Oedipodinae	Parapleurini	Mecostethus	Mecostethus	Mecostethus parapleurus	.	.	.	.
+S09680	Caelifera	Acridoidea	Acrididae	Oedipodinae	Parapleurini	Stethophyma	Stethophyma	Stethophyma grossum	.	.	.	.
+S09690	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Hyalorrhipis	Hyalorrhipis	Hyalorrhipis clausii	.	.	.	.
+S09700	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Pseudoceles	Pseudoceles	Pseudoceles obscurus	.	.	.	.
+S09710	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Pseudoceles	Pseudoceles	Pseudoceles oedipodioides	.	.	.	.
+S09720	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Sphingoderus	Sphingoderus	Sphingoderus carinatus	.	.	.	.
+S09730	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Sphingonotus	Sphingonotus (Neosphingonotus)	Sphingonotus (Neosphingonotus) almeriense	.	.	.	.
+S09740	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Sphingonotus	Sphingonotus (Neosphingonotus)	Sphingonotus (Neosphingonotus) azurescens	.	.	.	.
+S09750	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Sphingonotus	Sphingonotus (Neosphingonotus)	Sphingonotus (Neosphingonotus) morini	.	.	.	.
+S09760	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Sphingonotus	Sphingonotus (Neosphingonotus)	Sphingonotus (Neosphingonotus) nodulosus	.	.	.	.
+S09770	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Sphingonotus	Sphingonotus (Neosphingonotus)	Sphingonotus (Neosphingonotus) pachecoi	.	.	.	.
+S09780	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Sphingonotus	Sphingonotus (Sphingonotus)	Sphingonotus (Sphingonotus) arenarius	.	.	.	.
+S09790	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Sphingonotus	Sphingonotus (Sphingonotus)	Sphingonotus (Sphingonotus) caerulans	.	.	.	.
+S09800	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Sphingonotus	Sphingonotus (Sphingonotus)	Sphingonotus (Sphingonotus) candidus	.	also Leptopternis	.	.
+S09810	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Sphingonotus	Sphingonotus (Sphingonotus)	Sphingonotus (Sphingonotus) coerulipes	.	.	.	.
+S09820	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Sphingonotus	Sphingonotus (Sphingonotus)	Sphingonotus (Sphingonotus) corsicus	.	.	.	.
+S09830	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Sphingonotus	Sphingonotus (Sphingonotus)	Sphingonotus (Sphingonotus) crivellarii	.	.	.	.
+S09840	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Sphingonotus	Sphingonotus (Sphingonotus)	Sphingonotus (Sphingonotus) eurasius	.	.	.	.
+S09850	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Sphingonotus	Sphingonotus (Sphingonotus)	Sphingonotus (Sphingonotus) gypsicola	.	.	.	.
+S09860	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Sphingonotus	Sphingonotus (Sphingonotus)	Sphingonotus (Sphingonotus) halocnemi	.	.	.	.
+S09870	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Sphingonotus	Sphingonotus (Sphingonotus)	Sphingonotus (Sphingonotus) halophilus	.	.	.	.
+S09880	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Sphingonotus	Sphingonotus (Sphingonotus)	Sphingonotus (Sphingonotus) imitans	.	also Jacobsiella	.	.
+S09890	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Sphingonotus	Sphingonotus (Sphingonotus)	Sphingonotus (Sphingonotus) lluciapomaresi	.	.	.	.
+S09900	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Sphingonotus	Sphingonotus (Sphingonotus)	Sphingonotus (Sphingonotus) lusitanicus	.	.	.	.
+S09910	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Sphingonotus	Sphingonotus (Sphingonotus)	Sphingonotus (Sphingonotus) maculatus	.	.	.	.
+S09920	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Sphingonotus	Sphingonotus (Sphingonotus)	Sphingonotus (Sphingonotus) obscuratus	.	.	.	.
+S09930	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Sphingonotus	Sphingonotus (Sphingonotus)	Sphingonotus (Sphingonotus) octofasciatus	.	.	.	.
+S09940	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Sphingonotus	Sphingonotus (Sphingonotus)	Sphingonotus (Sphingonotus) personatus	.	also Leptopternis	.	.
+S09950	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Sphingonotus	Sphingonotus (Sphingonotus)	Sphingonotus (Sphingonotus) rubescens	.	.	.	.
+S09960	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Sphingonotus	Sphingonotus (Sphingonotus)	Sphingonotus (Sphingonotus) salinus	.	.	.	.
+S09970	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Sphingonotus	Sphingonotus (Sphingonotus)	Sphingonotus (Sphingonotus) savignyi	.	.	.	.
+S09980	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Sphingonotus	Sphingonotus (Sphingonotus)	Sphingonotus (Sphingonotus) uvarovi	.	.	.	.
+S09990	Caelifera	Acridoidea	Acrididae	Oedipodinae	Sphingonotini	Thalpomena	Thalpomena	Thalpomena algeriana	.	.	.	.
+S10000	Caelifera	Acridoidea	Acrididae	Pezotettiginae	Pezotettigini	Pezotettix	Pezotettix	Pezotettix anatolica	.	.	.	"inofficial tribe name (only a single genus in Europe, two in the world)"
+S10010	Caelifera	Acridoidea	Acrididae	Pezotettiginae	Pezotettigini	Pezotettix	Pezotettix	Pezotettix giornae	.	.	.	"inofficial tribe name (only a single genus in Europe, two in the world)"
+S10020	Caelifera	Acridoidea	Acrididae	Pezotettiginae	Pezotettigini	Pezotettix	Pezotettix	Pezotettix lagoi	.	.	.	"inofficial tribe name (only a single genus in Europe, two in the world)"
+S10030	Caelifera	Acridoidea	Acrididae	Tropidopolinae	Tropidopolini	Tropidopola	Tropidopola	Tropidopola cylindrica	.	.	.	.
+S10040	Caelifera	Acridoidea	Acrididae	Tropidopolinae	Tropidopolini	Tropidopola	Tropidopola	Tropidopola graeca	.	.	.	.
+S10050	Caelifera	Acridoidea	Acrididae	Tropidopolinae	Tropidopolini	Tropidopola	Tropidopola	Tropidopola longicornis	.	.	.	.
+S10060	Caelifera	Acridoidea	Dericorythidae	Dericorythinae	Dericorythini	Dericorys	Dericorys	Dericorys carthagenovae	.	.	.	"inofficial tribe name (only a single genus in Europe, five in the world)"
+S10070	Caelifera	Acridoidea	Dericorythidae	Dericorythinae	Dericorythini	Dericorys	Dericorys	Dericorys tibialis	.	.	.	"inofficial tribe name (only a single genus in Europe, five in the world)"
+S10080	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Euryparyphini	Euryparyphes	Euryparyphes	Euryparyphes bolivari	.	.	.	.
+S10090	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Euryparyphini	Euryparyphes	Euryparyphes	Euryparyphes laetus	Euryparyphes stalii	.	.	.
+S10100	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Euryparyphini	Euryparyphes	Euryparyphes	Euryparyphes terrulentus	.	.	.	.
+S10110	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Nocarodeini	Nocaracris	Nocaracris	Nocaracris bulgaricus	.	also Paranocaracris	.	.
+S10120	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Nocarodeini	Nocaracris	Nocaracris	Nocaracris cyanipes	.	.	.	.
+S10130	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Nocarodeini	Nocaracris	Nocaracris	Nocaracris istanbul	.	.	.	.
+S10140	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Nocarodeini	Nocaracris	Nocaracris	Nocaracris latipes	.	also Paranocaracris	.	.
+S10150	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Nocarodeini	Nocaracris	Nocaracris	Nocaracris rimansonae	.	also Paranocaracris	.	.
+S10160	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Nocarodeini	Nocaracris	Nocaracris	Nocaracris rubripes	.	also Paranocaracris	.	.
+S10170	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Nocarodeini	Nocarodes	Nocarodes	Nocarodes daghestanicus	.	.	including loripes	.
+S10180	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Nocarodeini	Nocarodes	Nocarodes	Nocarodes geniculatus	.	.	.	.
+S10190	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Nocarodeini	Paranocarodes	Paranocarodes	Paranocarodes chopardi	.	.	.	.
+S10200	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Nocarodeini	Paranocarodes	Paranocarodes	Paranocarodes fieberi	.	.	.	.
+S10210	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Nocarodeini	Paranocarodes	Paranocarodes	Paranocarodes straubei	.	.	.	.
+S10220	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Acinipe	Acinipe	Acinipe calabra	.	.	.	.
+S10230	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Acinipe	Acinipe	Acinipe comptei	.	.	.	.
+S10240	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Acinipe	Acinipe	Acinipe deceptoria	.	.	.	.
+S10250	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Acinipe	Acinipe	Acinipe eulaliae	.	.	.	.
+S10260	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Acinipe	Acinipe	Acinipe galvagnii	.	.	.	.
+S10270	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Acinipe	Acinipe	Acinipe hesperica	.	.	.	.
+S10280	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Acinipe	Acinipe	Acinipe ignatii	.	.	.	.
+S10290	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Acinipe	Acinipe	Acinipe mabillei	Acinipe affinis	.	.	.
+S10300	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Acinipe	Acinipe	Acinipe paulinoi	.	.	.	.
+S10310	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Acinipe	Acinipe	Acinipe perisi	.	.	.	.
+S10320	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Acinipe	Acinipe	Acinipe segurensis	.	.	.	.
+S10330	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Acinipe	Acinipe	Acinipe tibialis	.	.	.	.
+S10340	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Eumigus	Eumigus	Eumigus ayresi	.	.	.	.
+S10350	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Eumigus	Eumigus	Eumigus cucullatus	.	.	.	.
+S10360	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Eumigus	Eumigus	Eumigus monticolus	.	.	.	.
+S10370	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Eumigus	Eumigus	Eumigus punctatus	.	.	.	.
+S10380	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Eumigus	Eumigus	Eumigus rubioi	.	.	.	.
+S10390	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Kurtharzia	Kurtharzia	Kurtharzia nugatoria	.	.	.	.
+S10400	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Kurtharzia	Kurtharzia	Kurtharzia sulcata	.	.	.	.
+S10410	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Ocneridia	Ocneridia	Ocneridia nigropunctata	.	.	.	.
+S10420	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Ocnerodes	Ocnerodes	Ocnerodes brunneri	.	.	.	.
+S10430	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Ocnerodes	Ocnerodes	Ocnerodes fallaciosus	.	.	.	.
+S10440	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Ocnerodes	Ocnerodes	Ocnerodes prosternalsi	.	.	.	.
+S10450	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Ocnerodes	Ocnerodes	Ocnerodes soleri	.	.	.	.
+S10460	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Orchamus	Orchamus	Orchamus kaltenbachi	.	.	.	.
+S10470	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Orchamus	Orchamus	Orchamus raulinii	.	.	.	.
+S10480	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Orchamus	Orchamus	Orchamus yersini	.	.	.	.
+S10490	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Pamphagus	Pamphagus	Pamphagus marmoratus	.	.	.	.
+S10500	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Pamphagus	Pamphagus	Pamphagus ortolaniae	.	.	.	.
+S10510	Caelifera	Acridoidea	Pamphagidae	Pamphaginae	Pamphagini	Pamphagus	Pamphagus	Pamphagus sardeus	.	.	.	.
+S10520	Caelifera	Acridoidea	Pamphagidae	Thrinchinae	Thrinchini	Asiotmethis	Asiotmethis	Asiotmethis limbatus	.	.	.	.
+S10530	Caelifera	Acridoidea	Pamphagidae	Thrinchinae	Thrinchini	Asiotmethis	Asiotmethis	Asiotmethis muricatus	.	.	.	.
+S10540	Caelifera	Acridoidea	Pamphagidae	Thrinchinae	Thrinchini	Asiotmethis	Asiotmethis	Asiotmethis tauricus	.	.	.	.
+S10550	Caelifera	Acridoidea	Pamphagidae	Thrinchinae	Thrinchini	Asiotmethis	Asiotmethis	Asiotmethis turritus	.	.	.	.
+S10560	Caelifera	Acridoidea	Pamphagidae	Thrinchinae	Thrinchini	Glyphanus	Glyphanus	Glyphanus obtusus	.	.	.	.
+S10570	Caelifera	Acridoidea	Pamphagidae	Thrinchinae	Thrinchini	Glyphotmethis	Glyphotmethis	Glyphotmethis heldreichi	.	.	.	.
+S10580	Caelifera	Acridoidea	Pamphagidae	Thrinchinae	Thrinchini	Prionotropis	Prionotropis	Prionotropis appula	.	.	.	.
+S10590	Caelifera	Acridoidea	Pamphagidae	Thrinchinae	Thrinchini	Prionotropis	Prionotropis	Prionotropis azami	.	.	.	.
+S10600	Caelifera	Acridoidea	Pamphagidae	Thrinchinae	Thrinchini	Prionotropis	Prionotropis	Prionotropis flexuosa	.	.	.	.
+S10610	Caelifera	Acridoidea	Pamphagidae	Thrinchinae	Thrinchini	Prionotropis	Prionotropis	Prionotropis hystrix	.	.	.	.
+S10620	Caelifera	Acridoidea	Pamphagidae	Thrinchinae	Thrinchini	Prionotropis	Prionotropis	Prionotropis rhodanica	.	.	.	.
+S10630	Caelifera	Acridoidea	Pamphagidae	Thrinchinae	Thrinchini	Prionotropis	Prionotropis	Prionotropis willemsorum	.	.	.	.
+S10640	Caelifera	Pyrgomorphoidea	Pyrgomorphidae	Pyrgomorphinae	Pyrgomorphini	Pyrgomorpha	Pyrgomorpha (Pyrgomorpha)	Pyrgomorpha (Pyrgomorpha) bispinosa	.	.	.	.
+S10650	Caelifera	Pyrgomorphoidea	Pyrgomorphidae	Pyrgomorphinae	Pyrgomorphini	Pyrgomorpha	Pyrgomorpha (Pyrgomorpha)	Pyrgomorpha (Pyrgomorpha) cognata	.	.	.	.
+S10660	Caelifera	Pyrgomorphoidea	Pyrgomorphidae	Pyrgomorphinae	Pyrgomorphini	Pyrgomorpha	Pyrgomorpha (Pyrgomorpha)	Pyrgomorpha (Pyrgomorpha) conica	.	.	.	.
+S10670	Caelifera	Pyrgomorphoidea	Pyrgomorphidae	Pyrgomorphinae	Pyrgomorphini	Pyrgomorphula	Pyrgomorphula	Pyrgomorphula serbica	.	also Pyrgomorphella	.	.
+S10680	Caelifera	Tetrigoidea	Tetrigidae	Tetriginae	Tetrigini	Paratettix	Paratettix	Paratettix meridionalis	.	.	.	.
+S10690	Caelifera	Tetrigoidea	Tetrigidae	Tetriginae	Tetrigini	Tetrix	Tetrix	Tetrix bipunctata	.	.	.	.
+S10700	Caelifera	Tetrigoidea	Tetrigidae	Tetriginae	Tetrigini	Tetrix	Tetrix	Tetrix bolivari	.	.	.	.
+S10710	Caelifera	Tetrigoidea	Tetrigidae	Tetriginae	Tetrigini	Tetrix	Tetrix	Tetrix ceperoi	.	.	.	.
+S10720	Caelifera	Tetrigoidea	Tetrigidae	Tetriginae	Tetrigini	Tetrix	Tetrix	Tetrix depressa	.	also Uvarovitettix	.	.
+S10730	Caelifera	Tetrigoidea	Tetrigidae	Tetriginae	Tetrigini	Tetrix	Tetrix	Tetrix fuliginosa	.	.	.	.
+S10740	Caelifera	Tetrigoidea	Tetrigidae	Tetriginae	Tetrigini	Tetrix	Tetrix	Tetrix kraussi	.	.	.	.
+S10750	Caelifera	Tetrigoidea	Tetrigidae	Tetriginae	Tetrigini	Tetrix	Tetrix	Tetrix nodulosa	.	also Uvarovitettix	.	.
+S10760	Caelifera	Tetrigoidea	Tetrigidae	Tetriginae	Tetrigini	Tetrix	Tetrix	Tetrix subulata	.	.	.	.
+S10770	Caelifera	Tetrigoidea	Tetrigidae	Tetriginae	Tetrigini	Tetrix	Tetrix	Tetrix tenuicornis	Tetrix nutans	.	.	.
+S10780	Caelifera	Tetrigoidea	Tetrigidae	Tetriginae	Tetrigini	Tetrix	Tetrix	Tetrix transsylvanica	.	also Uvarovitettix	.	.
+S10790	Caelifera	Tetrigoidea	Tetrigidae	Tetriginae	Tetrigini	Tetrix	Tetrix	Tetrix tuerki	.	.	.	.
+S10800	Caelifera	Tetrigoidea	Tetrigidae	Tetriginae	Tetrigini	Tetrix	Tetrix	Tetrix undulata	.	.	.	.
+S10810	Caelifera	Tridactyloidea	Tridactylidae	Dentridactylinae	Dentridactylini	Bruntridactylus	Bruntridactylus	Bruntridactylus irremipes	.	.	.	"inofficial tribe name (only a single genus in Europe, three in the world)"
+S10820	Caelifera	Tridactyloidea	Tridactylidae	Dentridactylinae	Dentridactylini	Bruntridactylus	Bruntridactylus	Bruntridactylus tartarus	.	.	.	"inofficial tribe name (only a single genus in Europe, three in the world)"
+S10830	Caelifera	Tridactyloidea	Tridactylidae	Tridactylinae	All Tridactylinae	Asiotridactylus	Asiotridactylus	Asiotridactylus fasciatus	.	also Tridactylus	.	.
+S10840	Caelifera	Tridactyloidea	Tridactylidae	Tridactylinae	All Tridactylinae	Xya	Xya	Xya iberica	.	.	.	.
+S10850	Caelifera	Tridactyloidea	Tridactylidae	Tridactylinae	All Tridactylinae	Xya	Xya	Xya pfaendleri	.	.	.	.
+S10860	Caelifera	Tridactyloidea	Tridactylidae	Tridactylinae	All Tridactylinae	Xya	Xya	Xya variegata	.	.	.	.

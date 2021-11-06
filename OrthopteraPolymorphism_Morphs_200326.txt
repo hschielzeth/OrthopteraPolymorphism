@@ -1,0 +1,1087 @@
+SpecID	Species	Wings	Green	Brown	Combined	Polymorphic	Pied	SexualDimorphism	AgeDependence	OtherVariants	RemarksMorphs	SourceMorphs
+S00010	Acheta domesticus	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00020	Acheta gossypii	long	absent	mono	absent-mono	brown	absent	absent	absent	.	only once ever recorded	.
+S00030	Acheta hispanicus	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	google search only few individuals
+S00040	Gryllodinus kerkennensis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00050	Gryllodinus odicus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	multiple google search images
+S00060	Gryllus (Gryllus) bimaculatus	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00070	Gryllus (Gryllus) campestris	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00080	Melanogryllus desertus	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00090	Svercus palmetorum	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00100	Tartarogryllus sandanski	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S00110	Tartarogryllus tartarus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00120	Eumodicogryllus bordigalensis	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00130	Eumodicogryllus theryi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00140	Gryllodes sigillatus	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00150	Gryllopsis caspicus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	multiple google search images
+S00160	Modicogryllus (Modicogryllus) algirius	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00170	Modicogryllus (Modicogryllus) frontalis	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00180	Modicogryllus (Modicogryllus) pallipalpis	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S00190	Modicogryllus (Modicogryllus) truncatus	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00200	Brachytrupes megacephalus	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00210	Grylloderes brunneri	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00220	Grylloderes orlovskajae	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S00230	Sciobia (Sciobia) barbara	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S00240	Sciobia (Sciobia) boscai	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	a few images google search
+S00250	Sciobia (Sciobia) lusitanica	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00260	Sciobia (Thliptoblemmus) caliendra	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	few images on google search
+S00270	Sciobia (Thliptoblemmus) natalia	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00280	Turanogryllus lateralis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	"google search only few individuals, http://www.biodiversity-georgia.net/gallery.php?taxon=Gryllidae"
+S00290	Eugryllodes escalerae	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00300	Eugryllodes littoreus	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S00310	Eugryllodes pipiens	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00320	Gryllomorpha (Gryllomorpha) dalmatina	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	multiple google search images
+S00330	Gryllomorpha (Gryllomorpha) longicauda	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	multiple google search images
+S00340	Gryllomorpha (Gryllomorphella) albanica	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00350	Gryllomorpha (Gryllomorphella) miramae	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00360	Gryllomorpha (Gryllomorphella) uclensis	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00370	Acroneuroptila puddui	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	"google search only two individuals, https://www.researchgate.net/publication/334576289_Contributo_alla_conoscenza_dell%27artropodofauna_della_grotta_di_Giuanniccu_Mene_Monte_Cudias_nel_comune_di_Villaputzu_Sardegna_sud-orientale; https://www.mediterraneaonline.eu/nuove-ricerche-entomologiche-nella-grotta-is-zurrundeddus-ubicata-nel-territorio-di-san-nicolo-gerrei-provincia-del-sud-sardegna/fig-5-acroneuroptila-puddui-1"
+S00380	Acroneuroptila sardoa	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00390	Ovaliptila buresi	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S00400	Ovaliptila kinzelbachi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00410	Ovaliptila krueperi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00420	Ovaliptila lindbergi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00430	Ovaliptila nana	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00440	Ovaliptila newmanae	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00450	Ovaliptila rhodos	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00460	Ovaliptila wettsteini	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00470	Ovaliptila willemsei	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	google search only two individuals https://www.researchgate.net/publication/274377511_New_data_on_the_distribution_of_two_little-known_species_of_the_genus_Ovaliptila_Gorochov_2006_Orthoptera_Gryllidae_in_the_Balkans; https://www.iucnredlist.org/species/47694270/47715892
+S00480	Petaloptila (Italoptila) andreinii	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00490	Petaloptila (Petaloptila) aliena	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00500	Petaloptila (Petaloptila) clauseri	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00510	Petaloptila (Petaloptila) fermini 	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00520	Petaloptila (Petaloptila) fragosoi	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S00530	Petaloptila (Petaloptila) isabelae	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S00540	Petaloptila (Petaloptila) pallescens	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S00550	Petaloptila (Petaloptila) pyrenaea	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00560	Petaloptila (Petaloptila) sbordonii	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00570	Petaloptila (Zapetaloptila) baenai 	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S00580	Petaloptila (Zapetaloptila) barrancoi 	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	multiple google search images
+S00590	Petaloptila (Zapetaloptila) bolivari	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S00600	Petaloptila (Zapetaloptila) carabajali	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S00610	Petaloptila (Zapetaloptila) llorenteae	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S00620	Petaloptila (Zapetaloptila) malacitana	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	few images on google search
+S00630	Petaloptila (Zapetaloptila) mogon	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S00640	Petaloptila (Zapetaloptila) venosa	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	few images on google search
+S00650	Oecanthus dulcisonans	long	absent	mono	absent-mono	brown	absent	absent	absent	.	there are green Oecanthus in North America	.
+S00660	Oecanthus pellucens	long	rare	dominant	rare-dominant	polymorphic	absent	absent	absent	.	.	image of greeen in Field Guide Italy
+S00670	Oecanthus turanicus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	"a few images on google search, e.g. http://insecta.pro/taxonomy/508799"
+S00680	Arachnocephalus vestitus	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00690	Pseudomogoplistes byzantius	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00700	Pseudomogoplistes squamiger	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00710	Pseudomogoplistes vicentae	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00720	Mogoplistes brunneus	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00730	Mogoplistes kinzelbachi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00740	Paramogoplistes dentatus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	multiple google search images
+S00750	Paramogoplistes novaki	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00760	Paramogoplistes ortini	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	a few individuals on google search
+S00770	Nemobius interstitialis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only three images	"two individuals on google search, one on OSF"
+S00780	Nemobius sylvestris	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00790	Pteronemobius (Pteronemobius) heydenii	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00800	Pteronemobius (Stilbonemobius) lineolatus	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00810	Stenonemobius (Ocellonemobius) bicolor	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	a few individuals on google search
+S00820	Stenonemobius (Stenonemobius) gracilis	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00830	Natula averni	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00840	Trigonidium (Trigonidium) cicindeloides	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00850	Gryllotalpa africana	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00860	Gryllotalpa cossyrensis	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	one individual on https://www.naturamediterraneo.com/forum/topic.asp?TOPIC_ID=33545
+S00870	Gryllotalpa gryllotalpa	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00880	Gryllotalpa krimbasi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00890	Gryllotalpa octodecim	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	one individual on https://www.iucnredlist.org/species/47695668/47695835
+S00900	Gryllotalpa quindecim	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00910	Gryllotalpa sedecim	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00920	Gryllotalpa septemdecimchromosomica	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00930	Gryllotalpa stepposa	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00940	Gryllotalpa unispina	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00950	Gryllotalpa viginti	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00960	Gryllotalpa vigintiunum	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00970	Gryllotalpa vineae	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00980	Myrmecophilus (Myrmecophilus) acervorum	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S00990	Myrmecophilus (Myrmecophilus) aequispina	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01000	Myrmecophilus (Myrmecophilus) balcanicus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01010	Myrmecophilus (Myrmecophilus) baronii	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01020	Myrmecophilus (Myrmecophilus) fuscus	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01030	Myrmecophilus (Myrmecophilus) gallicus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	images on OSF
+S01040	Myrmecophilus (Myrmecophilus) hirticaudus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only two images	two individuals on google search (synonym termitophilus)
+S01050	Myrmecophilus (Myrmecophilus) myrmecophilus	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01060	Myrmecophilus (Myrmecophilus) nonveilleri	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01070	Myrmecophilus (Myrmophilina) ochraceus	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01080	Diestrammena asynamora	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01090	Dolichopoda (Capraiacris) aegilion	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01100	Dolichopoda (Capraiacris) baccettii	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01110	Dolichopoda (Capraiacris) bolivari	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01120	Dolichopoda (Chopardina) bormansi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01130	Dolichopoda (Chopardina) cyrnensis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01140	Dolichopoda (Chopardina) lustriae	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01150	Dolichopoda (Chopardina) muceddai	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01160	Dolichopoda (Chopardina) remyi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01170	Dolichopoda (Chopardina) schiavazzii	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01180	Dolichopoda (Dolichopoda) annae	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01190	Dolichopoda (Dolichopoda) araneiformis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	only 3 individuals on google search
+S01200	Dolichopoda (Dolichopoda) azami	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01210	Dolichopoda (Dolichopoda) bakolitsasi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01220	Dolichopoda (Dolichopoda) calidnae	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01230	Dolichopoda (Dolichopoda) capreensis	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01240	Dolichopoda (Dolichopoda) chopardi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01250	Dolichopoda (Dolichopoda) christosnifoni	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S01260	Dolichopoda (Dolichopoda) dalensi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01270	Dolichopoda (Dolichopoda) euxina	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	"only few individuals on google search, http://biodiversity-georgia.net/index.php?taxon=Dolichopoda%20euxina"
+S01280	Dolichopoda (Dolichopoda) gasparoi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01290	Dolichopoda (Dolichopoda) geniculata	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01300	Dolichopoda (Dolichopoda) giachinoi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01310	Dolichopoda (Dolichopoda) giulianae	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01320	Dolichopoda (Dolichopoda) graeca	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01330	Dolichopoda (Dolichopoda) hussoni	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01340	Dolichopoda (Dolichopoda) ithakii	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01350	Dolichopoda (Dolichopoda) kalithea	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01360	Dolichopoda (Dolichopoda) kiriakii	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01370	Dolichopoda (Dolichopoda) laetitiae	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01380	Dolichopoda (Dolichopoda) linderii	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01390	Dolichopoda (Dolichopoda) matsakisi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01400	Dolichopoda (Dolichopoda) naxia	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01410	Dolichopoda (Dolichopoda) palpata	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01420	Dolichopoda (Dolichopoda) paraskevi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01430	Dolichopoda (Dolichopoda) patrizii	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01440	Dolichopoda (Dolichopoda) pavesii	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01450	Dolichopoda (Dolichopoda) steriotisi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01460	Dolichopoda (Dolichopoda) thasosensis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01470	Dolichopoda (Dolichopoda) unicolor	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01480	Dolichopoda (Petrochilosina) cassagnaui	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01490	Dolichopoda (Petrochilosina) insignis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01500	Dolichopoda (Petrochilosina) makrykapa	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01510	Dolichopoda (Petrochilosina) ochtoniai	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01520	Dolichopoda (Petrochilosina) petrochilosi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01530	Dolichopoda (Petrochilosina) saraolacosi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01540	Dolichopoda (Petrochilosina) vandeli	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01550	Troglophilus (Paratroglophilus) neglectus	short	exceptional	dominant	exceptional-dominant	polymorphic	absent	absent	absent	.	.	"images of green (algae?) on https://www.biolib.cz/en/image/id171360/, also https://www.forum-orthoptera.at/t1699f3-Wallerwirthoehle-mit-beiden-Troglophilus-Arten.html (there also mentioned)"
+S01560	Troglophilus (Paratroglophilus) ovuliformis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	only few individuals on google search and iNaturalist
+S01570	Troglophilus (Troglophilus) andreinii	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01580	Troglophilus (Troglophilus) brevicauda	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01590	Troglophilus (Troglophilus) cavicola	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01600	Troglophilus (Troglophilus) lagoi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01610	Troglophilus (Troglophilus) lazaropolensis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	images on OSF
+S01620	Troglophilus (Troglophilus) marinae	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01630	Troglophilus (Troglophilus) spinulosus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01640	Troglophilus (Troglophilus) zoiai	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01650	Troglophilus (Troglophilus) zorae	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01660	Bradyporus (Bradyporus) dasypus	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S01670	Bradyporus (Callimenus) macrogaster	short	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	abundances unclear	.
+S01680	Bradyporus (Callimenus) multituberculatus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	only few individuals on google search
+S01690	Bradyporus (Callimenus) oniscus	short	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	abundances unclear	.
+S01700	Pycnogaster (Bradygaster) sanchezgomezi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	"image of brown in Fauna Catalunya, just one image on google search"
+S01710	Pycnogaster (Bradygaster) algecirensis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	http://www.naturalezaparatodos.es/2018/08/04/pycnogaster-bradygaster-algecirensis/ ; https://www.biodiversidadvirtual.org/insectarium/Pycnogaster-(Bradygaster)-algecirensis-Bolivar-1926-img569489.html
+S01720	Pycnogaster (Bradygaster) gaditana	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	https://www.biodiversidadvirtual.org/insectarium/Pycnogaster-(Bradygaster)-gaditana-Bolivar-1900-img745495.html ; https://www.flickr.com/photos/georgeoide/5400857414
+S01730	Pycnogaster (Bradygaster) inermis	.	rare	dominant	rare-dominant	polymorphic	absent	absent	absent	.	.	green ind -> https://www.flickr.com/photos/11518091@N00/1530242881/
+S01740	Pycnogaster (Pycnogaster)  jugicola	.	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	.
+S01750	Pycnogaster (Pycnogaster) cucullatus	.	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	multiple picture of both morphs on iNaturalist
+S01760	Pycnogaster (Pycnogaster) graellsii	.	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	https://www.biodiversidadvirtual.org/insectarium/Pycnogaster-(Pycnogaster)-graellsii-Bolivar-1873-img1096691.html
+S01770	Pycnogaster (Pycnogaster) valentini	.	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	.
+S01780	Albarracinia zapaterii	.	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	"image of green in Fauna Catalunya, image of multiple green and one almost brown on GoE"
+S01790	Baetica ustulata	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	green? -> https://www.biodiversidadvirtual.org/insectarium/Baetica-ustulata-(Rambur-1838)-img717479.html
+S01800	Callicrania (Callicrania) belarrensis	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S01810	Callicrania (Callicrania) denticulata	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	just on image on google search
+S01820	Callicrania (Callicrania) plaxicauda	.	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	"some images on flickr, some on google search, one brown https://www.google.de/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwi27bClzPTlAhXR0aQKHXsxC1UQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pinterest.es%2Fpin%2F652740539713674728%2F&psig=AOvVaw3mUPY0iSXGpbuyQW2MjB79&ust=1574195210881085"
+S01830	Callicrania (Callicrania) ramburii	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	many images on google search
+S01840	Callicrania (Mucrocallicrania) demandae	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	"several images on google search, including on pale, but still clearly green"
+S01850	Callicrania (Mucrocallicrania) faberi	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	"a few individuals on google search, https://www.biodiversidadvirtual.org/insectarium/Callicrania-(Mucrocallicrania)-faberi-(Harz-1978)-img176196.html; https://www.iucnredlist.org/species/64553381/75338128"
+S01860	Callicrania (Mucrocallicrania) vicentae	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	"some images on flickr, some on google search"
+S01870	Coracinotus notarioi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only one image	clearly brown individual https://www.iucnredlist.org/species/44710894/75338262
+S01880	Coracinotus politus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	https://www.biodiversidadvirtual.org/insectarium/Coracinotus-politus-(Bolivar-1901)-img848128.html
+S01890	Coracinotus presai	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S01900	Coracinotus squamiferus	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S01910	Corsteropleurus chopardi	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	multiple images on google search
+S01920	Ephippiger apulus	short	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	"image of green in Fauna Italy, images of brown on GoE, image of non-green https://www.naturamediterraneo.com/forum/topic.asp?TOPIC_ID=240990"
+S01930	Ephippiger camillae	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S01940	Ephippiger carlottae	short	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	image of both morphs on GoE
+S01950	Ephippiger cavannai	short	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	"images of green on GoE, image of brown https://www.google.de/search?hl=de&biw=1680&bih=914&tbm=isch&sa=1&ei=6QHTXdaANtrAmwX_r5GoBw&q=Ephippiger+carlottae&oq=Ephippiger+carlottae&gs_l=img.3...197461.197461..198053...0.0..0.135.135.0j1......0....2j1..gws-wiz-img.Dl_-JF3c7BU&ved=0ahUKEwiWmcy_z_TlAhVa4KYKHf9XBHUQ4dUDCAY&uact=5#imgrc=EpfrbsdPUYZuMM: and https://www.google.de/search?hl=de&biw=1680&bih=914&tbm=isch&sa=1&ei=6QHTXdaANtrAmwX_r5GoBw&q=Ephippiger+carlottae&oq=Ephippiger+carlottae&gs_l=img.3...197461.197461..198053...0.0..0.135.135.0j1......0....2j1..gws-wiz-img.Dl_-JF3c7BU&ved=0ahUKEwiWmcy_z_TlAhVa4KYKHf9XBHUQ4dUDCAY&uact=5#imgrc=xAZG4VkSTdCXJM:"
+S01960	Ephippiger discoidalis	short	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"image of very pale indiviudal in Bellmann, images of brown on flickr, images of both morphs on GoE, also Field Guide Italy"
+S01970	Ephippiger diurnus	short	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"Field guide France, Bellmann, images of multiple non-green in OrthopteraApp"
+S01980	Ephippiger ephippiger	short	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	"Field guide Austria, image of brown on GxE"
+S01990	Ephippiger melisi	short	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	"multiple images of green in OSF, image of brown on GoE"
+S02000	Ephippiger perforatus	short	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	.
+S02010	Ephippiger persicarius	short	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"Field guide Austria, Bellmann (beige), images of multiple pale beige indiviuals in OrthopteraApp"
+S02020	Ephippiger provincialis	.	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	Field guide France
+S02030	Ephippiger ruffoi	short	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	.
+S02040	Ephippiger terrestris	short	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	.	"Field guide France, images of multiple pale non-green in OrthopteraApp, also brown in Field Guide Italy, Bellmann France"
+S02050	Ephippiger zelleri	short	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	image of brown in Field Guide Italy
+S02060	Ephippigerida (Ephippigerida) areolaria	.	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	just one image	"image of brown in Fauna Catalunya, images of both morphs Grasshoppers of Europe"
+S02070	Ephippigerida (Ephippigerida) asella	.	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	just one image	"image of brown in Fauna Catalunya, images of both morphs on google search, e.g. green https://www.biodiversidadvirtual.org/insectarium/Ephippigerida-asella-Navas-1907-img112833.html"
+S02080	Ephippigerida (Ephippigerida) carinata	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S02090	Ephippigerida (Ephippigerida) longicauda	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S02100	Ephippigerida (Ephippigerida) marceti	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S02110	Ephippigerida (Ephippigerida) pantingana	.	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	.	images of both morphs on google search
+S02120	Ephippigerida (Ephippigerida) saussureiana	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S02130	Ephippigerida (Ephippigerida) diluta	.	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	.	multiple images of both morphs on google search
+S02140	Ephippigerida (Ephippigerida) rosae	.	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	"images of both morphs on OSF, both morphs on google search"
+S02150	Ephippigerida (Lobionifera) laserena	.	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	.	"image of brown https://www.biodiversidadvirtual.org/insectarium/Ephippigerida-(Lobionifera)-laserena-Barat-y-Correas-2015-img715485.html, https://www.biodiversidadvirtual.org/insectarium/Ephippigerida-(Lobionifera)-laserena-Barat-y-Correas-2015-img715488.html"
+S02160	Lluciapomaresius anapaulae	.	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	.	"multiple images of green on google search, many images of both morphs on flickr"
+S02170	Lluciapomaresius asturiensis	.	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	.	multiple images of green on google search
+S02180	Lluciapomaresius eclipticus	.	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	.	"images of both morphs in publication Descripción de Steropleurus eclipticus sp. n. (Othoptera: Tettigoniidae: Ephippigerinae) del Sistema Ibérico, Zaragoza (España),  Joan Barat"
+S02190	Lluciapomaresius nobrei	.	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"images of multiple green on google search, image of brown https://www.inaturalist.org/taxa/747456-Lluciapomaresius-nobrei"
+S02200	Lluciapomaresius ortegai	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	"image of brown in Fauna Catalunya, image of brown on GoE and on google search"
+S02210	Lluciapomaresius panteli	.	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	.	"image of brown in Fauna Catalunya, multiple images on google search, image of green in publication On the bioacoustics of the Iberian Ephippigerini (Orthoptera, Tettigoniidae, Bradyporinae)"
+S02220	Lluciapomaresius stalii	.	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	.	"images of both morphs GoE, also google search"
+S02230	Lucasinova nigromarginata	short	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	"images of both morphs on GoE, also multiple of both on google search"
+S02240	Neocallicrania barrosi	.	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	"images of multiple green on google search, image of brown https://naturdata.com/especie/neocallicrania-barrosi/41007/0/"
+S02250	Neocallicrania bolivarii	.	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	images of only green on google search
+S02260	Neocallicrania lusitanica	.	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	image of brown on https://www.iucnredlist.org/species/68442317/75340146
+S02270	Neocallicrania miegii	.	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	brown e.g. https://www.flickr.com/photos/jmparaisoh/29209088886/in/photolist-Lv7duN-QeHZi3-oNQm4V-nWMRj6-h8BViu-8nhQ56-cZk3Su-cZaEks-8kdFJL-cWKeMd-aiFHVW-diFjrt-FCxZgK-Up5SVt-eS1QSv-EPar5i-dwBn4Y-9yFrr-cWrZ19-dwdgJg-bLWQdM-cYD5J5-dnXUgQ-cookgw-EWuY9x-owkzge-dm8R9P-dvCtnH-6tFQFm-dnXmFA-FjijuS-by1mPh-d9K6Qo-Vr7S54-fjMXoc-aBqBU3-xGUizR-foAcWe-chgBb7-h8BUJ3-chgDim-ciYxeE-cjoiL5-ckRZmd-db89cC-cjqRPW-csqBqo-ckUPvh-cioQgm-by1UhU
+S02280	Neocallicrania selligera	.	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	"multiple images of green on google search, images of brown https://naturdata.com/especie/neocallicrania-selligera-selligera/16762/0/, https://www.flickr.com/photos/125745492@N02/34391783093/in/photolist-Up5SVt-eS1QSv-EPar5i-dwBn4Y-9yFrr-cWrZ19-dwdgJg-bLWQdM-cYD5J5-dnXUgQ-cookgw-EWuY9x-owkzge-dm8R9P-dvCtnH-6tFQFm-dnXmFA-FjijuS-by1mPh-d9K6Qo-Vr7S54-fjMXoc-aBqBU3-xGUizR-foAcWe-chgBb7-h8BUJ3-chgDim-ciYxeE-cjoiL5-ckRZmd-db89cC-cjqRPW-csqBqo-ckUPvh-cioQgm-by1UhU-by2Bbu-cvqW2W-ciWhRy-c1qxK1-c2qC6Q-chUCtf-cbTwRC-caXacu-cjpufs-caNYzL-cygXFQ-ccekjU-fU53D8"
+S02290	Neocallicrania serrata	.	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"images of multiple green on google search, images of both morphs on https://naturdata.com/especie/neocallicrania-serrata-serrata/41009/0/"
+S02300	Parasteropleurus balearicus	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	images of a few green on google search
+S02310	Parasteropleurus martorellii	.	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"image of green in Fauna Catalunya, multiple green on google search, brown on http://faluke.blogspot.com/2009/11/dericoris-carthagonovae.html"
+S02320	Parasteropleurus perezi	.	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"image of green in Fauna Catalunya, images of both morphs on GoE"
+S02330	Platystolus martinezii	.	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"image of green in Fauna Catalunya, just a few images on google search"
+S02340	Platystolus surcularius	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	one brown on https://www.biodiversidadvirtual.org/insectarium/Platystolus-surcularius-(Bolivar-1877)-img1114514.html
+S02350	Praephippigera pachygaster	short	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	"just few individuals https://www.insecte.org/forum/viewtopic.php?t=48175, image of brown and green in Field Guide Italy"
+S02360	Sabaterpia hispanica	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	only few individuals https://www.biodiversidadvirtual.org/insectarium/Sabaterpia-hispanica-(Kollar-1853)-img76350.html
+S02370	Sabaterpia paulinoi	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S02380	Sabaterpia taeniata	.	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	.	images of both morphs (though not very clear green) on GoE
+S02390	Sorapagus catalaunicus	.	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"Field guide France, image of brown in Fauna Catalunya"
+S02400	Steropleurus andalusius	.	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"many images of green on google search, brown on http://www.granadanatural.com/ficha_fauna.php?cod=64 and https://biocostagranadinafauna.blogspot.com/2012/03/chicharra-o-grillo-verde-steropleurus.html"
+S02410	Steropleurus brunneri	.	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	.	.
+S02420	Steropleurus castellanus	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S02430	Steropleurus flavovittatus	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	"multiple images of green on google search, https://www.biodiversidadvirtual.org/insectarium/Steropleurus-flavovittatus-(Bolivar-1878)-img90744.html"
+S02440	Steropleurus obsoletus	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S02450	Steropleurus pseudolus	.	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	.	images of both morphs on https://naturdata.com/especie/steropleurus-pseudolus/40078/0/
+S02460	Steropleurus recticarinatus	.	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	.	"just few individuals, https://www.biodiversidadvirtual.org/insectarium/Steropleurus-recticarinatus-(Llorente-1980)-img22205.html"
+S02470	Synephippius obvius	.	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	.	"image of brown in Fauna Catalunya, image of green on GoE"
+S02480	Uromenus agarenus	.	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	image of brown on https://www.flickr.com/photos/georgeoide/6726929893/in/photolist-bfrgi8-bfrgTT
+S02490	Uromenus annae	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	multiple green on google search
+S02500	Uromenus bonneti	short	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	image of both morphs in Field Guide Italy
+S02510	Uromenus brevicollis	short	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	images of both morphs on GoE
+S02520	Uromenus dyrrhachiacus	.	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	images of both morphs on GoE
+S02530	Uromenus elegans	short	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	.	images of both morphs in Bellmann and in GoE and google search
+S02540	Uromenus maroccanus	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	just few individuals on google search
+S02550	Uromenus riggioi	short	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"only few individuals on google search, mentioned as green in Field Guide Italy, but image of pretty brown individual shown in Field Guide Italy"
+S02560	Uromenus rugosicollis	short	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"brown morphs mentioned in Bellmann, image of both e.g. https://www.flickr.com/photos/christian_1981/9600887922/in/photolist-2aZ1BMK-2aUzrZy-2aUzs27-Mtt14Q-2gEvSwt-Zovj3J-2gCmTHX-2gCmV8F-fCp4uo-254aqAm-PJE2gR-oqBo6g-2gCmeMR-2hj7eM3-B5xPS-98DvwM-fg3WYS-98Dc9e-oG8dta-2gThNe7-h9BXfD-h9DUzy-ac5boP-2gXBGbp-Vi8snc-9YFB3q-adc8BZ-H3vbLp-fgQfyw-HxPnQL-fgxJ8k-ojiTDc-9Yo7cq-5qUoLz-oEnmxH-ojizsy-LpDoW-ac7GM9-fXsyqw-8fzonF-8uTuvG-cW5gyS-8uTv9A-8uQq7p-8P1SeE"
+S02570	Uromenus siculus	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	just few green individuals on google search
+S02580	Conocephalus grebenchikovi	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	not many images
+S02590	Conocephalus (Anisoptera) concolor	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	just few images
+S02600	Conocephalus (Anisoptera) dorsalis	polymorph	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	straw-yellow individuals are not rare according to Bellmann
+S02610	Conocephalus (Anisoptera) ebneri	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S02620	Conocephalus (Anisoptera) fuscus	long	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	straw-yellow individuals are rare according to Bellmann
+S02630	Conocephalus (Anisoptera) hastatus	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	multiple green on google search
+S02640	Conocephalus (Anisoptera) kisi	.	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	image of very pale individual in Field Guide Greece
+S02650	Conocephalus (Conocephalus) conocephalus	long	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	light yellow to straw yellow indiviuals are more regular according to Bellmann
+S02660	Ruspolia differens	.	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	.
+S02670	Ruspolia nitidula	long	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	.
+S02680	Canariola emarginata 	.	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	.	.
+S02690	Canariola quinonesi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	"single image on OSF, two brown individuals on google search"
+S02700	Cyrtaspis scutata	short	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	"Bellmann mentiones yellowish individuals, Fauna Catalunya mentiones brown individuals, Fauna Italy mentiones brown as rare (but is a bit fuzzy with the term), Field Guide Italy mentiones brown as rare"
+S02710	Cyrtaspis tuberculata	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	images of multiple green on google search
+S02720	Meconema meridionale	short	dominant	exceptional	dominant-exceptional	polymorphic	absent	absent	absent	.	.	brown individual https://www.flickr.com/photos/12639178@N07/13227285475/in/photolist-m9Ri98-nbxqjS-p5ARD4-egSN2h-WW8Zpm-NEn8Lr-V6z3C5-4SBsfD-743Rwz-L4zBde-fBbWDQ-2fFxaxY-m9R6NT-2hdHAGv-9m1qcr-XZMvWM-9m4mZC-LSZmrA-cXn1A5-ahYnBE-xJdpsT-237mb57-22Kbfie-WmShYF-HE6CUE-GaQKaL-24nw9eo-Vk5h6K-6BCnVa-wYMvZD-2hADW1D-2hAHFLY-6RmZyM-Upbr61-FT5ZLV-cVXEc3-d14WW5-pvdgAy-oXN35f-Lrmwes-6pSUrX-e5zCZG-chAToC-8tmXqo-d58nmU-KKn4az-8JFuTx-sQ9WeJ-dcfiCL-ggCaVy
+S02730	Meconema thalassinum	long	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S02740	Acrometopa cretensis	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	multiple images on google search
+S02750	Acrometopa italica	long	mono	absent	mono-absent	green	absent	absent	absent	.	.	multiple images on google search
+S02760	Acrometopa macropoda	long	mono	absent	mono-absent	green	absent	absent	absent	.	.	multiple images on google search
+S02770	Acrometopa servillea	long	mono	absent	mono-absent	green	absent	absent	absent	.	.	multiple images on google search
+S02780	Acrometopa syriaca	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	multiple images on google search
+S02790	Ancistrura nigrovittata	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	multiple images on google search
+S02800	Andreiniimon nuptialis	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	multiple images on google search
+S02810	Barbitistes alpinus	short	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"several images on flickr, images and description Field Guide Italy"
+S02820	Barbitistes constrictus	short	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	dark individual in Bellmann
+S02830	Barbitistes fischeri	short	dominant	regular	dominant-regular	polymorphic	absent	weak	absent	dark individuals more common in males	.	"Fauna Catalunya mentiones females brown, images and description Field Guide Italy, dark individuals more common in males (Bellmann)"
+S02840	Barbitistes kaltenbachi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	just on image on google search
+S02850	Barbitistes obtusus	short	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"Field guide Austria, dark individual in Field guide France and Bellmann, dark individuals (both sexes) in OrthopteraApp"
+S02860	Barbitistes ocskayi	short	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	.	"image of almost black male in Field Guide Greece, statement in Fauna Italy"
+S02870	Barbitistes serricauda	short	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	.	"Fauna Catalunya mentiones females brown, dark individual in Field guide France, mostly green in Field Guide Italy"
+S02880	Barbitistes vicetinus	short	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	.
+S02890	Barbitistes yersini	short	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	.
+S02900	Euconocercus caucasicus	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S02910	Isoimon riabovi 	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	just one individual green http://barbos.my1.ru/load/otkrytki_quot_nasekomye_quot/kuznechiki_sverchki_kobylki/pilokhvost_rjabova_isoimon_riabovi_uv/119-1-0-3108
+S02920	Isophya amplipennis	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	image of green in OSF
+S02930	Isophya andreevae	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S02940	Isophya beibienko	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	https://www.iucnredlist.org/species/62147256/62147267
+S02950	Isophya boldyrevi	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S02960	Isophya brevicauda	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S02970	Isophya brunneri	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	https://www.iucnredlist.org/fr/species/68401310/70217768
+S02980	Isophya bucovinensis	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	few images
+S02990	Isophya bureschi	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	images of multiple green in OSF
+S03000	Isophya camptoxypha	short	mono	absent	mono-absent	green	absent	absent	absent	sometimes very colorful	.	sometimes very colorful according to Bellmann
+S03010	Isophya ciucasi	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03020	Isophya clara	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	just one individual on google search
+S03030	Isophya costata	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03040	Isophya dobrogensis	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	"rather pale indivudal on https://www.google.com/search?client=firefox-b-d&biw=1876&bih=1021&tbm=isch&sa=1&ei=_YLRXaLzM8PUsAeptoygCw&q=Isophya+dobrogensis&oq=Isophya+dobrogensis&gs_l=img.3..0i30.1290557.1290557..1291016...0.0..0.110.110.0j1......0....2j1..gws-wiz-img.cQ-, CuYhexsA&ved=0ahUKEwji5Zeo4vHlAhVDKuwKHSkbA7QQ4dUDCAY&uact=5#imgrc=M2VGmO8Q2RlC9M:, rather dark individual on https://www.iucnredlist.org/species/68398749/70268869"
+S03050	Isophya dochia	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03060	Isophya doneciana	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S03070	Isophya fatrensis	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03080	Isophya gulae	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	additional species Isophya gracilis in black: 
+S03090	Isophya harzi	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	images of green on OSF
+S03100	Isophya hospodar	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03110	Isophya kalishevskii	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03120	Isophya kraussii	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03130	Isophya lemnotica	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03140	Isophya longicaudata	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03150	Isophya miksici	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S03160	Isophya modesta	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03170	Isophya modestior	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03180	Isophya obtusa	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	images of green in OSF
+S03190	Isophya pavelii	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	multiple images of green in OSF
+S03200	Isophya pienensis	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03210	Isophya plevnensis	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03220	Isophya posthumoidalis	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03230	Isophya pylnovi	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S03240	Isophya pyrenaea	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	brown nymph http://barbos.my1.ru/load/otkrytki_quot_nasekomye_quot/kuznechiki_sverchki_kobylki/pilokhvost_rjabova_isoimon_riabovi_uv/119-1-0-3108
+S03250	Isophya rectipennis	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03260	Isophya rhodopensis	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03270	Isophya schneideri	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	few images on google search
+S03280	Isophya sicula	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03290	Isophya speciosa	short	dominant	rare	dominant-rare	polymorphic	absent	weak	absent	males are darker	.	"dark, but still green individuals in flickr, very dark: https://www.fotografturk.com/isophya-speciosa-p258559s2, males are darker and more marked (Bellmann)"
+S03300	Isophya stepposa	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S03310	Isophya straubei	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03320	Isophya stysi	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	images of green in OSF
+S03330	Isophya taurica	.	dominant	rare	dominant-rare	polymorphic	NA	absent	absent	.	.	brown individual http://macroclub.ru/macroid/show_image.php?imageid=85710
+S03340	Isophya thracica	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03350	Isophya tosevski	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03360	Isophya zubowskii	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	"rather dark indivuals on google search, but still green"
+S03370	Leptophyes albovittata	short	dominant	exceptional	dominant-exceptional	polymorphic	absent	absent	absent	.	.	"image of brown female in OrthopteraApp, also pretty brown in Bellmann France"
+S03380	Leptophyes asamo	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	images on OSF
+S03390	Leptophyes boscii	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	many images on google search
+S03400	Leptophyes calabra	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	"images on OSF and GoE, multiple images on google search"
+S03410	Leptophyes discoidalis	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	"images of multiple green in OSF, multiple green on google search"
+S03420	Leptophyes intermedia	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	images on OSF
+S03430	Leptophyes laticauda	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	many images on google search
+S03440	Leptophyes lisae	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03450	Leptophyes punctatissima	short	dominant	exceptional	dominant-exceptional	polymorphic	absent	absent	absent	.	.	brown individual on barbos.my1.ru/load/otkrytki_quot_nasekomye_quot/kuznechiki_sverchki_kobylki/pilokhvost_rjabova_isoimon_riabovi_uv/119-1-0-3108
+S03460	Leptophyes sicula	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	images on OSF and GoE
+S03470	Metaplastes ippolitoi	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	"mostly green according to Fauna Italia, several images on grasshoppersofeurope and google search all green"
+S03480	Metaplastes oertzemi	.	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	brown individual on https://www.grasshoppersofeurope.com/linnaeus_ng/app/views/species/nsr_taxon.php?id=1708
+S03490	Metaplastes ornatus	short	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	"green individuals shown in Bellmann, brown individual on http://www.focusnatura.at/wp-content/uploads/Metaplastes-ornatus-Zagori.jpg, quite dark individuals in Field Guide Greece"
+S03500	Metaplastes pulchripennis	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	"mostly green according to Fauna Italia, many images on grasshoppersofeurope and google search all green"
+S03510	Poecilimon (Hamatopoecilimon) deplanatus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	"only two images in total, image of completely non-green in Field Guide Greece also https://www.iucnredlist.org/species/17181950/17182056"
+S03520	Poecilimon (Hamatopoecilimon) hamatus	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	"quite many images, apparently really never green"
+S03530	Poecilimon (Hamatopoecilimon) ikariensis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	image of brown on OSF and https://www.iucnredlist.org/species/17182027/47708524
+S03540	Poecilimon (Hamatopoecilimon) klausgerhardi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	images on OSF
+S03550	Poecilimon (Hamatopoecilimon) paros	.	absent	mono	absent-mono	brown	absent	absent	absent	.	abundances unclear	images of both morphs in Field Guide Greece (sexual dimorphism?)
+S03560	Poecilimon (Hamatopoecilimon) unispinosus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	image of completely non-green (black) individual in Field Guide Greece
+S03570	Poecilimon (Poecilimon) aegaeus	.	mono	absent	mono-absent	green	absent	absent	absent	.	only few images	.
+S03580	Poecilimon (Poecilimon) affinis	short	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	"images of many green on google and GoE, image of brown https://bioone.org/ContentImages/Journals/orth/24/1/034.024.0104/graphic/f02_19.jpg"
+S03590	Poecilimon (Poecilimon) albolineatus	.	mono	absent	mono-absent	green	absent	absent	absent	.	only few images	images on OSF
+S03600	Poecilimon (Poecilimon) amissus	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03610	Poecilimon (Poecilimon) ampliatus	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	multiple images on google search
+S03620	Poecilimon (Poecilimon) artedentatus	.	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	"images of multiple green in OSF, image of brown http://www.naturagraeca.com/ws/upload/gallery/thumbs/26/gId26_dt20190611_130312_1.jpg"
+S03630	Poecilimon (Poecilimon) athos	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	not images on google search and flickr
+S03640	Poecilimon (Poecilimon) bidens	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S03650	Poecilimon (Poecilimon) bifenestratus	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S03660	Poecilimon (Poecilimon) bosphoricus	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	images of multiple green in OSF
+S03670	Poecilimon (Poecilimon) brunneri	short	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	"rarely pale yellow according to Bellmann, image of quite dark on OSF, many images of green"
+S03680	Poecilimon (Poecilimon) chopardi	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	images of multiple green in OSF
+S03690	Poecilimon (Poecilimon) cretensis	.	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	"image of quite dark individual on OSF, image of brown on GoE, image of brown on http://www.naturagraeca.com/ws/upload/gallery/thumbs/26/gId26_dt20181024_231342_0.jpg"
+S03700	Poecilimon (Poecilimon) djakonovi	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S03710	Poecilimon (Poecilimon) ebneri	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03720	Poecilimon (Poecilimon) ege	.	mono	absent	mono-absent	green	absent	absent	absent	pink	.	pink on GoE
+S03730	Poecilimon (Poecilimon) elegans	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03740	Poecilimon (Poecilimon) erimanthos	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03750	Poecilimon (Poecilimon) fussii	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	"images of multiple green in OSF, also GoE and google search, interesting image https://www.biolib.cz/en/image/id48513/"
+S03760	Poecilimon (Poecilimon) geoktschajcus	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S03770	Poecilimon (Poecilimon) gerlindae	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03780	Poecilimon (Poecilimon) gracilioides	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03790	Poecilimon (Poecilimon) gracilis	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	quite many images
+S03800	Poecilimon (Poecilimon) heinrichi	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	images of green on OSF
+S03810	Poecilimon (Poecilimon) heroicus	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	"images of multiple green in OSF, a few green on google search"
+S03820	Poecilimon (Poecilimon) hoelzeli	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03830	Poecilimon (Poecilimon) intermedius	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	"images of multiple green in OSF, quite many images"
+S03840	Poecilimon (Poecilimon) istanbul 	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S03850	Poecilimon (Poecilimon) jablanicensis	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	images on OSF
+S03860	Poecilimon (Poecilimon) jonicus	short	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	"image of pretty non-green female in Bellmann, images of both morphs on GoE"
+S03870	Poecilimon (Poecilimon) laevissimus	short	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	images of brown on GoE
+S03880	Poecilimon (Poecilimon) macedonicus	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	image of completely brown nymphae on GoE
+S03890	Poecilimon (Poecilimon) mariannae	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03900	Poecilimon (Poecilimon) marmaraensis	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	images of multiple green on google search
+S03910	Poecilimon (Poecilimon) miramae	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03920	Poecilimon (Poecilimon) mytilenensis	.	dominant	regular	dominant-regular	polymorphic	absent	weak	absent	.	.	images of both morphs on GoE
+S03930	Poecilimon (Poecilimon) nobilis	.	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	reddish	.	"image of reddish individual on GoE, image of non-green on http://www.naturagraeca.com/ws/upload/gallery/thumbs/26/gId26_dt20130409_135633_3._DK2.jpg"
+S03940	Poecilimon (Poecilimon) nonveilleri	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	images on OSF
+S03950	Poecilimon (Poecilimon) obesus	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S03960	Poecilimon (Poecilimon) oligacanthus	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S03970	Poecilimon (Poecilimon) orbelicus	.	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	reddish	.	"image of reddish individual on GoE, image of quite pale individual in Field Guide Greece, image of brown (reddish) on GoE"
+S03980	Poecilimon (Poecilimon) ornatus	short	dominant	rare	dominant-rare	polymorphic	absent	weak	absent	.	.	image of brown individual in Bellmann and GoE
+S03990	Poecilimon (Poecilimon) pechevi	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S04000	Poecilimon (Poecilimon) pergamicus	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	"images on GoE,  few individuals on google search"
+S04010	Poecilimon (Poecilimon) pindos	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	images on GoE
+S04020	Poecilimon (Poecilimon) pliginskii	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	images of green in OSF
+S04030	Poecilimon (Poecilimon) propinquus	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	images of some rather dark individuals on google search
+S04040	Poecilimon (Poecilimon) pseudornatus	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	"images on OSF, one image on flickr"
+S04050	Poecilimon (Poecilimon) roseoviridis	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	image of green on https://www.iucnredlist.org/species/68458981/70271356
+S04060	Poecilimon (Poecilimon) sanctipauli	.	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	image of quite pale individual in Field Guide Greece
+S04070	Poecilimon (Poecilimon) schmidtii	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	quite many images of green on flickr and google search
+S04080	Poecilimon (Poecilimon) scythicus	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	multiple green on google search and one on flickr
+S04090	Poecilimon (Poecilimon) similis	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	one green on google search
+S04100	Poecilimon (Poecilimon) soulion	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	few images on google search
+S04110	Poecilimon (Poecilimon) sureyanus	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	few images on google search
+S04120	Poecilimon (Poecilimon) syriacus	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S04130	Poecilimon (Poecilimon) tauricus	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	images of green in OSF
+S04140	Poecilimon (Poecilimon) thessalicus	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S04150	Poecilimon (Poecilimon) thoracicus	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	quite many images of green on flickr and google search
+S04160	Poecilimon (Poecilimon) tricuspis	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S04170	Poecilimon (Poecilimon) turcicus	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S04180	Poecilimon (Poecilimon) ukrainicus 	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	images on GoE
+S04190	Poecilimon (Poecilimon) veluchianus	.	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	image of non-green on GoE
+S04200	Poecilimon (Poecilimon) vodnensis	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	images of a few green on google search
+S04210	Poecilimon (Poecilimon) werneri	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	image of almost fully non-green on GoE
+S04220	Poecilimon (Poecilimon) zimmeri	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S04230	Poecilimon (Poecilimon) zwicki	.	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	image of quite pale individual in Field Guide Greece
+S04240	Polysarcus denticauda	short	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	gregarious form darker	.	images of two clearly non-green in OrthopteraApp
+S04250	Polysarcus scutatus	short	dominant	regular	dominant-regular	polymorphic	absent	weak	absent	males more frequently dark	.	"image of brown male in Field guide France and Bellmann, image of green in Bellmann"
+S04260	Polysarcus zacharovi	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	only few individuals on google search
+S04270	Odontura aspericauda	.	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	"just on image in Fauna Catalunya, many green on flickr, one brown https://www.flickr.com/photos/126688171@N06/48357276487/in/photolist-Go3jzf-VnaGsD-PNkGag-7uqTk6-G1dWw1-WkMQU9-FuSYUA-Qzwv7H-2egdbNd-F8vNGQ-SVUs7f-RvEekZ-247k5DF-T9nfon-WkMR4C-wjn64g-TiKJ2H-28TnxdP-2gBY7YE-bnTfri-SzGoTL-25K8Ljq-229YxG5-2gBYEK6-ScGnvs-HF5LRG-2gFa47r-23QaDhJ-2gBY9PD-SVUqEs-ThacvE-2gFaMaa-2gFaFyk-23F2CcN-GjuCDt-2evNrHK-2gBYbND-8eN5tb-QTuHhC-9CCdRC-Sb2qXD-9prBLG-visTnr-vijyuo-CRCpgZ-vitn4Z-9poAmr-DP2ere-bS2iE6"
+S04280	Odontura (Odontura) borrei 	short	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	reddish	.	"only few images on google search, images of brown (reddish) and mentioned in Field Guide Italy"
+S04290	Odontura (Odontura) calaritana	short	dominant	exceptional	dominant-exceptional	polymorphic	absent	absent	absent	.	only few images	non-green individual on https://www.naturamediterraneo.com/forum/foto.asp?TOPIC_ID=178006
+S04300	Odontura (Odontura) glabricauda	.	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	non-green individual on https://www.flickr.com/photos/69055300@N05/8735661713/in/photolist-eiWxT8-bxef4q-bL6aTa-epeub9-dSeQ2a-9WcsrG-bL8Zgk-5u4dMx-bL916c-bxsLuj-bxekq1-bsukMA-bL8Yq6-Sb2qXD-bxbHMh-e1J6y1-bTMdsH-aDVtwf-bxemaG-aDURD1-byg26Y-bL7bDi-bxckBj-epevLd-bL75JF-bL732V-bsuk9s-bxfrF3-bL6DZ8-bFpeXF-aDUCj7-bxfqN1-bxfq3S-bLa6Mz-t74Yxz-bWixeh-bxbXBw-bL8dki-bxbJD1-bWg6Ds-bxejnq-bxen99-bL8cD4-bxbYZQ-brHX75-byg3Aw-bL7wo2-fU3nJV-bERhuN-bxfn4G
+S04310	Odontura (Odontura) stenoxypha	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	only few individuals on google search
+S04320	Odontura (Odonturella) macphersoni	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	"quite many images on flickr, few on google search, https://www.flickr.com/photos/69055300@N05/8735661713/in/photolist-eiWxT8-bxef4q-bL6aTa-epeub9-9WcsrG-dSeQ2a-bL8Zgk-bL916c-bxsLuj-bxekq1-5u4dMx-bsukMA-bL8Yq6-bxbHMh-e1J6y1-bTMdsH-aDVtwf-bxemaG-aDURD1-byg26Y-bL7bDi-bxckBj-epevLd-bL75JF-bL732V-bsuk9s-bxfrF3-bL6DZ8-bFpeXF-aDUCj7-bxfqN1-bxfq3S-bLa6Mz-bWixeh-bxbXBw-bL8dki-bxbJD1-bWg6Ds-bxejnq-bxen99-bL8cD4-bxbYZQ-brHX75-byg3Aw-bL7wo2-fU3nJV-bERhuN-bxfn4G-fU4nwc-fU4qo5"
+S04330	Phaneroptera falcata	long	dominant	exceptional	dominant-exceptional	polymorphic	absent	absent	present	.	.	image of brown last instar http://jardifaune.canalblog.com/albums/insectes_de_nos_parcs___jardins/photos/89409025-dsc_0017.html
+S04340	Phaneroptera gracilis	.	dominant	exceptional	dominant-exceptional	polymorphic	absent	absent	present	.	.	"images on GoE, image of clear brown on https://www.flickr.com/photos/djwalker-nl/39166987261/in/photolist-2gSsMGT-SwGsZu-SwGt3L-244m1Un-SwGtbw-22F43KP-2efwxCw-2dXyJzv-2dXyJvH-2dXyJBz-gtSCxv-2dXyJCM-2dXyJFH-2dXyJDD"
+S04350	Phaneroptera nana	long	dominant	exceptional	dominant-exceptional	polymorphic	absent	absent	present	.	.	"many images, including multiple brown nymphae, image of brown imago on https://www.researchgate.net/figure/Phaneroptera-nana-Phaneropteridae-Klaus-Siedle_fig24_312496389 and https://www.flickr.com/photos/69055300@N05/7974996263/in/photolist-d9HWxz-vTrXiY-8R1Fwr-8R1FnH-7dNJnz-5YTfRk-5Vt7fZ-9ecJkk-fk893w-3eQmNN-B9zbGT-dJFUqS-e4ge6m-8RvS4V-6Kdigh-dDLdUC-57fDus-2ah9nMy-dtTALE-J2K16Y-2h54cEZ-gke36s-71e1vS-5aoJ5Z-5sQ6hi-oz2x3U-niHmWz-8PVrCA-JUKkQx-nYcdW3-96pXFi-3eQtBf-d1hk7Q-f6ciHU-8PSmC2-hbZbjj-fe32hy-fgfAzy-2htHG9p-6uoyqS-6K9dmK-6vSqXw-3eQtyd-oQwusi-5xajur-5q8gra-AMpBZ5-53sW7q-5wXMRX-5mG5pg"
+S04360	Phaneroptera sparsa	.	dominant	rare	dominant-rare	polymorphic	absent	absent	present	nymphae brown	.	"images on brown nymphae on GoE, images of green in OSF, image of brown on https://www.flickr.com/photos/lagrimon/6170464549/in/photolist-apgf8P-jpjgTF-jm4Jks-ap9y49-atjb1j-a5h86B-gpPCf7-Vqs9hp-auidwa-jm2i1G-ntiHU2-jqoK6G-a91iPG-aq6G3u-9VrtLd-9WfGCU-9cNUAT-dHr5qP-aze9ZK-az4VgV-ap9y8S-9tGVc9-9YpLxb-NKfxpW-poqFxd-j9G6XT-2f54Cx4-dJFUvf-dJAsBX-NNvFnF-f3Dcwu-dJFUqS-217YgBp-f3DcBY-uLViAc-5qF5mq-Vc2GG3-S7437M-9GHZje-gHGmxJ-bxMVBx-cthshA-oLhtnh-QJ4rhJ-QLGXZ8-PES9cS-9WfGvE-gxTitc-xnFjAi-bsAK1m and https://www.flickr.com/photos/dicon/2904646984/in/photolist-jm4Jks-ap9y49-atjb1j-a5h86B-gpPCf7-Vqs9hp-auidwa-jm2i1G-ntiHU2-jqoK6G-a91iPG-aq6G3u-9VrtLd-9WfGCU-9cNUAT-dHr5qP-aze9ZK-az4VgV-ap9y8S-9tGVc9-9YpLxb-NKfxpW-poqFxd-j9G6XT-2f54Cx4-dJFUvf-dJAsBX-NNvFnF-f3Dcwu-dJFUqS-217YgBp-f3DcBY-uLViAc-5qF5mq-Vc2GG3-S7437M-9GHZje-gHGmxJ-bxMVBx-cthshA-oLhtnh-QJ4rhJ-QLGXZ8-PES9cS-9WfGvE-gxTitc-xnFjAi-bsAK1m-9VrtEq-df6WeT"
+S04370	Tylopsis lilifolia	long	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	abundances unclear	.
+S04380	Saga campbelli	.	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"image of green in Field Guide Greece, image of brown https://www.researchgate.net/figure/Saga-campbelli-gracilis-Histria-05082006-photo-Ionut-Iorgu_fig2_313218456"
+S04390	Saga hellenica	short	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	image of green and brown in Field Guide Greece
+S04400	Saga natoliae	short	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	"image of green in Field Guide Greece, image of brown https://www.alamy.de/balkan-sagen-cricket-saga-natoliae-die-grosste-rauberische-insekten-in-europa-ein-mountain-road-samos-griechenland-europa-zu-durchqueren-image60560260.html"
+S04410	Saga pedo	short	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	"Field guide France, Austria"
+S04420	Saga rammei	.	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"image of green in Field Guide Greece, image of brown https://www.biolib.cz/en/image/id250600/"
+S04430	Saga rhodiensis	.	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	.	"images of two brown in Field Guide Greece, images of multiple brown and one green on GoE"
+S04440	Ctenodecticus bolivari	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S04450	Ctenodecticus granatensis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	"only few images on google search, e.g. https://www.google.com/search?client=firefox-b-d&biw=1876&bih=1021&tbm=isch&sa=1&ei=HCrRXffaH8TJkwWWobyoBQ&q=Ctenodecticus+granatensis&oq=Ctenodecticus+granatensis&gs_l=img.3...9887.9887..10686...0.0..0.107.107.0j1......0....2j1..gws-wiz-img.jAMU-ETPpF0&ved=0ahUKEwj32MbGjfHlAhXE5KQKHZYQD1UQ4dUDCAY&uact=5#imgrc=a6LMt4wq1av_lM:"
+S04460	Ctenodecticus lusitanicus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	several images of brown on google and flickr
+S04470	Ctenodecticus major	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S04480	Ctenodecticus masferreri	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	just few indiviuals on google search
+S04490	Ctenodecticus pupulus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	images of multiple brown on google
+S04500	Ctenodecticus ramburi	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S04510	Ctenodecticus siculus	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	a few images of brown on google search
+S04520	Ctenodecticus thymi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	a few images of brown on google search
+S04530	Miramiola pusilla	.	NA	NA	NA	NA	NA	NA	NA	.	no images	"several images of brown on google, but identification not certain"
+S04540	Decticus albifrons	long	exceptional	dominant	exceptional-dominant	polymorphic	absent	absent	absent	.	.	individual with clear green on http://naturewonders.org/picture?/2441/category/126-tettigoniidae
+S04550	Decticus aprutianus	short	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	images of both morphs on http://www.pyrgus.de/Decticus_aprutianus_en.html
+S04560	Decticus loudoni	short	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	.	images of both morphs in GoE
+S04570	Decticus verrucivorus	long	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	"dorsal stripe, geographic variation"	.	.
+S04580	Anadrymadusa (Anadrymadusa) brevipennis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S04590	Anadrymadusa (Anadrymadusa) ornatipennis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S04600	Anadrymadusa (Anadrymadusa) retowskii	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	multiple images of brown on google search
+S04610	Anadrymadusa (Orodusa) beckeri	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S04620	Anadrymadusa (Orodusa) robusta	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	single image on http://nasekomus.ru/2014/08/10/kuznechik
+S04630	Ceraeocercus fuscipennis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	images of multiple brown on OSF and Google search
+S04640	Drymadusa dorsalis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	multiple brown on google search
+S04650	Lithodusa daghestanica	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	mentioned in https://bioone.org/journals/journal-of-orthoptera-research/volume-18/issue-1/034.018.0107/Systematics-and-Bioacoustics-of-the-Genus-Lithodusa-Orthoptera--Tettigoniidae/10.1665/034.018.0107.full
+S04660	Paradrymadusa galitzini	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S04670	Paradrymadusa picta	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	multiple brown on google search
+S04680	Paradrymadusa sordida	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S04690	Gampsocleis abbreviata	short	rare	dominant	rare-dominant	polymorphic	absent	absent	absent	.	.	.
+S04700	Gampsocleis glabra	long	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"images of brown in field guide France, multiple images of brown in OrthopteraApp, image of brown in Fauna Moldavia"
+S04710	Gampsocleis schelkovnikovae	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	multiple images of green in OSF and google search
+S04720	Gampsocleis sedakovii	.	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"multiple images on flicke and google search, brown individual on flickr https://www.flickr.com/photos/evergestis/9354245496/in/photolist-ffmUnv-nrrnmL-e26TU9-e26TxN-ffAXhL"
+S04730	Onconotus laxmanni	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	multiple images of brown on google search
+S04740	Onconotus servillei	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	"images of multiple brown on GoE and google search, Fauna Moldavia"
+S04750	Eupholidoptera annamariae	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S04760	Eupholidoptera astyla	.	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	images of both morphs on http://www.pyrgus.de/Eupholidoptera_astyla_en.html
+S04770	Eupholidoptera bimucronata	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	"images on OSF, mentioned in Fauna Italy"
+S04780	Eupholidoptera cephalonica	.	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"image of brown in Field Guide Greece, image on https://www.flickr.com/photos/laughingthrush/22588632246/in/photolist-ArbEMj-Aq5DoE-zvuvo8"
+S04790	Eupholidoptera chabrieri	short	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"image of brown on https://www.flickr.com/photos/photomaletic/21132923362/in/photolist-ycrKRC-PhzdYw-2h7eiur-a7RXu2-okX5ry-75db72-o46HrY-di8fNW-5sgfbC-KP94Wg-dDEPmT-VfVNT7-fCdoZS-2aRVck3-s9Gb2V-4TRJXR-di8gb1-75h3Ls-75h3qd-fBY61k-KiQTg8-d8SiCo-iw6aNh-4ioM6W-9V7sQX-61jVMu-4ioM5G-4ijGEa-VUG3vt-87CvBM-6ZD7By-fVVb9M-6ZCVxw-4ijGFg-fGuxws-d8SiJm-nYSHDi-nGFvFf-c9NJaj-cpWnp1-dDEPoB-a2gh4S-af142g-75h3GL-6UYobE-7oPZc2-286Rz54-o1oDDL-6zG1aj-6UYnQL, both morphs also on http://www.pyrgus.de/Eupholidoptera_chabrieri_en.html"
+S04800	Eupholidoptera cretica	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S04810	Eupholidoptera danconai	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	"images of brown indiviudal on GoE, also Field Guide Italy"
+S04820	Eupholidoptera epirotica	.	rare	dominant	rare-dominant	polymorphic	absent	absent	absent	.	.	"images of apparently two brown in Field Guide Greece, invidual with clear green (though not much) on GoE, also https://www.iucnredlist.org/ja/species/45462354/45462379"
+S04830	Eupholidoptera feri	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S04840	Eupholidoptera forcipata	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S04850	Eupholidoptera garganica	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S04860	Eupholidoptera gemellata	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S04870	Eupholidoptera giuliae	.	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	"images of both morphs in Field Guide Greece, also on http://www.pyrgus.de/Eupholidoptera_giuliae_en.html"
+S04880	Eupholidoptera hesperica	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	images of green on GoE
+S04890	Eupholidoptera icariensis	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	"image of brown nymphae on GoE, image of green, e.g. http://www.focusnatura.at/tettigoniidae-laubheuschrecken-bush-crickets/"
+S04900	Eupholidoptera jacquelinae	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S04910	Eupholidoptera kykladica	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	just one individual on GoE (same on OSF)
+S04920	Eupholidoptera latens	.	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"images of brown in Field Guide Greece, green individual on OSF"
+S04930	Eupholidoptera leucasi	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S04940	Eupholidoptera magnifica	short	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	"images of green on GoE, images of both, including (almost) brown on http://www.pyrgus.de/Eupholidoptera_magnifica_en.html, also brown nymphae on flickr"
+S04950	Eupholidoptera mariannae	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S04960	Eupholidoptera megastyla	.	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	.	"images of two brown in Field Guide Greece, images of both morphs on GoE"
+S04970	Eupholidoptera pallipes	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S04980	Eupholidoptera parsina	.	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	image of brown on http://www.pyrgus.de/Eupholidoptera_prasina_en.html
+S04990	Eupholidoptera schmidti	short	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	image of brown on http://www.pyrgus.de/Eupholidoptera_schmidti_en.html
+S05000	Eupholidoptera smyrnensis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	"images of two brown in Field Guide Greece, more images of brown on google, e.g. http://www.pyrgus.de/Eupholidoptera_smyrnensis_en.html"
+S05010	Eupholidoptera spinigera	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	images of two brown in Field Guide Greece
+S05020	Eupholidoptera tyrrhenica	.	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	"images of brown individuals in Field guide France, image of many green on iNaturalist"
+S05030	Eupholidoptera uvarovi	.	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	images of both morphs in Field Guide Greece
+S05040	Parapholidoptera castaneoviridis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	images of two brown in Field Guide Greece
+S05050	Parapholidoptera noxia	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	few images of brown on google search
+S05060	Parapholidoptera signata	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	few images of brown on google search
+S05070	Pholidoptera aptera	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S05080	Pholidoptera brevipes	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S05090	Pholidoptera dalmatica	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	multiple images on GoE
+S05100	Pholidoptera ebneri	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only one image	https://www.biolib.cz/en/image/id214866/
+S05110	Pholidoptera fallax	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	multiple images on GoE
+S05120	Pholidoptera femorata	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S05130	Pholidoptera frivaldszkyi	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	"multiple images of green on GoE on google, single brown individual on wikipedia not safe ID"
+S05140	Pholidoptera griseoaptera	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S05150	Pholidoptera littoralis	short	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	.	"images in OrthopteraApp clearly show mostly green, images in Fauna Moldavia clearly brown"
+S05160	Pholidoptera lucasi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S05170	Pholidoptera macedonica	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S05180	Pholidoptera pustulipes	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S05190	Pholidoptera rhodopensis	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S05200	Pholidoptera stankoi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S05210	Pholidoptera transsylvanica	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S05220	Amedegnatiana vicheti	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S05230	Anonconotus alpinus	short	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"brown indiviuals mentioned in Bellmann, images of almost brown in OrthopteraApp, image of clear brown on GoE"
+S05240	Anonconotus apenninigenus	short	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	abundances unclear	brown to green mentioned in Fauna Italy
+S05250	Anonconotus baracunensis	short	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"images of both morphs on http://www.pyrgus.de/Anonconotus_baracunensis.html, also Bellmann France"
+S05260	Anonconotus ghiliani	short	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	.	images of both morphs on http://www.pyrgus.de/Anonconotus_ghilianii.html
+S05270	Anonconotus italoaustriacus	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	no image of brown individual found
+S05280	Anonconotus ligustinus	short	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	images of both morphs on http://www.pyrgus.de/Anonconotus_ligustinus.html
+S05290	Anonconotus mercantouri	.	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	.	images of both morphs on http://www.pyrgus.de/Anonconotus_mercantouri.html
+S05300	Anonconotus occidentalis	short	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	.	"images of green on GoE, images of both morphs on google search and http://www.pyrgus.de/Anonconotus_occidentalis.html"
+S05310	Anonconotus pusillus	short	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"images of one brown and one with small parts green on OSF, images of both morphs on http://www.pyrgus.de/Anonconotus_pusillus.html (though still with slight green)"
+S05320	Anonconotus sibyllinus	short	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	"images of both morhs on OSF, image of brown on iNaturalist"
+S05330	Antaxius (Antaxius) kraussii	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	"images of brown on GoE, also brown individuals from google search"
+S05340	Antaxius (Chopardius) beieri	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S05350	Antaxius (Chopardius) chopardi	.	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	.	many green and a few less of brown on google saerch
+S05360	Antaxius (Chopardius) florezi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S05370	Antaxius (Chopardius) hispanicus	.	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	.	"Field guide Austria, a few green on google search"
+S05380	Antaxius (Chopardius) pedestris	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	doubtful green individual on https://www.inaturalist.org/observations/29727905
+S05390	Antaxius (Chopardius) sorrezensis	.	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	.	quite a few images of both morphs on google search
+S05400	Antaxius (Chopardius) spinibrachius	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S05410	Antaxius (Cyrnantaxius) bouvieri	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S05420	Antaxius (Hoelzeliana) difformis	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S05430	Anterastes serbicus	short	rare	dominant	rare-dominant	polymorphic	absent	absent	absent	.	.	"image of greenish individual in Field Guide Greece, quite many images of brown on GoE"
+S05440	Bicolorana bicolor	polymorph	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	"image in Bellmann France, also own images"
+S05450	Bicolorana burri	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S05460	Bicolorana kraussi	short	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"brown individuals mentioned in Bellmann, images of green on GoE, multiple images of brown on Web search (under Metriptera kuntzeni)"
+S05470	Broughtonia arnoldi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	single brown individual on https://twitter.com/orthopterach/status/1029073358430920705
+S05480	Broughtonia domogledi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	single brown individual on https://www.iucnredlist.org/species/64551374/70271673
+S05490	Bucephaloptera bucephala	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S05500	Incertana decorata	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	multiple images on google
+S05510	Incertana drepanensis	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	a few images of brown on google search
+S05520	Incertana incerta	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	several images of brown on google search
+S05530	Metrioptera brachyptera	polymorph	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	abundances unclear	.
+S05540	Metrioptera buyssoni	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	images of green in Field Guide France
+S05550	Metrioptera hoermanni	.	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	abundances unclear	http://orthoptera.speciesfile.org/Common/basic/ShowImage.aspx?TaxonNameID=1142505&ImageID=208093; https://www.iucnredlist.org/species/68427655/70271693
+S05560	Metrioptera karnyana	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S05570	Metrioptera maritima	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	https://www.biodiversidadvirtual.org/insectarium/search.html
+S05580	Metrioptera prenjica	.	NA	NA	NA	NA	NA	NA	NA	.	only three images	.
+S05590	Metrioptera saussuriana	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S05600	Metrioptera tsirojanni	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	images of two green morphs in Field Guide Greece
+S05610	Metriptera ambigua	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S05620	Metriptera caprai	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	"multiple images on GoE and google, metioned in Fauna Italy"
+S05630	Modestana ebneri	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	images of brown on GoE
+S05640	Modestana modesta	short	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	abundances unclear	images of both morphs in Bellmann and GoE
+S05650	Montana barretii	.	absent	mono	absent-mono	brown	absent	absent	absent	.	just one image	image of brown on google search
+S05660	Montana carpetana	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only three images	https://www.biodiversidadvirtual.org/insectarium/search.html
+S05670	Montana decticiformis	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S05680	Montana eversmanni	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S05690	Montana macedonica	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S05700	Montana medvedevi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only three images	.
+S05710	Montana montana	long	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	.	"Field guide Austria, images of green in OrthopteraApp"
+S05720	Montana striata	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	images on GoE
+S05730	Montana stricta	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	images on GoE
+S05740	Motana daghestanica	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S05750	Pachytrachis bosniacus	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S05760	Pachytrachis frater	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S05770	Pachytrachis gracilis	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S05780	Pachytrachis striolatus	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S05790	Pachytrachis tumidus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	multiple images on OSF
+S05800	Parnassiana chelmos	.	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	.	images of both morphs in Field Guide Greece
+S05810	Parnassiana coracis	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S05820	Parnassiana dirphys	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only one image	one image on GoE
+S05830	Parnassiana fusca	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S05840	Parnassiana gionica	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S05850	Parnassiana menalon	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only one image	https://www.iucnredlist.org/species/68450241/70624711
+S05860	Parnassiana nigromarginata	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S05870	Parnassiana panaetolikon	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S05880	Parnassiana parnassica	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	images of brown on GoE
+S05890	Parnassiana parnon	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S05900	Parnassiana tenuis	.	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	images of both morphs in Field Guide Greece and GoE
+S05910	Parnassiana tymphiensis	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	images of green morphs in Field Guide Greece
+S05920	Parnassiana tymphrestos	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	image of green on GoE
+S05930	Platycleis affinis	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S05940	Platycleis albopunctata	long	rare	dominant	rare-dominant	polymorphic	absent	absent	absent	.	.	"image of partly green individual in Fauna Austria, also mentioned in Bellmann, image of Green in Fauna Baden-Wuerttemberg (mentioned as mostly fresh individuals)"
+S05950	Platycleis concii	polymorph	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S05960	Platycleis escalerai	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S05970	Platycleis falx	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S05980	Platycleis grisea	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S05990	Platycleis iberica	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only three images	https://www.biodiversidadvirtual.org/insectarium/search.html; https://www.iucnredlist.org/species/68452832/75340471
+S06000	Platycleis intermedia	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06010	Platycleis ragusai	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	decription in Fauna Italy
+S06020	Platycleis romana	polymorph	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06030	Platycleis sabulosa	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06040	Platycleis waltheri	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S06050	Psorodonotus fieberi	short	common	dominant	common-dominant	polymorphic	absent	present	absent	"males usually brown, females green"	.	images of green individuals in Bellmann and on GoE
+S06060	Psorodonotus illyricus	short	common	dominant	common-dominant	polymorphic	absent	present	absent	"males usually brown, females green"	abundances unclear	.
+S06070	Psorodonotus macedonicus	short	common	dominant	common-dominant	polymorphic	absent	present	absent	"males usually brown, females green"	abundances unclear	"images of brown indiviudals in Bellmann, image of both morphs in Field Guide Greece, also http://www.pyrgus.de/Psorodonotus_macedonicus.html"
+S06080	Psorodonotus specularis	.	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	image of green on http://www.biodiversity-georgia.net/gallery.php?taxon=Psorodonotus
+S06090	Psorodonotus venosus	.	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	image of green https://www.flickr.com/photos/kz_yb/48796645957/in/photolist-fx5L6W-fwQ4nB-x8r9rb-wcn1iv-fAZrDh-2hkZyN2-paMyJS-wcn1V2-wckebt
+S06100	Pterolepis berberica	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S06110	Pterolepis cordubensis	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S06120	Pterolepis elymica	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06130	Pterolepis lusitanica	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S06140	Pterolepis pedata	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06150	Pterolepis spoliata	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	images of brown on GoE
+S06160	Rhacocleis agiostratica	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06170	Rhacocleis anatolica	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06180	Rhacocleis andikithirensis	.	NA	NA	NA	NA	NA	NA	NA	.	.	.
+S06190	Rhacocleis annulata	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06200	Rhacocleis baccettii	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06210	Rhacocleis bonfilsi 	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06220	Rhacocleis bucchicii	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S06230	Rhacocleis corsicana 	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06240	Rhacocleis crypta	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06250	Rhacocleis derrai 	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06260	Rhacocleis distinguenda	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06270	Rhacocleis edentata	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06280	Rhacocleis ferdinandi 	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06290	Rhacocleis germanica	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06300	Rhacocleis graeca	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06310	Rhacocleis insularis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06320	Rhacocleis japygia	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06330	Rhacocleis lithoscirtetes	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06340	Rhacocleis maculipedes	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06350	Rhacocleis neglecta	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06360	Rhacocleis poneli	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06370	Rhacocleis silvestrii	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06380	Rhacocleis thyrrhenica	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06390	Rhacocleis trilobata	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06400	Rhacocleis uvarovi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06410	Rhacocleis werneri	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06420	Roeseliana ambitiosa	.	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	images of both morphs in Field Guide Greece
+S06430	Roeseliana azami	short	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	.	green individual shown in Bellmann
+S06440	Roeseliana brunneri	short	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	abundances unclear	images of both morphs in Bellmann
+S06450	Roeseliana fedtschenkoi	short	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	"one on http://biodiversity-georgia.net/index.php?imageID=11109, two with clear green in Fauna Moldavia"
+S06460	Roeseliana oporina	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only one image	https://www.semanticscholar.org/paper/Rediscovery-of-the-ghost-bush-cricket-Roeseliana-in-Guti%C3%A9rrez-Rodr%C3%ADguez-Garc%C3%ADa-Par%C3%ADs/505ab0661597f2bba9710d9076d51b69575c167d
+S06470	Roeseliana roeselii	polymorph	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	.
+S06480	Sardoplatycleis galvagnii	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06490	Schizonotinus forficalis	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S06500	Schizonotinus kerketa	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S06510	Sepiana sepium	short	rare	dominant	rare-dominant	polymorphic	absent	absent	absent	.	.	green indiviuals mentioned as rare in Bellmann
+S06520	Sporadiana sporadarum	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	image of brown on GoE and multiple on google search
+S06530	Tessellana  nigrosignata	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06540	Tessellana carinata	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06550	Tessellana lagrecai	polymorph	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06560	Tessellana orina	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06570	Tessellana tessellata	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06580	Tessellana veyseli	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06590	Vichetia knipperi 	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S06600	Vichetia oblongicollis	.	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	.	"images of both morphs in Field Guide Greece, images of green in OSF"
+S06610	Yersinella beybienko	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06620	Yersinella raymondi	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06630	Zeuneriana abbreviata	short	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	.	"image of green wings in Field guide France, same image and more comments in Bellmann, image with green pronotom and wings in Field Guide Italy"
+S06640	Zeuneriana amplipennis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06650	Zeuneriana burriana	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06660	Zeuneriana marmorata	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06670	Amphiestris baetica	.	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"images of green on GoE, multiple images of brown on google search, e.g. https://www.google.com/search?q=Amphiestris+baetica&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj9u-uDiPHlAhWREVAKHXmCCvIQ_AUIESgB&biw=1876&bih=1021&dpr=0.9#imgrc=0Oap98bLINGeCM:"
+S06680	Medecticus assimilis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	"multiple images on google search, a few green rather obviously misidentified"
+S06690	Tettigonia balcanica	long	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	"rarely yellowish to brownish mentioned in Bellmann, image of brown in Field Guide Greece"
+S06700	Tettigonia cantans	long	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	own observation (images)
+S06710	Tettigonia caudata	long	dominant	exceptional	dominant-exceptional	polymorphic	absent	absent	absent	.	.	image of non-green in OrthopteraApp
+S06720	Tettigonia hispanica	.	mono	absent	mono-absent	green	absent	absent	absent	.	only one image	https://www.iucnredlist.org/species/68485030/75342367
+S06730	Tettigonia longispina	long	mono	absent	mono-absent	green	absent	absent	absent	.	.	images of green on GoE
+S06740	Tettigonia silana 	long	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	"multiple images of brown on GoE, image of brown in Field Guide Italy"
+S06750	Tettigonia viridissima	long	dominant	exceptional	dominant-exceptional	polymorphic	absent	absent	absent	yellow-legged variants	.	"own observation (images), images of yellow-legged morphs in Bellmann France"
+S06760	Thyreonotus bidens	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06770	Thyreonotus corsicus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06780	Acrida bicolor	.	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	.	.
+S06790	Acrida oxycephala	.	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	.	.
+S06800	Acrida turrita	long	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	abundances unclear	both morphs mentioned in Fauna Italy
+S06810	Acrida ungarica	long	common	dominant	common-dominant	polymorphic	absent	weak	absent	polymorphism more common in females	.	.
+S06820	Calephorus compressicornis	long	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	abundances unclear	pictures of both colors in Field Guide France and Bellmann France
+S06830	Phlocerus menetriesii	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S06840	Phlocerus zaitzevi	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S06850	Duroniella carinata	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S06860	Duroniella fracta	long	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	abundances unclear	.
+S06870	Duroniella gracilis	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S06880	Duroniella kalmyka	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S06890	Duroniella laticornis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only one image	https://www.researchgate.net/publication/316487733_Grasshoppers_and_locusts_Orthoptera_Caelifera_from_the_Palestinian_territories_at_the_Palestine_Museum_of_Natural_History_Grasshoppers_and_locusts_Orthoptera_Caelifera_from_the_Palestinian_territories/figures?lo=1
+S06900	Duroniella lucasii	long	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	.	images of both morphs in Field Guide Italy
+S06910	Truxalis nasuta	long	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	.
+S06920	Calliptamus barbarus	long	absent	mono	absent-mono	brown	absent	absent	absent	striped morph f. marginella	.	striped morph f. marginella in Bellmann France
+S06930	Calliptamus coelesyriensis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06940	Calliptamus italicus	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06950	Calliptamus siciliae	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06960	Calliptamus tenuicercis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06970	Calliptamus wattenwylianus	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06980	Paracaloptenus bolivari	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S06990	Paracaloptenus caloptenoides	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S07000	Paracaloptenus cristatus	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S07010	Anacridium aegyptium	long	absent	mono	absent-mono	brown	absent	absent	present	juveniles green	.	.
+S07020	Schistocerca gregaria	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	green explicitly not mentioned in Bellmann
+S07030	Acanthacris ruficornis	.	rare	dominant	rare-dominant	polymorphic	absent	absent	absent	green individuals predominately nymphs	.	.
+S07040	Egnatioides desertus	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S07050	Egnatius apicalis	.	NA	NA	NA	NA	NA	NA	NA	.	only one image	http://acrida.nsu.ru/photo/ACRIDIDAE/CATANTOPINAE/EGNATIINI/pages/Egnatius_apicalis_m_1238.html
+S07060	Eyprepocnemis plorans	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S07070	Heteracris adspersa	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	color mentioned in Fauna Italy
+S07080	Heteracris annulosa	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	color mentioned in Fauna Italy
+S07090	Heteracris littoralis	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S07100	Heteracris pterosticha	.	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	.
+S07110	Arcyptera (Arcyptera) fusca	polymorph	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"[1] image of brown individual, own observations (with images)"
+S07120	Arcyptera (Arcyptera) tornosi	.	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	.
+S07130	Arcyptera (Pararcyptera) alzonai	long	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	abundances unclear	.
+S07140	Arcyptera (Pararcyptera) brevipennis	short	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	"images of green morphs in Bellmann, of brown morphs in Field guide France, both morphs in GoE"
+S07150	Arcyptera (Pararcyptera) kheili	short	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	"images of both forms (green less clear) in Field Guide France, both morphs in GoE"
+S07160	Arcyptera (Pararcyptera) labiata	short	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	images of both morphs on GoE
+S07170	Arcyptera (Pararcyptera) microptera	long	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	.	"images of completely non-green individuals in Field Guide France, images of both morphs on GoE"
+S07180	Chrysochraon beybienkoi	short	common	dominant	common-dominant	polymorphic	absent	present	absent	.	.	.
+S07190	Chrysochraon dispar	short	common	dominant	common-dominant	polymorphic	absent	present	absent	males sometimes yellow-brown	.	"males sometimes yellow-brown (Bellmann, image in OrthoperaApp)"
+S07200	Euchorthippus albolineatus	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	color mentioned in Fauna Italy
+S07210	Euchorthippus angustulus	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S07220	Euchorthippus chopardi	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S07230	Euchorthippus declivus	polymorph	regular	dominant	regular-dominant	polymorphic	present	absent	absent	.	.	"sometimes greenish tinge (Field Guide Switzerland), but seems mostly metallic, image in Field Guide France, multiple clear green images in OrthopteraApp"
+S07240	Euchorthippus elegantulus	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S07250	Euchorthippus pulvinatus	long	absent	mono	absent-mono	brown	present	absent	absent	.	.	.
+S07260	Euchorthippus sardous	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	color mentioned in Fauna Italy
+S07270	Euthystira brachyptera	short	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	Fauna Austria
+S07280	Podismopsis keisti	short	common	dominant	common-dominant	polymorphic	present	weak	absent	metallic	.	.
+S07290	Podismopsis poppiusi	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S07300	Podismopsis relicta	.	regular	dominant	regular-dominant	polymorphic	present	weak	absent	.	.	not very clear images on GoE
+S07310	Podismopsis styriaca	short	common	dominant	common-dominant	polymorphic	absent	strong	absent	.	.	"image of both morphs in Bellmann, sexual dimorphism (Fauna Austria)"
+S07320	Podismopsis transsylvana	.	common	dominant	common-dominant	polymorphic	absent	strong	absent	.	.	images of both morphs on GoE
+S07330	Dociostaurus (Dociostaurus) hispanicus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S07340	Dociostaurus (Dociostaurus) maroccanus	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S07350	Dociostaurus (Dociostaurus) minutus	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	color mentioned in Fauna Italy
+S07360	Dociostaurus (Kazakia) brevicollis	long	absent	mono	absent-mono	brown	present	absent	absent	.	.	.
+S07370	Dociostaurus (Kazakia) genei	long	absent	mono	absent-mono	brown	present	absent	absent	.	.	.
+S07380	Dociostaurus (Kazakia) jagoi	long	absent	mono	absent-mono	brown	present	absent	absent	.	.	.
+S07390	Dociostaurus (Kazakia) tartarus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only two images	http://macroid.ru/showphoto.php?photo=168951
+S07400	Dociostaurus (Stauronotulus) crassiusculus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only three images	.
+S07410	Dociostaurus (Stauronotulus) kraussi	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S07420	Eremippus cornatus	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S07430	Eremippus costatus	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S07440	Eremippus mirami	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S07450	Eremippus opacus	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S07460	Eremippus simplex	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S07470	Eremippus sobolevi	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S07480	Notostaurus albicornis	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S07490	Notostaurus anatolicus	long	absent	mono	absent-mono	brown	present	absent	absent	.	.	.
+S07500	Xerohippus occidentalis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	http://www.almerinatura.com/galerias/insectos/imagepages/insecto202.html; https://www.biodiversidadvirtual.org/insectarium/Xerohippus-occidentalis-Pascual-y-Aguirre-1996-img924427.html
+S07510	Xerohippus solerii	.	absent	mono	absent-mono	brown	present	absent	absent	.	.	.
+S07520	Aeropedellus variegatus	mixed	dominant	common	dominant-common	polymorphic	present	absent	absent	.	abundances unclear	light green individuals mostly in females (Field Guide Gemany)
+S07530	Aeropedellus volgensis	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S07540	Brachycrotaphus tryxalicerus	long	absent	mono	absent-mono	brown	absent	absent	absent	.	"just one image, green likely exists"	.
+S07550	Chorthippus (Chorthippus) abchasicus	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S07560	Chorthippus (Chorthippus) albomarginatus	long	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	abundances unclear	.
+S07570	Chorthippus (Chorthippus) dichrous	long	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	images of brown in Fauna Moldavia
+S07580	Chorthippus (Chorthippus) dorsatus	long	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	abundances unclear	.
+S07590	Chorthippus (Chorthippus) ferdinandi	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S07600	Chorthippus (Chorthippus) jucundus	.	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	usually brown according to Fauna Catalunya
+S07610	Chorthippus (Chorthippus) karelini	long	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	both morphs mentioned in Fauna Italy
+S07620	Chorthippus (Chorthippus) lacustris	.	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	.	"images of brown morphs in Field Guide Greece, images of both morphs in OSF"
+S07630	Chorthippus (Chorthippus) loratus	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	images of brown morphs in Field Guide Greece and Fauna Moldavia
+S07640	Chorthippus (Chorthippus) oschei	long	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	"images of green morphs in Field Guide Greece, images of brown morphs in Bellmann, images of both in Fauna Moldavia"
+S07650	Chorthippus (Chorthippus) smardai	.	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	only two images	https://www.orthoptera.ch/news/item/chorthippus-smardai-from-slovakia; https://www.iucnredlist.org/ja/species/69638285/69638393
+S07660	Chorthippus (Glyptobothrus) acroleucus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	multiple images on GoE
+S07670	Chorthippus (Glyptobothrus) alticola	short	regular	dominant	regular-dominant	polymorphic	present	absent	absent	.	.	green mentioned in Bellmann (not as exceptional)
+S07680	Chorthippus (Glyptobothrus) apicalis	long	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	"image of brown in Fauna Catalunya, images of both in GoE"
+S07690	Chorthippus (Glyptobothrus) apricarius	long	rare	dominant	rare-dominant	polymorphic	present	absent	absent	.	.	"rarely green (Fauna Austria), image of pied in OrthopteraApp, images of shiny slight-green in OrthopteraApp, image of clear green (long-winged) on GoE"
+S07700	Chorthippus (Glyptobothrus) ariasi	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S07710	Chorthippus (Glyptobothrus) biguttulus	long	regular	dominant	regular-dominant	polymorphic	present	absent	absent	"pink, geographic variation"	.	.
+S07720	Chorthippus (Glyptobothrus) bionatus	long	common	dominant	common-dominant	polymorphic	present	absent	absent	.	abundances unclear	images of both morphs in Field Guide France
+S07730	Chorthippus (Glyptobothrus) biroi	.	absent	mono	absent-mono	brown	present	absent	absent	.	.	images of multiple brown on GoE and google search
+S07740	Chorthippus (Glyptobothrus) bornhalmi	long	absent	mono	absent-mono	brown	present	absent	absent	.	.	.
+S07750	Chorthippus (Glyptobothrus) brunneus	long	exceptional	dominant	exceptional-dominant	polymorphic	present	absent	absent	.	.	"own observation (image), green mentioned as very rare in Field Guide Switzerland, images of pied in OrthopteraApp"
+S07760	Chorthippus (Glyptobothrus) cazurroi	.	mono	absent	mono-absent	green	absent	absent	absent	.	only one image	https://www.iucnredlist.org/species/16084437/75087364
+S07770	Chorthippus (Glyptobothrus) chloroticus	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S07780	Chorthippus (Glyptobothrus) cialancensis	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S07790	Chorthippus (Glyptobothrus) corsicus	.	absent	mono	absent-mono	brown	present	absent	absent	.	.	.
+S07800	Chorthippus (Glyptobothrus) crassiceps	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S07810	Chorthippus (Glyptobothrus) dubius	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S07820	Chorthippus (Glyptobothrus) eisentrauti	long	absent	mono	absent-mono	brown	present	absent	absent	.	.	images of pied in OrthopteraApp
+S07830	Chorthippus (Glyptobothrus) elbrusianus	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S07840	Chorthippus (Glyptobothrus) jacobsi	.	absent	mono	absent-mono	brown	present	absent	absent	.	.	.
+S07850	Chorthippus (Glyptobothrus) jutlandica	.	absent	mono	absent-mono	brown	present	absent	absent	.	only three images	https://www.fugleognatur.dk/gallery.asp?mode=ShowLarge&ID=112103
+S07860	Chorthippus (Glyptobothrus) macrocerus	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	images in Fauna Moldavia
+S07870	Chorthippus (Glyptobothrus) maritimus	.	absent	mono	absent-mono	brown	present	absent	absent	.	.	.
+S07880	Chorthippus (Glyptobothrus) messinai	long	absent	mono	absent-mono	brown	present	absent	absent	.	.	"multiple images on OSF, color mentioned in Fauna Italy"
+S07890	Chorthippus (Glyptobothrus) mollis	long	regular	dominant	regular-dominant	polymorphic	present	absent	absent	.	.	images of pied in OrthopteraApp
+S07900	Chorthippus (Glyptobothrus) porphyropterus	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S07910	Chorthippus (Glyptobothrus) pulloides	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	images of brown morphs in Field Guide Greece
+S07920	Chorthippus (Glyptobothrus) pullus	short	absent	mono	absent-mono	brown	absent	absent	absent	pink	.	pink on GoE and Fauna Moldavia
+S07930	Chorthippus (Glyptobothrus) reissingeri	.	absent	mono	absent-mono	brown	present	absent	absent	.	.	https://www.biodiversidadvirtual.org/insectarium/Chorthippus-(Glyptobothrus)-cf.-reissingeri-img526789.html
+S07940	Chorthippus (Glyptobothrus) rubratibialis	long	absent	mono	absent-mono	brown	present	absent	absent	.	.	.
+S07950	Chorthippus (Glyptobothrus) sampeyrensis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S07960	Chorthippus (Glyptobothrus) sangiorgii	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only one image	.
+S07970	Chorthippus (Glyptobothrus) saulcyi	long	absent	mono	absent-mono	brown	present	absent	absent	.	.	.
+S07980	Chorthippus (Glyptobothrus) trinacriae	long	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	.	image of green in Field Guide Italy
+S07990	Chorthippus (Glyptobothrus) vagans	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S08000	Chorthippus (Glyptobothrus) willemsei	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	images of brown morphs in Field Guide Greece
+S08010	Chorthippus (Glyptobothrus) yersini	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S08020	Chorthippus (NA) hirtus	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S08030	Chorthippus (NA) moreanus	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S08040	Chorthippus (NA) nevadensis	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S08050	Chorthippus (NA) parnon	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S08060	Gomphoceridius brevipennis	short	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	.	images of both morphs in Field Guide France
+S08070	Gomphocerippus rufus	long	exceptional	dominant	exceptional-dominant	polymorphic	present	absent	absent	.	.	"image of green dorsal strip individual in field Guide Germany, images of putative pied in OrthopteraApp"
+S08080	Gomphocerus sibiricus	long	common	dominant	common-dominant	polymorphic	present	absent	absent	.	.	.
+S08090	Italohippus albicornis	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	"color mentioned in Fauna Italy, multiple images on GoE"
+S08100	Italohippus modestus	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	multiple images on GoE
+S08110	Italohippus monticola	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	"color mentioned in Fauna Italy, multiple images on GoE"
+S08120	Myrmeleotettix antennatus	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	images in Fauna Moldavia
+S08130	Myrmeleotettix maculatus	long	common	dominant	common-dominant	polymorphic	present	absent	absent	.	abundances unclear	abundances mentioned in Fauna Baden/Wuerttemberg (images of both morphs there)
+S08140	Myrmeleotettix pallidus	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S08150	Pseudochorthippus montanus	polymorph	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	abundances unclear	.
+S08160	Pseudochorthippus parallelus	polymorph	dominant	common	dominant-common	polymorphic	present	absent	absent	geographic variation	.	.
+S08170	Pseudochorthippus tatrae	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only two images	https://www.biolib.cz/cz/image/id171898/ ; https://www.biolib.cz/en/image/id13699/
+S08180	Stauroderus scalaris	long	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	metallic	abundances unclear	.
+S08190	Caucasippus rufipes	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S08200	Ochrilidia harterti	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S08210	Ochrilidia nuragica	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	color mentioned in Fauna Italy
+S08220	Ochrilidia pruinosa	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	"images of multiple brown in OSF, Fauna Greece"
+S08230	Ochrilidia sicula	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	color mentioned in Fauna Italy
+S08240	Ochrilidia tibialis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only two images	.
+S08250	Rammeihippus dinaricus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only two images	https://www.inaturalist.org/observations/27374239
+S08260	Ramburiella (Palaeocesa) bolivari	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S08270	Ramburiella (Palaeocesa) turcomana	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S08280	Ramburiella (Ramburiella) hispanica	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S08290	Omocestus (Dreuxius) antigai	short	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	"image of green in Fauna Catalunya, images of two green in Bellmann France, images of two brown in Field Guide France"
+S08300	Omocestus (Dreuxius) bolivari	.	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	.
+S08310	Omocestus (Dreuxius) femoralis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only two images	.
+S08320	Omocestus (Dreuxius) minutissimus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S08330	Omocestus (Dreuxius) navasi	.	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	abundances unclear	image of both morphs in field guide France
+S08340	Omocestus (Dreuxius) uhagonii	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only one image	.
+S08350	Omocestus (Omocestus) africanus 	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	color mentioned in Fauna Italy
+S08360	Omocestus (Omocestus) defauti	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S08370	Omocestus (Omocestus) haemorrhoidalis	long	rare	dominant	rare-dominant	polymorphic	present	absent	absent	.	.	"occasionally green on upperside (Field Guide Germany, Bellmann)"
+S08380	Omocestus (Omocestus) lopadusae	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	color mentioned in Fauna Italy
+S08390	Omocestus (Omocestus) minutus	long	absent	mono	absent-mono	brown	present	absent	absent	.	.	images in Fauna Moldavia
+S08400	Omocestus (Omocestus) panteli	.	absent	mono	absent-mono	brown	present	absent	absent	.	.	images on GoE
+S08410	Omocestus (Omocestus) petraeus	long	regular	dominant	regular-dominant	polymorphic	present	absent	absent	.	.	"image of green female in Field Guide France, images of both morphs on GoE, images of brown in Fauna Moldavia, images of both morphs in Bellmann France"
+S08420	Omocestus (Omocestus) raymondi	long	absent	mono	absent-mono	brown	present	absent	absent	.	.	.
+S08430	Omocestus (Omocestus) rufipes	long	dominant	common	dominant-common	polymorphic	present	strong	absent	"males always non-green, females mostly green"	.	"males always non-green, females mostly green (Fauna Austria, Field Guide Switzerland)"
+S08440	Omocestus (Omocestus) uvarovi	long	absent	mono	absent-mono	brown	present	absent	absent	.	.	color mentioned in Fauna Italy
+S08450	Omocestus (Omocestus) viridulus	long	dominant	rare	dominant-rare	polymorphic	present	weak	absent	.	brown regular or rare	brown mostly in males (Field Guide Switzerland)
+S08460	Stenobothrus apenninus	short	common	dominant	common-dominant	polymorphic	present	absent	absent	.	abundances unclear	images of both morphs in Bellmann
+S08470	Stenobothrus bolivarii	.	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	.	images of clear green on GoE
+S08480	Stenobothrus carbonarius	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S08490	Stenobothrus caucasicus	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S08500	Stenobothrus clavatus	long	dominant	common	dominant-common	polymorphic	present	absent	absent	.	abundances unclear	.
+S08510	Stenobothrus cotticus	long	regular	dominant	regular-dominant	polymorphic	present	absent	absent	.	.	images of both morphs in Bellmann France
+S08520	Stenobothrus crassipes	short	regular	dominant	regular-dominant	polymorphic	present	absent	absent	.	abundances unclear	.
+S08530	Stenobothrus croaticus	long	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	abundances unclear	.
+S08540	Stenobothrus eurasius	long	dominant	common	dominant-common	polymorphic	present	absent	absent	.	.	images of both morphs in Bellmann
+S08550	Stenobothrus festivus	.	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	abundances unclear	images of both morphs in Field Guide France
+S08560	Stenobothrus fischeri	long	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	.	"image of fully brown individual in Fauna Austria, images of both morphs in Field Guide France, image of brown in Field Guide Italy"
+S08570	Stenobothrus graecus	.	mono	absent	mono-absent	green	present	absent	absent	.	.	.
+S08580	Stenobothrus grammicus	long	dominant	common	dominant-common	polymorphic	present	absent	absent	.	abundances unclear	"images of both morphs in Field Guide France, images of both morphs (two each) in Bellmann France"
+S08590	Stenobothrus lineatus	long	dominant	regular	dominant-regular	polymorphic	present	absent	absent	pink quite common	.	"image of brown (pied) individual in Fauna Austria, OrthopteraApp, image of pied in Field Guide Greece"
+S08600	Stenobothrus miramae	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S08610	Stenobothrus mistshenkoi	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S08620	Stenobothrus nigromaculatus	polymorph	dominant	regular	dominant-regular	polymorphic	present	absent	absent	.	.	.
+S08630	Stenobothrus posthumus	.	absent	mono	absent-mono	brown	present	absent	absent	.	only one image	https://www.iucnredlist.org/species/16084389/70215646
+S08640	Stenobothrus rubicundulus	long	dominant	common	dominant-common	polymorphic	present	weak	absent	green mostly in females	.	.
+S08650	Stenobothrus stigmaticus	long	dominant	regular	dominant-regular	polymorphic	present	absent	absent	.	.	.
+S08660	Stenobothrus ursulae	short	dominant	common	dominant-common	polymorphic	present	absent	absent	.	.	images of both morphs in Bellmann France
+S08670	Bohemanella frigida	polymorph	dominant	common	dominant-common	polymorphic	absent	absent	absent	.	.	.
+S08680	Chortopodisma cobellii	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S08690	Cophopodisma iberica	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S08700	Cophopodisma pyrenaea	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S08710	Epipodisma pedemontana	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S08720	Italopodisma acuminata	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	images of brown on GoE
+S08730	Italopodisma baccettii	short	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S08740	Italopodisma costae	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	images of brown on GoE
+S08750	Italopodisma ebneri	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S08760	Italopodisma fiscellana	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S08770	Italopodisma lagrecai	short	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	only two images	"image of slighly green in Field Guide Italy, https://www.iucnredlist.org/species/15039296/15428988"
+S08780	Italopodisma lucianae	short	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S08790	Italopodisma samnitica	short	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S08800	Italopodisma trapezoidalis	short	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	.	images of both morphs on GoE
+S08810	Micropodisma koenigi	.	mono	absent	mono-absent	green	absent	absent	absent	.	only two images	http://biodiversity-georgia.net/index.php?imageID=11104; http://www.macrogamta.lt/lt/fotografija/sk%C4%97riukas-micropodisma-koenigi-%E2%99%82-19345
+S08820	Micropodisma salamandra	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S08830	Micropodisma svanetica	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S08840	Miramella (Galvagniella) albanica	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	images of multiple green in OSF
+S08850	Miramella (Kisella) alpina	short	dominant	exceptional	dominant-exceptional	polymorphic	absent	absent	absent	.	.	"image of melanistic (black) individual (male) in Fauna Baden-Wuerttemberg, occasionally mostly black indiviudals (Fauna Austria)"
+S08860	Miramella (Kisella) carinthiaca	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S08870	Miramella (Kisella) irena	polymorph	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S08880	Capraiuscola ebneri 	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S08890	Nadigella formosanta	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S08900	Odontopodisma acuminata	.	mono	absent	mono-absent	green	absent	absent	absent	.	only one image	.
+S08910	Odontopodisma albanica	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S08920	Odontopodisma carpathica	short	mono	absent	mono-absent	green	absent	absent	absent	.	only one image	https://www.iucnredlist.org/species/16084554/70204964
+S08930	Odontopodisma decipiens	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S08940	Odontopodisma fallax	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S08950	Odontopodisma montana	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S08960	Odontopodisma rubripes	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	just one image on GoE
+S08970	Odontopodisma schmidtii	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S08980	Oropodisma chelmosi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S08990	Oropodisma erymanthosi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09000	Oropodisma karavica	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09010	Oropodisma kylinii	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09020	Oropodisma lagrecai	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09030	Oropodisma macedonica	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09040	Oropodisma parnassica	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09050	Oropodisma taygetosi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09060	Oropodisma tymphrestosi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09070	Oropodisma willemsei	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09080	Pachypodisma crassa	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S09090	Pachypodisma lezgina	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S09100	Peripodisma ceraunii	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	images on GoE
+S09110	Peripodisma llofizii	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	images on GoE
+S09120	Peripodisma tymphii	short	rare	dominant	rare-dominant	polymorphic	absent	absent	absent	.	.	image of apparently green male in Field Guide Greece
+S09130	Podisma amedegnatoae	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09140	Podisma cantabricae	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	https://www.iucnredlist.org/ja/species/16084528/75089065; https://www.biodiversidadvirtual.org/insectarium/search.html
+S09150	Podisma carpetana	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09160	Podisma dechambrei	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09170	Podisma eitschbergeri	polymorph	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S09180	Podisma emiliae	polymorph	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	.	"images on GoE, image of slighly green in Field Guide Italy"
+S09190	Podisma goidanichi	polymorph	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S09200	Podisma magdalenae	polymorph	mono	absent	mono-absent	green	absent	absent	absent	.	.	image of green in Field Guide Italy
+S09210	Podisma pedestris	polymorph	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09220	Podisma ruffoi	polymorph	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S09230	Podisma satunini	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S09240	Podisma silvestrii	polymorph	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	.
+S09250	Podisma teberdina	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S09260	Podisma uvarovi	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S09270	Pseudopodisma fieberi	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	images GoE
+S09280	Pseudopodisma nagyi	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	images GoE
+S09290	Pseudopodisma transilvanica	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	images GoE
+S09300	Pseudoprumna baldensis	short	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S09310	Zubovskya banatica	.	mono	absent	mono-absent	green	absent	absent	absent	.	.	.
+S09320	Acrotylus fischeri	long	absent	mono	absent-mono	brown	present	absent	absent	.	.	.
+S09330	Acrotylus insubricus	long	absent	mono	absent-mono	brown	present	absent	absent	.	.	.
+S09340	Acrotylus longipes	long	absent	mono	absent-mono	brown	present	absent	absent	.	.	.
+S09350	Acrotylus patruelis	long	absent	mono	absent-mono	brown	present	absent	absent	.	.	image of pied individual in Field Guide France
+S09360	Bryodema gebleri	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only two images	.https://www.youtube.com/watch?v=cuhouaPUSsY; https://www.zin.ru/animalia/coleoptera/eng/berlov4a.htm
+S09370	Bryodemella (Bryodemella) tuberculatum	long	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	.	"often with green tinge (Field Guide Germany), grünliche mentioned in Bellmann"
+S09380	Aiolopus puissanti	long	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	.	pictures of both colors in Field Guide France
+S09390	Aiolopus simulatrix	long	absent	mono	absent-mono	brown	present	absent	absent	.	.	color mentioned in Fauna Italy
+S09400	Aiolopus strepens	long	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	green mostly in females	.	"images of both morphs in Bellmann France, green mostly in females (Fauna Austria, Field guide Switzerland)"
+S09410	Aiolopus thalassinus	long	dominant	regular	dominant-regular	polymorphic	present	weak	absent	brown mostly in males	.	"images of pied (not very pronounced) in OrthopteraApp and (very pronounced) in Fauna Catalunya, brown mostly in males (Fauna Austria)"
+S09420	Epacromius coerulipes	long	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	.	green mentioned as rare in Bellmann
+S09430	Epacromius pulverulentus	.	rare	dominant	rare-dominant	polymorphic	absent	absent	absent	pink quite common	.	.
+S09440	Epacromius tergestinus	long	regular	dominant	regular-dominant	polymorphic	absent	weak	absent	green mostly in females	.	"image of both morphs in Bellmann France, green mostly in females (Fauna Austria, Field guide Switzerland)"
+S09450	Paracinema tricolor	long	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	brown indiviudal on https://www.flickr.com/photos/69055300@N05/8057976452/in/photolist-Wtm6Et-8owaye-8oznj9-8ow9e8-8ozqJN-8ozoBW-aogUgW-27cAqY1-dgXq69-dcEc3V-azzJqv-amtTyK-fEk3Mg-fJQfK8-azAbrv-x4sLoT-anwtb6-az95Gr-azbJs3-cZHDUY-cXiAeQ-toDo21-azCNLY-azA9kk-d2an1b-dshpuV-aELFub-dh4eEu-d64ZG3-aDTDjq-aEKDhA-dgL18t-d2cfBo-dkpQeP-dgWD7r-dj827B-b5BFer-dgVt5q-dgWu33-djJex2-d2cbW1-dh3xPM-d9HR8s-dnn6ho-d2cnus-d2cahA-p6oTSZ-M82GQj-p6q1Ms-9fjiou
+S09460	Platypygius crassus	.	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	.	images of both morphs in Field Guide Greece and GoE
+S09470	Platypygius platypygius	long	regular	dominant	regular-dominant	polymorphic	present	absent	absent	.	.	both morphs in http://www.pyrgus.de/Platypygius_platypygius.html
+S09480	Locusta migratoria	long	dominant	regular	dominant-regular	polymorphic	present	absent	absent	partly phase-dependent	.	"also polymorphic within each phase (Field Guide Switzerland), image of pied in OrthopteraApp"
+S09490	Oedaleus decorus	long	common	dominant	common-dominant	polymorphic	present	weak	absent	green more common among females	abundances unclear	green more common among females (Field guide Switzerland)
+S09500	Psophus stridulus	long	absent	mono	absent-mono	brown	absent	absent	absent	reddish	.	reddish individual on https://www.inaturalist.org/taxa/470524-Psophus-stridulus/browse_photos
+S09510	Pyrgodera armata	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09520	Scintharista notabilis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09530	Celes variabilis	long	absent	mono	absent-mono	brown	present	absent	absent	.	.	image of pied individual in Field Guide France
+S09540	Mioscirtus wagneri	.	absent	mono	absent-mono	brown	present	absent	absent	.	just one image	.
+S09550	Oedipoda aurea	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09560	Oedipoda caerulescens	long	exceptional	dominant	exceptional-dominant	polymorphic	present	absent	absent	reddish	.	"image of red in Field Guide Italy, image of pied in Field Guide Greece, slighly green individual on https://www.flickr.com/photos/johnv2400/20628457158/in/photolist-xqSeCs-MG3fkY-a6sNTF-7xxhnL-KEbqgj-27W2Nr9-27W2NuW-29AvieU-2aa3ZG1-26Fxcd1-KhVpeB-298fw9k-26nvzQY-BdhvZa-27ynznq-YJM26x-fAWeDF-61xxou-SrDWTm-Mhu2NW-4Xgh1t-2hap7J2-2hap7YF-LzDQhe-K5xqbZ-wFAfmp-27No12b-2hoHitp-2harLzT-6Mqv1T-L3uWJQ-LoYx54-29YzXGy-eQ396d-XSobUS-MvzcBE-KUxC2f-2edmy9k-7X5wKo-HysGbA-dbKC8i-2hoK7Na-DLhsMc-26dpVFW-7X5TQm-ExeVvD-295nWej-d8EHsj-Ha3FTq-25BSAdz, also https://www.alamy.com/blue-winged-grasshopper-oedipoda-caerulescens-on-gritty-earth-lower-saxony-germany-image278998816.html, also https://www.agefotostock.com/age/en/Stock-Images/Rights-Managed/BWI-BS318432"
+S09570	Oedipoda charpentieri	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09580	Oedipoda coerulea	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09590	Oedipoda cynthiae	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09600	Oedipoda fuscocincta	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09610	Oedipoda germanica	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09620	Oedipoda miniata	long	absent	mono	absent-mono	brown	present	absent	absent	.	.	image of pied in Field Guide Greece
+S09630	Oedipoda schochii	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S09640	Oedipoda venusta	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09650	Leptopternis gracilis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only three images	http://4.bp.blogspot.com/-nEG4luMKK8U/Thbng_5Lv2I/AAAAAAAAXfg/Qrg-HRvP1H4/s1600/%25D7%2593%25D7%25A7%25D7%25A0%25D7%25A3-1.jpg; http://acrinwafrica.mnhn.fr/bases/fiches/Leptopternis_gracilis.html; https://science.mnhn.fr/institution/mnhn/collection/eo/item/caelif491?lang=en_US
+S09660	Morphacris fasciata	.	absent	mono	absent-mono	brown	present	absent	absent	.	.	images of multiple brown on GoE and google search
+S09670	Mecostethus parapleurus	long	dominant	rare	dominant-rare	polymorphic	absent	weak	absent	males paler	.	"images of very faded individuals in OrthopteraApp, image of clearly non-green individual in Fauna Baden-Wuerttemberg, males paler (Field Guide Switzerland), occasionally yellow-brown (Field Guide Germany)"
+S09680	Stethophyma grossum	long	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	metallic	.	"image of quite non-green individual in Field Guide Germany, image of fully non-green in OrthopteraApp"
+S09690	Hyalorrhipis clausii	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S09700	Pseudoceles obscurus	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S09710	Pseudoceles oedipodioides	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S09720	Sphingoderus carinatus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09730	Sphingonotus (Neosphingonotus) almeriense	.	absent	mono	absent-mono	brown	present	absent	absent	.	.	"https://www.insecte.org/forum/viewtopic.php?t=150212; https://www.iucnredlist.org/species/47687276/47687278, https://www.biodiversidadvirtual.org/insectarium/Sphingonotus-(Neosphingonotus)-almeriense-img1028693.html"
+S09740	Sphingonotus (Neosphingonotus) azurescens	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09750	Sphingonotus (Neosphingonotus) morini	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09760	Sphingonotus (Neosphingonotus) nodulosus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09770	Sphingonotus (Neosphingonotus) pachecoi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09780	Sphingonotus (Sphingonotus) arenarius	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09790	Sphingonotus (Sphingonotus) caerulans	long	exceptional	dominant	exceptional-dominant	polymorphic	present	absent	absent	.	.	"unusual individual with greenish wings http://www.naturagraeca.com/ws/168,,2,Grasshopers-Crickets"
+S09800	Sphingonotus (Sphingonotus) candidus	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	color mentioned in Fauna Italy
+S09810	Sphingonotus (Sphingonotus) coerulipes	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only two images	"https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Sphingonotus_(Sphingonotus)_coerulipes_coerulipes_Uvarov,_1922.jpg; https://commons.m.wikimedia.org/wiki/File:Sphingonotus_(Sphingonotus)_coerulipes_coerulipes_Uvarov,_1922_hind_legs.jpg"
+S09820	Sphingonotus (Sphingonotus) corsicus	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09830	Sphingonotus (Sphingonotus) crivellarii	.	absent	mono	absent-mono	brown	present	absent	absent	.	.	.
+S09840	Sphingonotus (Sphingonotus) eurasius	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	color mentioned in Fauna Italy
+S09850	Sphingonotus (Sphingonotus) gypsicola	.	absent	mono	absent-mono	brown	present	absent	absent	.	only three images	.
+S09860	Sphingonotus (Sphingonotus) halocnemi	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S09870	Sphingonotus (Sphingonotus) halophilus	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S09880	Sphingonotus (Sphingonotus) imitans	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09890	Sphingonotus (Sphingonotus) lluciapomaresi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09900	Sphingonotus (Sphingonotus) lusitanicus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09910	Sphingonotus (Sphingonotus) maculatus	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S09920	Sphingonotus (Sphingonotus) obscuratus	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	color mentioned in Fauna Italy
+S09930	Sphingonotus (Sphingonotus) octofasciatus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09940	Sphingonotus (Sphingonotus) personatus	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09950	Sphingonotus (Sphingonotus) rubescens	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09960	Sphingonotus (Sphingonotus) salinus	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S09970	Sphingonotus (Sphingonotus) savignyi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S09980	Sphingonotus (Sphingonotus) uvarovi	long	absent	mono	absent-mono	brown	present	absent	absent	.	.	.
+S09990	Thalpomena algeriana	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only three images	http://acrinwafrica.mnhn.fr/bases/fiches/Thalpomena_algeriana.html; https://science.mnhn.fr/institution/mnhn/collection/eo/item/caelif537?lang=fr_FR
+S10000	Pezotettix anatolica	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10010	Pezotettix giornae	short	absent	mono	absent-mono	brown	absent	absent	present	juveniles green	.	.
+S10020	Pezotettix lagoi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10030	Tropidopola cylindrica	long	dominant	common	dominant-common	polymorphic	absent	absent	absent	brown dorasal strip	.	"described as mostly green in Field Guide Italy, green and brown mentioned in Fauna Catalunya, green mentioned as more common in Fauna Italy, many images of brown (more) and green on google search"
+S10040	Tropidopola graeca	long	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	green mentioned as more common in Fauna Italy
+S10050	Tropidopola longicornis	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S10060	Dericorys carthagenovae	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only two images	.
+S10070	Dericorys tibialis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only one image	http://insecta.pro/taxonomy/496818
+S10080	Euryparyphes bolivari	.	mono	absent	mono-absent	green	absent	absent	absent	.	only one image	https://www.flickr.com/photos/georgeoide/6726928989/in/photolist-bfrgCi
+S10090	Euryparyphes laetus	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S10100	Euryparyphes terrulentus	.	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	yellow	.	bright yellow specimen on iNaturalist.org
+S10110	Nocaracris bulgaricus	short	absent	mono	absent-mono	brown	present	absent	absent	.	.	.
+S10120	Nocaracris cyanipes	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10130	Nocaracris istanbul	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	https://www.orthoptera.ch/news/item/nocaracris-istanbul
+S10140	Nocaracris latipes	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S10150	Nocaracris rimansonae	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S10160	Nocaracris rubripes	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S10170	Nocarodes daghestanicus	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S10180	Nocarodes geniculatus	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S10190	Paranocarodes chopardi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10200	Paranocarodes fieberi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10210	Paranocarodes straubei	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only three images	.
+S10220	Acinipe calabra	short	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	.	images of both morphs on GoE
+S10230	Acinipe comptei	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S10240	Acinipe deceptoria	.	rare	dominant	rare-dominant	polymorphic	absent	absent	absent	.	.	green on https://www.flickr.com/photos/153631697@N03/47510107812/in/photolist-ap3xg5-ap3DgY-2foiHPS-9U5Ycv-yAfnf7-ps77A2-pGv8cQ-DCVbBt-e3w4cj-oMN7Ne-pGv8xQ
+S10250	Acinipe eulaliae	.	absent	mono	absent-mono	brown	absent	absent	absent	colored strip around neck	only two images	"https://www.iucnredlist.org/species/64336679/75323282; https://www.biodiversidadvirtual.org/insectarium/Acinipe-img225359.html, specimen with colored strip around neck on biodiversidadvirtual.org"
+S10260	Acinipe galvagnii	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	color mentioned in Fauna Italy
+S10270	Acinipe hesperica	.	exceptional	dominant	exceptional-dominant	polymorphic	absent	absent	absent	.	.	green on https://www.flickr.com/photos/miguelarteche/17957827983/in/photolist-cFiGgN-yDTFAN-7z8gug-7Etmjd-a4iADC-a4fLT8-a4fMoK-7Xh1EM-tmSyBR-pki5j3-cSRT6o-gjVYxu-278C3vk-RFV4X9-Pt3f9C-3Kr7Jn-24p77JL-99GPng-8MBrrZ-rLkeYE-zDHE9o-zGVvFe-Hicr27-a3amY5-GqLJoD-7EtmFA-ahtUh9-ahr9nV-arCm9g-aeRmz1-9c4hcq-arFa1J-9c1cGK-9c1dfz-9pXCMT-27qgt1m
+S10280	Acinipe ignatii	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10290	Acinipe mabillei	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only two images	https://www.biodiversidadvirtual.org/insectarium/Acinipe-mabillei-(Bolivar-1878)-img1036384.html
+S10300	Acinipe paulinoi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10310	Acinipe perisi	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S10320	Acinipe segurensis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10330	Acinipe tibialis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10340	Eumigus ayresi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10350	Eumigus cucullatus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10360	Eumigus monticola	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10370	Eumigus punctatus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10380	Eumigus rubioi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10390	Kurtharzia nugatoria	.	absent	mono	absent-mono	brown	absent	absent	absent	.	just one image	.
+S10400	Kurtharzia sulcata	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	https://www.biodiversidadvirtual.org/insectarium/search.html
+S10410	Ocneridia nigropunctata	short	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	"both morphs mentioned in Fauna Italy, images on GoE"
+S10420	Ocnerodes brunneri	.	absent	mono	absent-mono	brown	absent	absent	absent	.	just one image	.
+S10430	Ocnerodes fallaciosus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10440	Ocnerodes prosternalis	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10450	Ocnerodes soleri	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	https://www.biodiversidadvirtual.org/insectarium/search.html
+S10460	Orchamus kaltenbachi	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10470	Orchamus raulinii	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10480	Orchamus yersini	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10490	Pamphagus marmoratus	short	dominant	rare	dominant-rare	polymorphic	absent	absent	absent	.	.	"green mentioned in Fauna Italy, images of rather brown (though not quite complete) indiviuals on GoE"
+S10500	Pamphagus ortolaniae	short	common	dominant	common-dominant	polymorphic	absent	absent	absent	.	.	both morphs mentioned in Fauna Italy
+S10510	Pamphagus sardeus	short	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	"image of brown on GoE, image of green in Field Guide Italy"
+S10520	Asiotmethis limbatus	polymorph	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10530	Asiotmethis muricatus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only two images	http://insecta.pro/taxonomy/496472
+S10540	Asiotmethis tauricus	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S10550	Asiotmethis turritus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only one image	https://www.peopleofar.com/2011/11/16/armenian-names-in-nature-part-2/
+S10560	Glyphanus obtusus	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10570	Glyphotmethis heldreichi	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10580	Prionotropis appula	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	color mentioned in Fauna Italy
+S10590	Prionotropis azami	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10600	Prionotropis flexuosa	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10610	Prionotropis hystrix	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10620	Prionotropis rhodanica	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10630	Prionotropis willemsorum	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10640	Pyrgomorpha (Pyrgomorpha) bispinosa	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	http://insecta.pro/gallery?size=sm&sp=507666
+S10650	Pyrgomorpha (Pyrgomorpha) cognata	.	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	.	http://www.pyrgus.de/Pyrgomorpha_cognata.html; http://www.cyprusdiscovery.net/2016/09/orthoptera-of-cyprus-pyrgomorpha-cognata.html
+S10660	Pyrgomorpha (Pyrgomorpha) conica	long	common	dominant	common-dominant	polymorphic	absent	weak	absent	"red and pink, polymorphism mostly in females"	.	.
+S10670	Pyrgomorphula serbica	.	dominant	regular	dominant-regular	polymorphic	absent	absent	absent	.	.	images of both morphs on OSF
+S10680	Paratettix meridionalis	long	rare	dominant	rare-dominant	polymorphic	absent	absent	absent	.	.	"individual with slight green https://www.flickr.com/photos/valter/7326022344/, also https://commons.wikimedia.org/wiki/File:Paratettix_meridionalis_(Tetrigidae)_-_(imago),_R%C3%ADo_Guadaiza,_Spain.jpg, also https://www.google.de/search?hl=en&tbm=isch&sa=1&ei=rkXZXdL8BfrImwWMmaKACw&q=Paratettix+meridionalis&oq=Paratettix+meridionalis&gs_l=img.3..0.17304.17304..18056...0.0..0.78.78.1......0....2j1..gws-wiz-img.E7-kDIAGmVg&ved=0ahUKEwjSi-_7yIDmAhV65KYKHYyMCLAQ4dUDCAY&uact=5#imgrc=Gyj4wsz7YDVOJM:"
+S10690	Tetrix bipunctata	polymorph	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10700	Tetrix bolivari	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10710	Tetrix ceperoi	long	regular	dominant	regular-dominant	polymorphic	absent	absent	absent	.	.	"own observations, image of green on GoE"
+S10720	Tetrix depressa	polymorph	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10730	Tetrix fuliginosa	long	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10740	Tetrix kraussi	polymorph	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10750	Tetrix nodulosa	.	exceptional	dominant	exceptional-dominant	polymorphic	absent	absent	absent	.	.	individuals with slight green https://www.inaturalist.org/taxa/762127-Tetrix-nodulosa
+S10760	Tetrix subulata	polymorph	rare	dominant	rare-dominant	polymorphic	absent	absent	absent	.	.	"green individual in Field Guide Italy, green individual on https://www.flickr.com/photos/12639178@N07/33767450358/in/photolist-TrV1xY-2fvx255-FEBN3M-TWK42Z-G5rpFi-2g2v99R-FHsCE5-4D71gC-6o6pvu-TP4Q6W-sQ4PB2-cNH1VC-cNGXj7-fk3yDV-6d6dqc-2eonBmV-4D72Dq-RsAgkq-9ChA2C-2dVCL72-e7XmvL-MECTSV-TJnmPE-2cfCj6c-KbtVGE-26tQEd6-24baijy-ngpoEm-2heMLws-R7ANrm-e8EMbi-6hMQWJ-CKmjWh-21TqBSA-6xKGk9-2fECZ4f-UKu8Xp-2eVj8PC-Q7w6rj-7YkFzP-JhRH8E-2f3NVCn-9CeFwK-G9eode-V5rHUA-2dT7E91-enVJDv-fj44fT-aCnXz8-FZchMf"
+S10770	Tetrix tenuicornis	polymorph	rare	dominant	rare-dominant	polymorphic	absent	absent	absent	.	.	image of individual with slight green on GoE
+S10780	Tetrix transsylvanica	.	absent	mono	absent-mono	brown	absent	absent	absent	.	only two images	https://www.researchgate.net/publication/265050365_First_records_of_Croatian_and_Serbian_Tetrigidae_Orthoptera_Caelifera_with_description_of_a_new_subspecies_of_Tetrix_transsylvanica_Bazyluk_Kis_1960/figures?lo=1
+S10790	Tetrix tuerki	polymorph	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10800	Tetrix undulata	polymorph	rare	dominant	rare-dominant	polymorphic	absent	absent	absent	.	.	"Field guide France, image on GoE, image in Fauna Moldavia"
+S10810	Bruntridactylus irremipes	.	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10820	Bruntridactylus tartarus	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S10830	Asiotridactylus fasciatus	.	NA	NA	NA	NA	NA	NA	NA	.	no images	.
+S10840	Xya iberica	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	mentioned in Bellmann
+S10850	Xya pfaendleri	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.
+S10860	Xya variegata	short	absent	mono	absent-mono	brown	absent	absent	absent	.	.	.

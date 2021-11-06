@@ -1,0 +1,1087 @@
+SpecID	Species	H01_Marshes_and_reeds	H02_Moist_grassland	H03_Mesic_grassland	H04_Dry_grassland	H05_Herbal_grasslands	H06_Rural_areas	H07_Open_ground	H08_Shrubs_and_heath	H09_Dry_bushland	H10_Mesic_bushland	H11_Forest_margins	H12_Woodlands	H13_Subalpine_shrubs	H14_Subalpine_grassland	H15_Alpine_rocks	H16_Ponds_and_streams	H17_Dunes_and_beaches	H18_Lowland_rocky_habitats	H19_Rocks_and_walls	H20_Domestic_habitats	H21_Caves	H22_Ants	U01_Bushes_and_trees	U02_Dense_vegetation	U03_Ground_and_vegetation	U04_Ground_dwelling	U05_Subterranean	U06_Diurnal	U07_Diurnal_and_nocturnal	U08_Nocturnal	U09_Spring	U10_Summer	U11_Winter	RemarksHabitat
+S00010	Acheta domesticus	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	x	-	-	-	x	x	x	-	.
+S00020	Acheta gossypii	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00030	Acheta hispanicus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00040	Gryllodinus kerkennensis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00050	Gryllodinus odicus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00060	Gryllus (Gryllus) bimaculatus	-	-	-	x	-	x	x	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	x	x	-	x	-	x	x	-	.
+S00070	Gryllus (Gryllus) campestris	-	-	x	x	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	x	-	x	x	-	.
+S00080	Melanogryllus desertus	-	-	x	x	-	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	x	x	-	x	-	x	x	-	.
+S00090	Svercus palmetorum	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	x	-	.
+S00100	Tartarogryllus sandanski	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00110	Tartarogryllus tartarus	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	x	x	-	x	-	x	x	-	.
+S00120	Eumodicogryllus bordigalensis	-	-	-	x	-	-	x	-	-	-	-	-	-	-	-	x	-	x	-	-	-	-	-	-	-	x	x	-	-	x	x	x	-	.
+S00130	Eumodicogryllus theryi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00140	Gryllodes sigillatus	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	x	-	-	x	-	x	x	x	.
+S00150	Gryllopsis caspicus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00160	Modicogryllus (Modicogryllus) algirius	-	-	-	-	x	-	-	-	-	x	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	x	x	-	.
+S00170	Modicogryllus (Modicogryllus) frontalis	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	x	x	-	x	-	x	x	-	.
+S00180	Modicogryllus (Modicogryllus) pallipalpis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00190	Modicogryllus (Modicogryllus) truncatus	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	x	x	x	-	.
+S00200	Brachytrupes megacephalus	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	x	-	x	-	x	-	-	.
+S00210	Grylloderes brunneri	-	-	-	x	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	x	-	.
+S00220	Grylloderes orlovskajae	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00230	Sciobia (Sciobia) barbara	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00240	Sciobia (Sciobia) boscai	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00250	Sciobia (Sciobia) lusitanica	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00260	Sciobia (Thliptoblemmus) caliendra	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00270	Sciobia (Thliptoblemmus) natalia	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00280	Turanogryllus lateralis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00290	Eugryllodes escalerae	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00300	Eugryllodes littoreus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00310	Eugryllodes pipiens	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	x	-	-	x	-	.
+S00320	Gryllomorpha (Gryllomorpha) dalmatina	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	x	x	x	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S00330	Gryllomorpha (Gryllomorpha) longicauda	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00340	Gryllomorpha (Gryllomorphella) albanica	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00350	Gryllomorpha (Gryllomorphella) miramae	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00360	Gryllomorpha (Gryllomorphella) uclensis	-	-	-	-	-	-	-	-	x	-	x	-	-	-	-	-	x	x	-	x	-	-	-	-	-	x	x	-	-	x	-	x	-	.
+S00370	Acroneuroptila puddui	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S00380	Acroneuroptila sardoa	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S00390	Ovaliptila buresi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00400	Ovaliptila kinzelbachi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S00410	Ovaliptila krueperi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00420	Ovaliptila lindbergi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	.	.	.	.
+S00430	Ovaliptila nana	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	-	-	.
+S00440	Ovaliptila newmanae	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	x	x	x	-	.
+S00450	Ovaliptila rhodos	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	-	x	-	.
+S00460	Ovaliptila wettsteini	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	x	-	-	.
+S00470	Ovaliptila willemsei	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00480	Petaloptila (Italoptila) andreinii	-	-	-	x	-	-	-	-	x	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	x	-	x	-	.
+S00490	Petaloptila (Petaloptila) aliena	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	x	-	x	-	.
+S00500	Petaloptila (Petaloptila) clauseri	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00510	Petaloptila (Petaloptila) fermini 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00520	Petaloptila (Petaloptila) fragosoi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00530	Petaloptila (Petaloptila) isabelae	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00540	Petaloptila (Petaloptila) pallescens	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00550	Petaloptila (Petaloptila) pyrenaea	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S00560	Petaloptila (Petaloptila) sbordonii	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00570	Petaloptila (Zapetaloptila) baenai 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00580	Petaloptila (Zapetaloptila) barrancoi 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00590	Petaloptila (Zapetaloptila) bolivari	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00600	Petaloptila (Zapetaloptila) carabajali	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00610	Petaloptila (Zapetaloptila) llorenteae	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00620	Petaloptila (Zapetaloptila) malacitana	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00630	Petaloptila (Zapetaloptila) mogon	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00640	Petaloptila (Zapetaloptila) venosa	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00650	Oecanthus dulcisonans	-	-	-	x	x	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	x	x	x	-	.
+S00660	Oecanthus pellucens	-	-	-	x	x	x	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	x	x	x	-	.
+S00670	Oecanthus turanicus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00680	Arachnocephalus vestitus	-	-	-	-	x	-	-	-	x	-	x	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	-	x	-	.
+S00690	Pseudomogoplistes byzantius	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	x	-	x	-	-	x	-	.
+S00700	Pseudomogoplistes squamiger	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	x	-	x	-	-	x	-	.
+S00710	Pseudomogoplistes vicentae	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	x	-	x	-	-	x	-	.
+S00720	Mogoplistes brunneus	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	x	-	.
+S00730	Mogoplistes kinzelbachi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	-	x	-	.
+S00740	Paramogoplistes dentatus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00750	Paramogoplistes novaki	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	x	x	-	.
+S00760	Paramogoplistes ortini	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00770	Nemobius interstitialis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00780	Nemobius sylvestris	-	-	-	-	-	-	-	-	x	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	x	-	-	x	-	.
+S00790	Pteronemobius (Pteronemobius) heydenii	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	x	x	-	x	-	x	x	-	.
+S00800	Pteronemobius (Stilbonemobius) lineolatus	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	x	-	x	-	.
+S00810	Stenonemobius (Ocellonemobius) bicolor	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00820	Stenonemobius (Stenonemobius) gracilis	x	-	-	x	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	x	-	-	-	x	-	x	-	.
+S00830	Natula averni	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	-	-	x	-	x	-	.
+S00840	Trigonidium (Trigonidium) cicindeloides	x	x	-	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	x	-	.
+S00850	Gryllotalpa africana	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00860	Gryllotalpa cossyrensis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00870	Gryllotalpa gryllotalpa	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	x	x	-	-	.
+S00880	Gryllotalpa krimbasi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	x	x	x	-	.
+S00890	Gryllotalpa octodecim	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00900	Gryllotalpa quindecim	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00910	Gryllotalpa sedecim	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	x	x	-	-	.
+S00920	Gryllotalpa septemdecimchromosomica	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	x	-	-	x	x	x	-	.
+S00930	Gryllotalpa stepposa	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	x	x	x	-	.
+S00940	Gryllotalpa unispina	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00950	Gryllotalpa viginti	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00960	Gryllotalpa vigintiunum	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S00970	Gryllotalpa vineae	-	-	-	x	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	x	x	x	-	.
+S00980	Myrmecophilus (Myrmecophilus) acervorum	-	-	-	x	x	-	-	-	x	-	-	x	-	-	-	-	-	-	-	-	-	x	-	-	-	x	x	-	-	x	x	x	x	.
+S00990	Myrmecophilus (Myrmecophilus) aequispina	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	x	-	-	x	x	x	x	.
+S01000	Myrmecophilus (Myrmecophilus) balcanicus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01010	Myrmecophilus (Myrmecophilus) baronii	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01020	Myrmecophilus (Myrmecophilus) fuscus	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	x	-	-	x	x	x	x	.
+S01030	Myrmecophilus (Myrmecophilus) gallicus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01040	Myrmecophilus (Myrmecophilus) hirticaudus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01050	Myrmecophilus (Myrmecophilus) myrmecophilus	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	x	-	-	x	x	x	x	.
+S01060	Myrmecophilus (Myrmecophilus) nonveilleri	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01070	Myrmecophilus (Myrmophilina) ochraceus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01080	Diestrammena asynamora	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01090	Dolichopoda (Capraiacris) aegilion	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01100	Dolichopoda (Capraiacris) baccettii	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01110	Dolichopoda (Capraiacris) bolivari	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01120	Dolichopoda (Chopardina) bormansi	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	x	-	x	-	-	-	-	x	x	-	-	x	-	x	-	.
+S01130	Dolichopoda (Chopardina) cyrnensis	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	x	-	x	-	-	-	-	x	x	-	-	x	-	x	-	.
+S01140	Dolichopoda (Chopardina) lustriae	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01150	Dolichopoda (Chopardina) muceddai	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01160	Dolichopoda (Chopardina) remyi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01170	Dolichopoda (Chopardina) schiavazzii	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01180	Dolichopoda (Dolichopoda) annae	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01190	Dolichopoda (Dolichopoda) araneiformis	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01200	Dolichopoda (Dolichopoda) azami	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	x	-	x	-	-	-	-	x	x	-	-	x	-	x	-	.
+S01210	Dolichopoda (Dolichopoda) bakolitsasi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01220	Dolichopoda (Dolichopoda) calidnae	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01230	Dolichopoda (Dolichopoda) capreensis	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01240	Dolichopoda (Dolichopoda) chopardi	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	x	-	x	-	-	-	-	x	x	-	-	x	-	x	-	.
+S01250	Dolichopoda (Dolichopoda) christosnifoni	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01260	Dolichopoda (Dolichopoda) dalensi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01270	Dolichopoda (Dolichopoda) euxina	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01280	Dolichopoda (Dolichopoda) gasparoi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01290	Dolichopoda (Dolichopoda) geniculata	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	x	x	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01300	Dolichopoda (Dolichopoda) giachinoi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01310	Dolichopoda (Dolichopoda) giulianae	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01320	Dolichopoda (Dolichopoda) graeca	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01330	Dolichopoda (Dolichopoda) hussoni	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01340	Dolichopoda (Dolichopoda) ithakii	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01350	Dolichopoda (Dolichopoda) kalithea	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01360	Dolichopoda (Dolichopoda) kiriakii	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01370	Dolichopoda (Dolichopoda) laetitiae	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	x	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01380	Dolichopoda (Dolichopoda) linderii	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	x	x	x	-	-	-	-	x	x	-	-	x	-	x	-	.
+S01390	Dolichopoda (Dolichopoda) matsakisi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01400	Dolichopoda (Dolichopoda) naxia	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01410	Dolichopoda (Dolichopoda) palpata	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01420	Dolichopoda (Dolichopoda) paraskevi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01430	Dolichopoda (Dolichopoda) patrizii	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01440	Dolichopoda (Dolichopoda) pavesii	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01450	Dolichopoda (Dolichopoda) steriotisi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01460	Dolichopoda (Dolichopoda) thasosensis	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01470	Dolichopoda (Dolichopoda) unicolor	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01480	Dolichopoda (Petrochilosina) cassagnaui	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01490	Dolichopoda (Petrochilosina) insignis	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01500	Dolichopoda (Petrochilosina) makrykapa	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01510	Dolichopoda (Petrochilosina) ochtoniai	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01520	Dolichopoda (Petrochilosina) petrochilosi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01530	Dolichopoda (Petrochilosina) saraolacosi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01540	Dolichopoda (Petrochilosina) vandeli	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01550	Troglophilus (Paratroglophilus) neglectus	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01560	Troglophilus (Paratroglophilus) ovuliformis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01570	Troglophilus (Troglophilus) andreinii	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01580	Troglophilus (Troglophilus) brevicauda	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01590	Troglophilus (Troglophilus) cavicola	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	x	x	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01600	Troglophilus (Troglophilus) lagoi	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01610	Troglophilus (Troglophilus) lazaropolensis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01620	Troglophilus (Troglophilus) marinae	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01630	Troglophilus (Troglophilus) spinulosus	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01640	Troglophilus (Troglophilus) zoiai	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01650	Troglophilus (Troglophilus) zorae	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	x	-	-	-	-	x	x	-	-	x	x	x	x	.
+S01660	Bradyporus (Bradyporus) dasypus	-	-	-	x	x	x	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	x	x	-	.
+S01670	Bradyporus (Callimenus) macrogaster	-	-	-	x	x	x	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	x	-	-	.
+S01680	Bradyporus (Callimenus) multituberculatus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01690	Bradyporus (Callimenus) oniscus	-	-	-	x	x	x	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	x	x	-	.
+S01700	Pycnogaster (Bradygaster) sanchezgomezi	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S01710	Pycnogaster (Bradygaster) algecirensis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01720	Pycnogaster (Bradygaster) gaditana	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01730	Pycnogaster (Bradygaster) inermis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01740	Pycnogaster (Pycnogaster) jugicola	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01750	Pycnogaster (Pycnogaster) cucullatus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01760	Pycnogaster (Pycnogaster) graellsii	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01770	Pycnogaster (Pycnogaster) valentini	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01780	Albarracinia zapaterii	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	.	.	.	-	x	-	.
+S01790	Baetica ustulata	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01800	Callicrania (Callicrania) belarrensis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01810	Callicrania (Callicrania) denticulata	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01820	Callicrania (Callicrania) plaxicauda	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01830	Callicrania (Callicrania) ramburii	-	-	-	x	x	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S01840	Callicrania (Mucrocallicrania) demandae	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01850	Callicrania (Mucrocallicrania) faberi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01860	Callicrania (Mucrocallicrania) vicentae	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01870	Coracinotus notarioi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01880	Coracinotus politus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01890	Coracinotus presai	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01900	Coracinotus squamiferus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01910	Corsteropleurus chopardi	-	-	-	-	-	-	-	-	x	-	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	x	-	-	x	-	.
+S01920	Ephippiger apulus	-	-	-	x	x	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S01930	Ephippiger camillae	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S01940	Ephippiger carlottae	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S01950	Ephippiger cavannai	-	-	-	x	x	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S01960	Ephippiger discoidalis	-	-	-	x	x	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	x	-	-	-	x	-	.
+S01970	Ephippiger diurnus	-	-	-	x	x	x	-	-	x	-	x	x	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	-	x	-	.
+S01980	Ephippiger ephippiger	-	-	-	x	-	-	-	-	x	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	-	x	-	.
+S01990	Ephippiger melisi	-	-	-	x	x	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S02000	Ephippiger perforatus	-	-	-	x	x	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S02010	Ephippiger persicarius	-	-	-	x	x	x	-	-	x	x	x	x	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	x	-	-	-	x	-	.
+S02020	Ephippiger provincialis	-	-	-	x	x	x	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S02030	Ephippiger ruffoi	-	-	-	x	x	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S02040	Ephippiger terrestris	-	-	-	-	x	x	-	-	-	x	x	x	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	-	x	-	.
+S02050	Ephippiger zelleri	-	-	-	x	x	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S02060	Ephippigerida areolaria	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S02070	Ephippigerida asella	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S02080	Ephippigerida carinata	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02090	Ephippigerida longicauda	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02100	Ephippigerida marceti	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02110	Ephippigerida pantingana	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02120	Ephippigerida saussureiana	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02130	Ephippigerida (Ephippigerida) diluta	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02140	Ephippigerida (Ephippigerida) rosae	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02150	Ephippigerida (Lobionifera) laserena	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02160	Lluciapomaresius anapaulae	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02170	Lluciapomaresius asturiensis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02180	Lluciapomaresius eclipticus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02190	Lluciapomaresius nobrei	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02200	Lluciapomaresius ortegai	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	.
+S02210	Lluciapomaresius panteli	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	.
+S02220	Lluciapomaresius stalii	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02230	Lucasinova nigromarginata	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	.	.	.	-	x	-	.
+S02240	Neocallicrania barrosi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02250	Neocallicrania bolivarii	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02260	Neocallicrania lusitanica	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02270	Neocallicrania miegii	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02280	Neocallicrania selligera	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02290	Neocallicrania serrata	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02300	Parasteropleurus balearicus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02310	Parasteropleurus martorellii	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02320	Parasteropleurus perezi	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	.
+S02330	Platystolus martinezii	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	x	-	.
+S02340	Platystolus surcularius	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02350	Praephippigera pachygaster	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	-	x	-	.
+S02360	Sabaterpia hispanica	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02370	Sabaterpia paulinoi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02380	Sabaterpia taeniata	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02390	Sorapagus catalaunicus	-	-	-	-	-	x	-	x	x	-	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	.	.	.	-	x	-	.
+S02400	Steropleurus andalusius	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02410	Steropleurus brunneri	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02420	Steropleurus castellanus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02430	Steropleurus flavovittatus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02440	Steropleurus obsoletus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02450	Steropleurus pseudolus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02460	Steropleurus recticarinatus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02470	Synephippius obvius	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	.
+S02480	Uromenus agarenus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02490	Uromenus annae	-	-	-	x	x	x	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S02500	Uromenus bonneti	-	-	-	x	x	x	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	x	-	.
+S02510	Uromenus brevicollis	-	-	-	x	x	x	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S02520	Uromenus dyrrhachiacus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02530	Uromenus elegans	-	-	-	x	x	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	x	-	-	x	x	-	.
+S02540	Uromenus maroccanus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02550	Uromenus riggioi	-	-	-	x	x	x	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S02560	Uromenus rugosicollis	-	-	-	x	x	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	x	-	-	-	x	-	.
+S02570	Uromenus siculus	-	-	-	x	x	x	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S02580	Conocephalus grebenchikovi	x	x	x	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S02590	Conocephalus (Anisoptera) concolor	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02600	Conocephalus (Anisoptera) dorsalis	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S02610	Conocephalus (Anisoptera) ebneri	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S02620	Conocephalus (Anisoptera) fuscus	x	x	x	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	x	-	.
+S02630	Conocephalus (Anisoptera) hastatus	x	x	x	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S02640	Conocephalus (Anisoptera) kisi	x	x	x	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S02650	Conocephalus (Conocephalus) conocephalus	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S02660	Ruspolia differens	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02670	Ruspolia nitidula	x	x	x	-	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S02680	Canariola emarginata 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02690	Canariola quinonesi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02700	Cyrtaspis scutata	-	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	x	-	-	x	x	.
+S02710	Cyrtaspis tuberculata	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02720	Meconema meridionale	-	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	x	-	x	-	.
+S02730	Meconema thalassinum	-	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	x	-	x	-	.
+S02740	Acrometopa cretensis	-	-	x	x	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S02750	Acrometopa italica	-	-	-	-	x	x	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	-	x	-	.
+S02760	Acrometopa macropoda	-	-	-	-	x	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	-	x	-	.
+S02770	Acrometopa servillea	x	x	x	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S02780	Acrometopa syriaca	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	-	x	-	-	-	-	x	-	x	-	-	.
+S02790	Ancistrura nigrovittata	-	-	-	-	x	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	x	-	-	x	-	-	.
+S02800	Andreiniimon nuptialis	-	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	x	-	-	.
+S02810	Barbitistes alpinus	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	x	-	-	x	-	.
+S02820	Barbitistes constrictus	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	x	-	-	x	-	.
+S02830	Barbitistes fischeri	-	-	-	-	-	-	-	-	x	x	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	x	-	-	x	-	.
+S02840	Barbitistes kaltenbachi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02850	Barbitistes obtusus	-	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	x	-	-	x	-	.
+S02860	Barbitistes ocskayi	-	-	-	-	-	-	-	-	x	x	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	x	-	x	x	-	.
+S02870	Barbitistes serricauda	-	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	x	-	-	x	-	.
+S02880	Barbitistes vicetinus	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	x	-	-	x	-	.
+S02890	Barbitistes yersini	-	-	-	-	-	-	-	-	x	x	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	x	-	x	x	-	.
+S02900	Euconocercus caucasicus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02910	Isoimon riabovi 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02920	Isophya amplipennis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02930	Isophya andreevae	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	-	-	.
+S02940	Isophya beibienko	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02950	Isophya boldyrevi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02960	Isophya brevicauda	-	x	x	-	x	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S02970	Isophya brunneri	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02980	Isophya bucovinensis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S02990	Isophya bureschi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03000	Isophya camptoxypha	-	x	x	-	x	-	-	-	-	x	x	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S03010	Isophya ciucasi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03020	Isophya clara	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03030	Isophya costata	-	x	x	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S03040	Isophya dobrogensis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03050	Isophya dochia	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03060	Isophya doneciana	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03070	Isophya fatrensis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03080	Isophya gulae	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03090	Isophya harzi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03100	Isophya hospodar	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	-	-	.
+S03110	Isophya kalishevskii	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03120	Isophya kraussii	-	x	x	-	x	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S03130	Isophya lemnotica	-	-	x	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	-	-	.
+S03140	Isophya longicaudata	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03150	Isophya miksici	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03160	Isophya modesta	-	-	x	-	x	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S03170	Isophya modestior	-	-	x	-	x	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S03180	Isophya obtusa	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03190	Isophya pavelii	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03200	Isophya pienensis	-	-	x	-	x	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S03210	Isophya plevnensis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03220	Isophya posthumoidalis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03230	Isophya pylnovi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03240	Isophya pyrenaea	-	-	x	-	x	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S03250	Isophya rectipennis	-	-	-	-	-	x	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	-	-	.
+S03260	Isophya rhodopensis	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S03270	Isophya schneideri	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03280	Isophya sicula	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03290	Isophya speciosa	-	-	x	-	x	-	-	x	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S03300	Isophya stepposa	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03310	Isophya straubei	-	-	x	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	-	-	.
+S03320	Isophya stysi	-	-	x	-	x	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	x	x	-	.
+S03330	Isophya taurica	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03340	Isophya thracica	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03350	Isophya tosevski	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	x	-	x	-	-	.
+S03360	Isophya zubowskii	-	-	x	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	-	-	.
+S03370	Leptophyes albovittata	-	-	x	x	x	-	-	x	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S03380	Leptophyes asamo	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03390	Leptophyes boscii	-	-	-	-	x	x	-	x	-	x	x	-	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S03400	Leptophyes calabra	-	-	-	-	x	-	-	x	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S03410	Leptophyes discoidalis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03420	Leptophyes intermedia	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03430	Leptophyes laticauda	-	-	-	-	x	-	-	x	x	x	x	x	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	-	x	-	.
+S03440	Leptophyes lisae	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	-	-	-	-	x	x	-	-	-	-	x	-	-	x	-	.
+S03450	Leptophyes punctatissima	-	-	-	-	x	-	-	x	-	x	x	x	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	x	x	-	.
+S03460	Leptophyes sicula	-	-	-	-	x	-	-	x	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S03470	Metaplastes ippolitoi	-	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	x	-	-	x	-	.
+S03480	Metaplastes oertzemi	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	x	-	-	x	x	-	.
+S03490	Metaplastes ornatus	-	-	-	-	-	-	-	-	x	-	x	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	x	-	-	x	x	-	.
+S03500	Metaplastes pulchripennis	-	-	-	-	x	-	-	-	x	x	x	x	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	x	x	-	.
+S03510	Poecilimon (Hamatopoecilimon) deplanatus	-	-	x	x	-	-	-	-	x	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	-	-	.
+S03520	Poecilimon (Hamatopoecilimon) hamatus	-	-	-	-	x	-	-	x	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	-	-	.
+S03530	Poecilimon (Hamatopoecilimon) ikariensis	-	-	x	x	-	-	-	-	x	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	-	-	.
+S03540	Poecilimon (Hamatopoecilimon) klausgerhardi	-	-	x	x	-	-	-	-	x	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	-	-	.
+S03550	Poecilimon (Hamatopoecilimon) paros	-	-	x	x	-	-	-	-	x	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	-	-	.
+S03560	Poecilimon (Hamatopoecilimon) unispinosus	-	-	x	x	-	-	-	-	x	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	-	-	.
+S03570	Poecilimon (Poecilimon) aegaeus	-	-	x	x	-	-	-	-	x	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	-	-	.
+S03580	Poecilimon (Poecilimon) affinis	-	-	x	x	x	-	-	x	x	x	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S03590	Poecilimon (Poecilimon) albolineatus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03600	Poecilimon (Poecilimon) amissus	-	-	x	x	-	-	-	-	x	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	-	-	.
+S03610	Poecilimon (Poecilimon) ampliatus	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S03620	Poecilimon (Poecilimon) artedentatus	-	-	x	x	-	-	-	-	x	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S03630	Poecilimon (Poecilimon) athos	-	-	x	x	-	-	-	-	x	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S03640	Poecilimon (Poecilimon) bidens	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03650	Poecilimon (Poecilimon) bifenestratus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03660	Poecilimon (Poecilimon) bosphoricus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03670	Poecilimon (Poecilimon) brunneri	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	x	-	.
+S03680	Poecilimon (Poecilimon) chopardi	-	x	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S03690	Poecilimon (Poecilimon) cretensis	-	-	x	x	-	-	-	-	x	x	x	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S03700	Poecilimon (Poecilimon) djakonovi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03710	Poecilimon (Poecilimon) ebneri	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S03720	Poecilimon (Poecilimon) ege	-	-	x	x	-	-	-	-	x	x	x	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	-	-	.
+S03730	Poecilimon (Poecilimon) elegans	-	-	x	-	x	-	-	x	-	x	-	-	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S03740	Poecilimon (Poecilimon) erimanthos	-	-	x	x	-	-	-	-	x	x	x	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S03750	Poecilimon (Poecilimon) fussii	-	-	x	x	x	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S03760	Poecilimon (Poecilimon) geoktschajcus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03770	Poecilimon (Poecilimon) gerlindae	-	-	x	x	x	-	-	-	x	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S03780	Poecilimon (Poecilimon) gracilioides	-	-	x	x	x	-	-	-	x	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S03790	Poecilimon (Poecilimon) gracilis	-	-	x	-	x	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S03800	Poecilimon (Poecilimon) heinrichi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03810	Poecilimon (Poecilimon) heroicus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03820	Poecilimon (Poecilimon) hoelzeli	-	-	x	x	x	-	-	-	x	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S03830	Poecilimon (Poecilimon) intermedius	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S03840	Poecilimon (Poecilimon) istanbul 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03850	Poecilimon (Poecilimon) jablanicensis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03860	Poecilimon (Poecilimon) jonicus	-	-	-	-	x	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	x	-	-	x	x	-	.
+S03870	Poecilimon (Poecilimon) laevissimus	-	-	x	x	-	-	-	-	x	x	x	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S03880	Poecilimon (Poecilimon) macedonicus	-	-	x	x	-	-	-	-	x	x	x	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S03890	Poecilimon (Poecilimon) mariannae	-	-	x	x	-	-	-	-	x	x	x	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S03900	Poecilimon (Poecilimon) marmaraensis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03910	Poecilimon (Poecilimon) miramae	-	-	x	x	-	-	-	-	x	x	x	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S03920	Poecilimon (Poecilimon) mytilenensis	-	-	x	x	-	-	-	-	x	x	x	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	-	-	.
+S03930	Poecilimon (Poecilimon) nobilis	-	-	x	x	-	-	-	-	x	x	x	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S03940	Poecilimon (Poecilimon) nonveilleri	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03950	Poecilimon (Poecilimon) obesus	-	-	x	x	-	-	-	-	x	x	x	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S03960	Poecilimon (Poecilimon) oligacanthus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S03970	Poecilimon (Poecilimon) orbelicus	-	-	x	x	-	-	-	-	x	x	x	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S03980	Poecilimon (Poecilimon) ornatus	-	x	x	x	x	-	-	-	x	x	x	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S03990	Poecilimon (Poecilimon) pechevi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04000	Poecilimon (Poecilimon) pergamicus	-	-	x	x	-	-	-	-	x	x	x	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	-	-	.
+S04010	Poecilimon (Poecilimon) pindos	-	-	x	x	-	-	-	-	x	x	x	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S04020	Poecilimon (Poecilimon) pliginskii	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04030	Poecilimon (Poecilimon) propinquus	-	-	x	x	-	-	-	-	x	x	x	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	-	-	.
+S04040	Poecilimon (Poecilimon) pseudornatus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04050	Poecilimon (Poecilimon) roseoviridis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04060	Poecilimon (Poecilimon) sanctipauli	-	-	x	x	-	-	-	-	x	x	x	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	-	-	.
+S04070	Poecilimon (Poecilimon) schmidtii	-	-	x	x	-	-	-	-	x	x	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S04080	Poecilimon (Poecilimon) scythicus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04090	Poecilimon (Poecilimon) similis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04100	Poecilimon (Poecilimon) soulion	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S04110	Poecilimon (Poecilimon) sureyanus	-	-	x	x	-	-	-	-	x	x	x	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S04120	Poecilimon (Poecilimon) syriacus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04130	Poecilimon (Poecilimon) tauricus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04140	Poecilimon (Poecilimon) thessalicus	-	-	x	x	x	-	-	-	x	x	x	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S04150	Poecilimon (Poecilimon) thoracicus	-	-	x	x	x	-	-	-	x	x	x	x	x	x	-	x	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	x	-	.
+S04160	Poecilimon (Poecilimon) tricuspis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04170	Poecilimon (Poecilimon) turcicus	-	-	x	x	-	-	-	-	x	x	x	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S04180	Poecilimon (Poecilimon) ukrainicus 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04190	Poecilimon (Poecilimon) veluchianus	-	-	x	x	-	-	-	-	x	x	x	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S04200	Poecilimon (Poecilimon) vodnensis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04210	Poecilimon (Poecilimon) werneri	-	-	x	x	-	-	-	-	x	x	x	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S04220	Poecilimon (Poecilimon) zimmeri	-	-	x	x	-	-	-	-	x	x	x	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S04230	Poecilimon (Poecilimon) zwicki	-	-	x	x	-	-	-	-	x	x	x	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S04240	Polysarcus denticauda	-	x	x	-	-	-	-	-	-	x	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S04250	Polysarcus scutatus	-	x	x	-	-	-	-	-	-	x	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S04260	Polysarcus zacharovi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04270	Odontura aspericauda	-	-	-	-	x	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	-	-	.
+S04280	Odontura (Odontura) borrei 	-	-	-	-	x	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S04290	Odontura (Odontura) calaritana	-	-	-	-	x	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	-	-	.
+S04300	Odontura (Odontura) glabricauda	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04310	Odontura (Odontura) stenoxypha	-	-	-	-	x	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	-	-	.
+S04320	Odontura (Odonturella) macphersoni	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04330	Phaneroptera falcata	-	x	x	x	x	x	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	-	x	-	.
+S04340	Phaneroptera gracilis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04350	Phaneroptera nana	-	-	x	x	x	x	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	-	x	-	.
+S04360	Phaneroptera sparsa	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04370	Tylopsis lilifolia	-	x	x	x	x	x	-	x	x	x	x	-	-	-	-	-	x	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S04380	Saga campbelli	-	-	x	x	x	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S04390	Saga hellenica	-	-	x	x	x	-	-	x	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	x	x	-	.
+S04400	Saga natoliae	-	-	x	x	x	-	-	x	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S04410	Saga pedo	-	-	x	x	x	-	-	x	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S04420	Saga rammei	-	-	x	x	x	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S04430	Saga rhodiensis	-	-	x	x	x	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	x	-	-	.
+S04440	Ctenodecticus bolivari	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S04450	Ctenodecticus granatensis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04460	Ctenodecticus lusitanicus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04470	Ctenodecticus major	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04480	Ctenodecticus masferreri	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	.	.	.	-	x	-	.
+S04490	Ctenodecticus pupulus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04500	Ctenodecticus ramburi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04510	Ctenodecticus siculus	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S04520	Ctenodecticus thymi	-	-	-	x	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	.	.	.	-	x	-	.
+S04530	Miramiola pusilla	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04540	Decticus albifrons	-	-	x	x	x	x	-	x	x	x	-	-	-	-	-	-	x	-	-	-	-	-	x	x	-	-	-	x	-	-	-	x	-	.
+S04550	Decticus aprutianus	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S04560	Decticus loudoni	-	-	-	x	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S04570	Decticus verrucivorus	-	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	x	x	-	.
+S04580	Anadrymadusa (Anadrymadusa) brevipennis	-	-	-	x	x	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	x	-	.
+S04590	Anadrymadusa (Anadrymadusa) ornatipennis	-	-	-	x	x	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	x	-	.
+S04600	Anadrymadusa (Anadrymadusa) retowskii	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04610	Anadrymadusa (Orodusa) beckeri	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04620	Anadrymadusa (Orodusa) robusta	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04630	Ceraeocercus fuscipennis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04640	Drymadusa dorsalis	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	x	x	x	-	.
+S04650	Lithodusa daghestanica	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04660	Paradrymadusa galitzini	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04670	Paradrymadusa picta	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04680	Paradrymadusa sordida	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04690	Gampsocleis abbreviata	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S04700	Gampsocleis glabra	-	-	-	x	x	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S04710	Gampsocleis schelkovnikovae	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04720	Gampsocleis sedakovii	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04730	Onconotus laxmanni	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S04740	Onconotus servillei	-	-	-	x	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	.
+S04750	Eupholidoptera annamariae	-	-	-	-	-	-	-	-	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	-	x	-	.
+S04760	Eupholidoptera astyla	-	-	-	-	-	-	-	-	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	x	x	-	.
+S04770	Eupholidoptera bimucronata	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S04780	Eupholidoptera cephalonica	-	-	-	-	-	-	-	-	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	-	x	-	.
+S04790	Eupholidoptera chabrieri	-	-	-	-	-	-	-	-	x	x	x	x	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	-	x	-	.
+S04800	Eupholidoptera cretica	-	-	-	-	-	-	-	-	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	x	-	-	.
+S04810	Eupholidoptera danconai	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S04820	Eupholidoptera epirotica	-	-	-	-	-	-	-	-	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	x	x	-	.
+S04830	Eupholidoptera feri	-	-	-	-	-	-	-	-	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	-	x	-	.
+S04840	Eupholidoptera forcipata	-	-	-	-	-	-	-	-	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	-	x	-	.
+S04850	Eupholidoptera garganica	-	-	-	-	-	-	-	-	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	x	x	-	.
+S04860	Eupholidoptera gemellata	-	-	-	-	-	-	-	-	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	-	x	-	.
+S04870	Eupholidoptera giuliae	-	-	-	-	-	-	-	-	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	x	-	-	.
+S04880	Eupholidoptera hesperica	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S04890	Eupholidoptera icariensis	-	-	-	-	-	-	-	x	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	x	-	-	.
+S04900	Eupholidoptera jacquelinae	-	-	-	-	-	-	-	x	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	x	-	-	.
+S04910	Eupholidoptera kykladica	-	-	-	-	-	-	-	x	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	x	x	-	.
+S04920	Eupholidoptera latens	-	-	-	-	-	-	-	x	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	x	x	-	.
+S04930	Eupholidoptera leucasi	-	-	-	-	-	-	-	x	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	-	x	-	.
+S04940	Eupholidoptera magnifica	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S04950	Eupholidoptera mariannae	-	-	-	-	-	-	-	x	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	x	x	-	.
+S04960	Eupholidoptera megastyla	-	-	-	-	-	-	-	x	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	x	x	-	.
+S04970	Eupholidoptera pallipes	-	-	-	-	-	-	-	x	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	-	x	-	.
+S04980	Eupholidoptera parsina	-	-	-	-	-	-	-	x	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	x	-	-	.
+S04990	Eupholidoptera schmidti	-	-	-	-	-	-	-	x	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	-	x	-	.
+S05000	Eupholidoptera smyrnensis	-	-	-	-	-	-	-	x	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	-	x	-	.
+S05010	Eupholidoptera spinigera	-	-	-	-	-	-	-	x	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	x	-	-	.
+S05020	Eupholidoptera tyrrhenica	-	-	-	-	-	x	-	x	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S05030	Eupholidoptera uvarovi	-	-	-	-	-	-	-	x	x	x	x	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	x	-	-	.
+S05040	Parapholidoptera castaneoviridis	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S05050	Parapholidoptera noxia	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S05060	Parapholidoptera signata	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S05070	Pholidoptera aptera	-	-	-	x	-	-	-	-	x	x	x	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S05080	Pholidoptera brevipes	-	-	-	-	-	-	-	x	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S05090	Pholidoptera dalmatica	-	-	-	x	x	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S05100	Pholidoptera ebneri	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S05110	Pholidoptera fallax	-	-	x	-	x	x	-	x	-	-	x	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S05120	Pholidoptera femorata	-	-	-	-	x	-	-	x	x	x	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S05130	Pholidoptera frivaldszkyi	-	x	x	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S05140	Pholidoptera griseoaptera	-	-	-	-	x	-	-	-	x	x	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	x	.
+S05150	Pholidoptera littoralis	-	x	x	-	x	x	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	x	-	.
+S05160	Pholidoptera lucasi	-	-	-	-	-	-	-	x	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S05170	Pholidoptera macedonica	-	-	-	-	-	-	-	x	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S05180	Pholidoptera pustulipes	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S05190	Pholidoptera rhodopensis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S05200	Pholidoptera stankoi	-	-	-	-	-	-	-	x	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S05210	Pholidoptera transsylvanica	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S05220	Amedegnatiana vicheti	-	-	-	x	x	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	.	.	.	x	x	-	.
+S05230	Anonconotus alpinus	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S05240	Anonconotus apenninigenus	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S05250	Anonconotus baracunensis	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S05260	Anonconotus ghiliani	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S05270	Anonconotus italoaustriacus	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S05280	Anonconotus ligustinus	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S05290	Anonconotus mercantouri	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S05300	Anonconotus occidentalis	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S05310	Anonconotus pusillus	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S05320	Anonconotus sibyllinus	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S05330	Antaxius (Antaxius) kraussii	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S05340	Antaxius (Chopardius) beieri	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S05350	Antaxius (Chopardius) chopardi	-	-	-	-	-	-	-	-	x	-	-	x	x	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	x	-	x	-	.
+S05360	Antaxius (Chopardius) florezi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S05370	Antaxius (Chopardius) hispanicus	-	-	-	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S05380	Antaxius (Chopardius) pedestris	-	-	-	-	x	-	-	-	x	-	x	x	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	x	-	x	-	.
+S05390	Antaxius (Chopardius) sorrezensis	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	x	-	-	-	-	-	x	-	-	-	.	.	.	-	x	-	.
+S05400	Antaxius (Chopardius) spinibrachius	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	.	.	.	-	x	-	.
+S05410	Antaxius (Cyrnantaxius) bouvieri	-	-	-	-	-	-	-	-	x	-	x	x	-	-	x	-	-	x	-	-	-	-	-	x	-	-	-	.	.	.	-	x	-	.
+S05420	Antaxius (Hoelzeliana) difformis	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	-	-	x	x	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S05430	Anterastes serbicus	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	x	-	x	-	.
+S05440	Bicolorana bicolor	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S05450	Bicolorana burri	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S05460	Bicolorana kraussi	-	-	x	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S05470	Broughtonia arnoldi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S05480	Broughtonia domogledi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S05490	Bucephaloptera bucephala	-	-	-	x	x	-	-	x	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S05500	Incertana decorata	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S05510	Incertana drepanensis	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S05520	Incertana incerta	-	-	-	x	x	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S05530	Metrioptera brachyptera	-	x	x	-	x	x	-	x	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S05540	Metrioptera buyssoni	-	x	x	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S05550	Metrioptera hoermanni	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S05560	Metrioptera karnyana	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S05570	Metrioptera maritima	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S05580	Metrioptera prenjica	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S05590	Metrioptera saussuriana	-	-	-	-	-	-	-	x	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S05600	Metrioptera tsirojanni	-	-	x	x	x	-	-	x	-	x	x	-	-	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S05610	Metriptera ambigua	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S05620	Metriptera caprai	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S05630	Modestana ebneri	-	-	-	-	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S05640	Modestana modesta	-	-	x	-	x	-	-	x	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S05650	Montana barretii	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S05660	Montana carpetana	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S05670	Montana decticiformis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S05680	Montana eversmanni	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S05690	Montana macedonica	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S05700	Montana medvedevi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S05710	Montana montana	-	-	-	x	x	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S05720	Montana striata	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S05730	Montana stricta	-	-	-	x	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S05740	Motana daghestanica	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S05750	Pachytrachis bosniacus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S05760	Pachytrachis frater	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S05770	Pachytrachis gracilis	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S05780	Pachytrachis striolatus	-	x	x	x	x	-	-	x	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S05790	Pachytrachis tumidus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S05800	Parnassiana chelmos	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S05810	Parnassiana coracis	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S05820	Parnassiana dirphys	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S05830	Parnassiana fusca	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S05840	Parnassiana gionica	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S05850	Parnassiana menalon	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S05860	Parnassiana nigromarginata	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S05870	Parnassiana panaetolikon	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S05880	Parnassiana parnassica	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S05890	Parnassiana parnon	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S05900	Parnassiana tenuis	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S05910	Parnassiana tymphiensis	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S05920	Parnassiana tymphrestos	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S05930	Platycleis affinis	-	-	-	x	x	x	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S05940	Platycleis albopunctata	-	x	x	x	x	x	-	x	x	x	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S05950	Platycleis concii	-	-	-	x	x	-	-	x	x	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S05960	Platycleis escalerai	-	-	-	x	x	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S05970	Platycleis falx	-	-	-	x	x	x	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S05980	Platycleis grisea	-	-	-	x	x	x	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S05990	Platycleis iberica	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06000	Platycleis intermedia	-	-	x	x	x	x	-	x	x	x	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S06010	Platycleis ragusai	-	-	-	x	x	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S06020	Platycleis romana	-	x	x	x	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S06030	Platycleis sabulosa	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S06040	Platycleis waltheri	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06050	Psorodonotus fieberi	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S06060	Psorodonotus illyricus	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S06070	Psorodonotus macedonicus	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S06080	Psorodonotus specularis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06090	Psorodonotus venosus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06100	Pterolepis berberica	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06110	Pterolepis cordubensis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06120	Pterolepis elymica	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S06130	Pterolepis lusitanica	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06140	Pterolepis pedata	x	x	x	-	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S06150	Pterolepis spoliata	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06160	Rhacocleis agiostratica	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	-	-	x	-	-	-	x	-	.	.	.	.
+S06170	Rhacocleis anatolica	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	-	-	x	-	-	-	x	-	-	x	-	.
+S06180	Rhacocleis andikithirensis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06190	Rhacocleis annulata	-	-	-	-	-	-	-	-	x	x	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S06200	Rhacocleis baccettii	-	-	-	-	x	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S06210	Rhacocleis bonfilsi 	-	-	-	-	-	-	-	-	x	-	x	x	-	-	-	-	-	x	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S06220	Rhacocleis bucchicii	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06230	Rhacocleis corsicana 	-	-	-	-	-	-	-	x	x	-	x	x	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S06240	Rhacocleis crypta	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	-	.
+S06250	Rhacocleis derrai 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	-	-	x	-	-	-	x	-	-	x	-	.
+S06260	Rhacocleis distinguenda	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	-	-	x	-	-	-	x	-	-	x	-	.
+S06270	Rhacocleis edentata	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S06280	Rhacocleis ferdinandi 	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S06290	Rhacocleis germanica	-	-	-	-	x	-	-	x	x	x	x	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S06300	Rhacocleis graeca	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	-	-	x	-	-	-	x	-	-	x	-	.
+S06310	Rhacocleis insularis	-	-	-	x	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	x	-	x	-	.
+S06320	Rhacocleis japygia	-	-	-	-	x	-	-	x	x	-	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S06330	Rhacocleis lithoscirtetes	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	-	.
+S06340	Rhacocleis maculipedes	-	-	-	-	x	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S06350	Rhacocleis neglecta	-	-	-	-	x	-	-	x	x	x	x	x	-	-	-	-	x	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S06360	Rhacocleis poneli	-	-	-	-	-	-	-	-	x	x	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S06370	Rhacocleis silvestrii	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	-	-	x	-	-	-	x	-	-	x	-	.
+S06380	Rhacocleis thyrrhenica	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S06390	Rhacocleis trilobata	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	-	-	x	-	-	-	x	-	-	x	-	.
+S06400	Rhacocleis uvarovi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	-	-	x	-	-	-	x	-	-	x	-	.
+S06410	Rhacocleis werneri	-	-	-	x	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	x	-	x	-	.
+S06420	Roeseliana ambitiosa	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S06430	Roeseliana azami	x	x	x	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S06440	Roeseliana brunneri	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S06450	Roeseliana fedtschenkoi	-	x	x	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S06460	Roeseliana oporina	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06470	Roeseliana roeselii	-	x	x	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S06480	Sardoplatycleis galvagnii	-	-	-	-	x	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S06490	Schizonotinus forficalis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06500	Schizonotinus kerketa	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06510	Sepiana sepium	-	-	-	-	x	x	-	-	x	x	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S06520	Sporadiana sporadarum	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S06530	Tessellana  nigrosignata	-	-	-	x	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S06540	Tessellana carinata	-	-	-	x	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S06550	Tessellana lagrecai	-	-	-	x	x	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S06560	Tessellana orina	-	-	-	x	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S06570	Tessellana tessellata	-	-	-	x	x	x	-	x	x	x	x	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	-	.
+S06580	Tessellana veyseli	-	-	-	x	x	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S06590	Vichetia knipperi 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06600	Vichetia oblongicollis	-	-	x	x	x	-	-	x	-	x	x	-	-	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	x	x	-	.
+S06610	Yersinella beybienko	-	-	-	-	x	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S06620	Yersinella raymondi	-	-	-	-	x	-	-	x	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S06630	Zeuneriana abbreviata	-	x	x	-	-	x	-	x	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S06640	Zeuneriana amplipennis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06650	Zeuneriana burriana	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06660	Zeuneriana marmorata	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	x	-	.
+S06670	Amphiestris baetica	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06680	Medecticus assimilis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06690	Tettigonia balcanica	-	-	-	-	-	-	-	-	-	x	x	x	x	x	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	-	x	-	.
+S06700	Tettigonia cantans	-	x	x	-	x	x	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	-	x	-	.
+S06710	Tettigonia caudata	-	-	-	-	x	-	-	x	-	x	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	x	x	-	.
+S06720	Tettigonia hispanica	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06730	Tettigonia longispina	-	-	-	-	-	-	-	x	-	x	x	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	-	x	-	.
+S06740	Tettigonia silana 	-	-	-	-	-	-	-	x	-	x	x	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	-	x	-	.
+S06750	Tettigonia viridissima	-	-	x	-	x	x	-	x	-	x	x	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	x	-	-	x	-	.
+S06760	Thyreonotus bidens	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06770	Thyreonotus corsicus	-	-	-	-	-	-	-	x	x	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	.	.	.	-	x	-	.
+S06780	Acrida bicolor	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06790	Acrida oxycephala	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06800	Acrida turrita	-	-	x	x	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S06810	Acrida ungarica	-	-	x	x	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S06820	Calephorus compressicornis	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S06830	Phlocerus menetriesii	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06840	Phlocerus zaitzevi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06850	Duroniella carinata	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06860	Duroniella fracta	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S06870	Duroniella gracilis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06880	Duroniella kalmyka	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06890	Duroniella laticornis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06900	Duroniella lucasii	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S06910	Truxalis nasuta	-	-	-	x	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S06920	Calliptamus barbarus	-	-	-	x	-	x	x	x	x	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	x	-	-	-	x	x	.
+S06930	Calliptamus coelesyriensis	-	-	-	x	-	x	x	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	-	-	.
+S06940	Calliptamus italicus	-	-	x	x	-	x	x	x	x	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	x	-	-	-	x	x	.
+S06950	Calliptamus siciliae	-	-	-	x	-	x	x	x	x	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S06960	Calliptamus tenuicercis	-	-	-	x	-	x	x	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	-	-	.
+S06970	Calliptamus wattenwylianus	-	-	-	x	-	x	x	-	x	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S06980	Paracaloptenus bolivari	-	-	-	x	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	x	.
+S06990	Paracaloptenus caloptenoides	-	-	-	x	-	x	-	-	x	x	x	x	-	x	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S07000	Paracaloptenus cristatus	-	-	-	x	-	x	x	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S07010	Anacridium aegyptium	x	-	-	x	x	x	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	x	x	x	.
+S07020	Schistocerca gregaria	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	-	-	-	x	-	x	-	-	x	-	x	.
+S07030	Acanthacris ruficornis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07040	Egnatioides desertus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07050	Egnatius apicalis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07060	Eyprepocnemis plorans	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	x	.
+S07070	Heteracris adspersa	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S07080	Heteracris annulosa	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S07090	Heteracris littoralis	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S07100	Heteracris pterosticha	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07110	Arcyptera (Arcyptera) fusca	-	-	x	x	-	-	-	x	-	-	-	-	x	x	-	-	-	x	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S07120	Arcyptera (Arcyptera) tornosi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07130	Arcyptera (Pararcyptera) alzonai	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S07140	Arcyptera (Pararcyptera) brevipennis	-	-	-	x	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	-	-	.
+S07150	Arcyptera (Pararcyptera) kheili	-	-	-	x	-	-	-	x	x	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S07160	Arcyptera (Pararcyptera) labiata	-	-	-	x	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S07170	Arcyptera (Pararcyptera) microptera	-	-	-	x	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S07180	Chrysochraon beybienkoi	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S07190	Chrysochraon dispar	x	x	x	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S07200	Euchorthippus albolineatus	-	-	x	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S07210	Euchorthippus angustulus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07220	Euchorthippus chopardi	-	-	-	x	x	x	-	-	x	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S07230	Euchorthippus declivus	-	-	x	x	x	x	-	x	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S07240	Euchorthippus elegantulus	-	-	-	x	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S07250	Euchorthippus pulvinatus	-	-	x	x	x	x	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S07260	Euchorthippus sardous	-	-	x	x	x	x	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S07270	Euthystira brachyptera	-	x	x	-	x	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S07280	Podismopsis keisti	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S07290	Podismopsis poppiusi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07300	Podismopsis relicta	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07310	Podismopsis styriaca	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S07320	Podismopsis transsylvana	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07330	Dociostaurus (Dociostaurus) hispanicus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07340	Dociostaurus (Dociostaurus) maroccanus	-	-	-	x	-	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	x	-	-	x	x	-	.
+S07350	Dociostaurus (Dociostaurus) minutus	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S07360	Dociostaurus (Kazakia) brevicollis	-	-	-	x	-	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	x	-	-	x	x	-	.
+S07370	Dociostaurus (Kazakia) genei	-	-	-	x	x	x	x	-	x	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S07380	Dociostaurus (Kazakia) jagoi	-	-	-	x	-	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S07390	Dociostaurus (Kazakia) tartarus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07400	Dociostaurus (Stauronotulus) crassiusculus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07410	Dociostaurus (Stauronotulus) kraussi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07420	Eremippus cornatus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07430	Eremippus costatus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07440	Eremippus mirami	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07450	Eremippus opacus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07460	Eremippus simplex	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07470	Eremippus sobolevi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07480	Notostaurus albicornis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07490	Notostaurus anatolicus	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S07500	Xerohippus occidentalis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07510	Xerohippus solerii	-	-	-	x	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S07520	Aeropedellus variegatus	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S07530	Aeropedellus volgensis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07540	Brachycrotaphus tryxalicerus	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S07550	Chorthippus (Chorthippus) abchasicus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07560	Chorthippus (Chorthippus) albomarginatus	-	x	x	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S07570	Chorthippus (Chorthippus) dichrous	-	x	x	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S07580	Chorthippus (Chorthippus) dorsatus	-	x	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S07590	Chorthippus (Chorthippus) ferdinandi	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S07600	Chorthippus (Chorthippus) jucundus	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S07610	Chorthippus (Chorthippus) karelini	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S07620	Chorthippus (Chorthippus) lacustris	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S07630	Chorthippus (Chorthippus) loratus	-	-	-	x	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	.
+S07640	Chorthippus (Chorthippus) oschei	-	x	x	-	x	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S07650	Chorthippus (Chorthippus) smardai	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07660	Chorthippus (Glyptobothrus) acroleucus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07670	Chorthippus (Glyptobothrus) alticola	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S07680	Chorthippus (Glyptobothrus) apicalis	-	-	x	x	x	-	-	x	-	-	-	x	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S07690	Chorthippus (Glyptobothrus) apricarius	-	-	x	x	x	x	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S07700	Chorthippus (Glyptobothrus) ariasi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07710	Chorthippus (Glyptobothrus) biguttulus	-	-	x	x	x	x	-	x	-	x	x	x	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S07720	Chorthippus (Glyptobothrus) bionatus	-	-	-	-	x	x	-	x	-	-	x	x	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S07730	Chorthippus (Glyptobothrus) biroi	-	-	x	x	x	x	-	x	-	x	x	x	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	x	x	-	.
+S07740	Chorthippus (Glyptobothrus) bornhalmi	-	-	x	x	x	x	-	x	-	x	x	x	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	x	x	-	.
+S07750	Chorthippus (Glyptobothrus) brunneus	-	-	-	x	x	x	x	x	-	x	x	x	-	x	-	-	-	x	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S07760	Chorthippus (Glyptobothrus) cazurroi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07770	Chorthippus (Glyptobothrus) chloroticus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07780	Chorthippus (Glyptobothrus) cialancensis	-	-	-	-	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S07790	Chorthippus (Glyptobothrus) corsicus	-	-	-	x	x	x	x	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S07800	Chorthippus (Glyptobothrus) crassiceps	-	-	x	x	x	x	-	x	-	x	x	x	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S07810	Chorthippus (Glyptobothrus) dubius	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07820	Chorthippus (Glyptobothrus) eisentrauti	-	-	-	x	x	x	-	x	-	x	x	x	-	x	-	-	-	x	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S07830	Chorthippus (Glyptobothrus) elbrusianus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07840	Chorthippus (Glyptobothrus) jacobsi	-	-	x	x	x	x	-	x	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	x	x	-	.
+S07850	Chorthippus (Glyptobothrus) jutlandica	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07860	Chorthippus (Glyptobothrus) macrocerus	-	-	-	x	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	.
+S07870	Chorthippus (Glyptobothrus) maritimus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07880	Chorthippus (Glyptobothrus) messinai	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07890	Chorthippus (Glyptobothrus) mollis	-	-	x	x	x	-	-	x	-	x	x	x	-	x	x	-	-	x	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S07900	Chorthippus (Glyptobothrus) porphyropterus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07910	Chorthippus (Glyptobothrus) pulloides	-	-	x	x	x	-	-	x	-	x	x	x	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S07920	Chorthippus (Glyptobothrus) pullus	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S07930	Chorthippus (Glyptobothrus) reissingeri	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S07940	Chorthippus (Glyptobothrus) rubratibialis	-	-	-	x	x	-	-	-	-	-	x	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S07950	Chorthippus (Glyptobothrus) sampeyrensis	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S07960	Chorthippus (Glyptobothrus) sangiorgii	-	-	x	x	x	-	-	x	-	x	x	x	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S07970	Chorthippus (Glyptobothrus) saulcyi	-	-	-	x	-	x	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S07980	Chorthippus (Glyptobothrus) trinacriae	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	x	-	-	-	x	-	.
+S07990	Chorthippus (Glyptobothrus) vagans	-	-	-	x	x	x	-	x	-	-	x	x	-	-	-	-	x	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S08000	Chorthippus (Glyptobothrus) willemsei	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	x	-	-	-	x	-	.
+S08010	Chorthippus (Glyptobothrus) yersini	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08020	Chorthippus (NA) hirtus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08030	Chorthippus (NA) moreanus	-	-	x	x	x	-	-	x	-	x	x	x	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08040	Chorthippus (NA) nevadensis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08050	Chorthippus (NA) parnon	-	-	x	x	x	-	-	x	-	x	x	x	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08060	Gomphoceridius brevipennis	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S08070	Gomphocerippus rufus	-	-	-	-	x	-	-	-	-	x	x	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S08080	Gomphocerus sibiricus	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	x	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08090	Italohippus albicornis	-	-	-	-	x	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08100	Italohippus modestus	-	-	-	-	x	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08110	Italohippus monticola	-	-	-	-	x	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08120	Myrmeleotettix antennatus	-	-	-	x	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08130	Myrmeleotettix maculatus	-	-	-	x	-	-	-	x	-	-	-	-	-	x	-	-	x	-	-	-	-	-	-	-	x	-	-	x	-	-	x	x	-	.
+S08140	Myrmeleotettix pallidus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08150	Pseudochorthippus montanus	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S08160	Pseudochorthippus parallelus	x	x	x	x	x	-	-	-	-	x	-	-	-	x	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S08170	Pseudochorthippus tatrae	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08180	Stauroderus scalaris	-	-	x	x	x	-	-	-	-	-	-	-	x	x	-	-	-	x	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S08190	Caucasippus rufipes	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08200	Ochrilidia harterti	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08210	Ochrilidia nuragica	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S08220	Ochrilidia pruinosa	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08230	Ochrilidia sicula	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	x	-	-	-	x	-	-	x	x	x	.
+S08240	Ochrilidia tibialis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08250	Rammeihippus dinaricus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08260	Ramburiella (Palaeocesa) bolivari	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08270	Ramburiella (Palaeocesa) turcomana	-	-	-	x	-	x	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S08280	Ramburiella (Ramburiella) hispanica	-	-	-	x	-	-	x	-	x	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S08290	Omocestus (Dreuxius) antigai	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08300	Omocestus (Dreuxius) bolivari	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08310	Omocestus (Dreuxius) femoralis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08320	Omocestus (Dreuxius) minutissimus	-	-	-	-	x	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08330	Omocestus (Dreuxius) navasi	-	-	-	x	-	x	-	x	-	-	-	-	x	-	-	x	-	x	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S08340	Omocestus (Dreuxius) uhagonii	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08350	Omocestus (Omocestus) africanus 	-	-	-	x	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	x	-	-	.
+S08360	Omocestus (Omocestus) defauti	-	-	-	x	-	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S08370	Omocestus (Omocestus) haemorrhoidalis	-	-	x	x	x	-	-	-	-	-	-	-	-	x	x	-	x	x	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08380	Omocestus (Omocestus) lopadusae	-	-	-	x	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08390	Omocestus (Omocestus) minutus	-	-	-	x	-	-	x	-	x	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	x	-	-	x	x	-	.
+S08400	Omocestus (Omocestus) panteli	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08410	Omocestus (Omocestus) petraeus	-	-	-	x	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S08420	Omocestus (Omocestus) raymondi	-	-	-	x	-	-	-	-	-	-	x	x	-	-	x	-	-	x	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S08430	Omocestus (Omocestus) rufipes	-	-	x	x	x	x	-	-	x	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	x	x	-	.
+S08440	Omocestus (Omocestus) uvarovi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S08450	Omocestus (Omocestus) viridulus	x	x	x	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08460	Stenobothrus apenninus	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08470	Stenobothrus bolivarii	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08480	Stenobothrus carbonarius	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08490	Stenobothrus caucasicus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08500	Stenobothrus clavatus	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08510	Stenobothrus cotticus	-	-	-	-	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08520	Stenobothrus crassipes	-	-	-	x	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08530	Stenobothrus croaticus	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08540	Stenobothrus eurasius	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08550	Stenobothrus festivus	-	-	-	x	-	x	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	x	x	-	.
+S08560	Stenobothrus fischeri	-	-	-	x	-	-	-	-	x	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	x	x	-	.
+S08570	Stenobothrus graecus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	x	-	-	-	x	-	.
+S08580	Stenobothrus grammicus	-	-	-	x	-	-	-	-	x	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	x	x	-	.
+S08590	Stenobothrus lineatus	-	-	x	x	-	x	-	x	-	-	x	-	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08600	Stenobothrus miramae	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08610	Stenobothrus mistshenkoi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08620	Stenobothrus nigromaculatus	-	-	x	x	-	x	-	x	-	-	-	-	-	x	-	-	x	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08630	Stenobothrus posthumus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08640	Stenobothrus rubicundulus	-	-	-	x	-	-	-	-	-	-	-	-	x	x	x	-	-	x	-	-	-	-	-	-	x	-	-	x	-	-	x	x	-	.
+S08650	Stenobothrus stigmaticus	-	-	-	x	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08660	Stenobothrus ursulae	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08670	Bohemanella frigida	-	-	-	-	-	-	-	x	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S08680	Chortopodisma cobellii	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08690	Cophopodisma iberica	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08700	Cophopodisma pyrenaea	-	-	-	-	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08710	Epipodisma pedemontana	-	-	-	-	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S08720	Italopodisma acuminata	-	-	-	-	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08730	Italopodisma baccettii	-	-	-	-	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08740	Italopodisma costae	-	-	-	-	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08750	Italopodisma ebneri	-	-	-	-	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08760	Italopodisma fiscellana	-	-	-	-	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08770	Italopodisma lagrecai	-	-	-	-	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08780	Italopodisma lucianae	-	-	-	-	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08790	Italopodisma samnitica	-	-	-	-	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08800	Italopodisma trapezoidalis	-	-	-	-	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08810	Micropodisma koenigi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08820	Micropodisma salamandra	-	-	x	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S08830	Micropodisma svanetica	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08840	Miramella (Galvagniella) albanica	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08850	Miramella (Kisella) alpina	-	x	x	-	x	-	-	-	-	-	x	x	-	x	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S08860	Miramella (Kisella) carinthiaca	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08870	Miramella (Kisella) irena	-	-	-	-	x	-	-	-	-	-	x	x	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08880	Capraiuscola ebneri 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08890	Nadigella formosanta	-	-	x	-	x	-	-	-	-	-	x	x	-	x	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S08900	Odontopodisma acuminata	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08910	Odontopodisma albanica	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08920	Odontopodisma carpathica	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08930	Odontopodisma decipiens	-	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	x	-	-	-	x	-	.
+S08940	Odontopodisma fallax	-	-	-	-	x	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S08950	Odontopodisma montana	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S08960	Odontopodisma rubripes	-	-	-	-	x	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S08970	Odontopodisma schmidtii	-	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	x	-	.
+S08980	Oropodisma chelmosi	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S08990	Oropodisma erymanthosi	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S09000	Oropodisma karavica	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S09010	Oropodisma kylinii	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S09020	Oropodisma lagrecai	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S09030	Oropodisma macedonica	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S09040	Oropodisma parnassica	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S09050	Oropodisma taygetosi	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S09060	Oropodisma tymphrestosi	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S09070	Oropodisma willemsei	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S09080	Pachypodisma crassa	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09090	Pachypodisma lezgina	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09100	Peripodisma ceraunii	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09110	Peripodisma llofizii	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09120	Peripodisma tymphii	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09130	Podisma amedegnatoae	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09140	Podisma cantabricae	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09150	Podisma carpetana	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09160	Podisma dechambrei	-	-	-	-	-	-	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S09170	Podisma eitschbergeri	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S09180	Podisma emiliae	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S09190	Podisma goidanichi	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S09200	Podisma magdalenae	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S09210	Podisma pedestris	-	-	-	x	-	-	-	x	-	-	-	x	-	x	x	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S09220	Podisma ruffoi	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S09230	Podisma satunini	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09240	Podisma silvestrii	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S09250	Podisma teberdina	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09260	Podisma uvarovi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09270	Pseudopodisma fieberi	-	-	x	-	x	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S09280	Pseudopodisma nagyi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09290	Pseudopodisma transilvanica	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09300	Pseudoprumna baldensis	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S09310	Zubovskya banatica	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09320	Acrotylus fischeri	-	-	x	x	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	x	.
+S09330	Acrotylus insubricus	-	-	-	x	-	x	x	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	x	.
+S09340	Acrotylus longipes	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09350	Acrotylus patruelis	-	-	-	x	-	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	x	.
+S09360	Bryodema gebleri	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09370	Bryodemella (Bryodemella) tuberculatum	-	-	-	x	-	-	-	x	-	-	-	-	-	-	-	x	-	x	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09380	Aiolopus puissanti	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S09390	Aiolopus simulatrix	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09400	Aiolopus strepens	x	-	-	x	x	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	x	.
+S09410	Aiolopus thalassinus	x	x	x	-	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09420	Epacromius coerulipes	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09430	Epacromius pulverulentus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09440	Epacromius tergestinus	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09450	Paracinema tricolor	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S09460	Platypygius crassus	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	x	-	-	x	x	-	.
+S09470	Platypygius platypygius	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	x	-	.
+S09480	Locusta migratoria	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S09490	Oedaleus decorus	-	-	-	x	-	x	-	-	x	x	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09500	Psophus stridulus	-	-	-	x	-	-	-	-	-	-	-	-	-	x	-	x	-	x	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09510	Pyrgodera armata	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09520	Scintharista notabilis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09530	Celes variabilis	-	-	-	x	-	-	-	-	x	-	-	-	-	x	-	-	-	x	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09540	Mioscirtus wagneri	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	-	x	-	-	x	-	-	.
+S09550	Oedipoda aurea	-	-	-	x	-	x	x	-	x	x	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09560	Oedipoda caerulescens	-	-	-	x	-	x	-	-	x	x	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09570	Oedipoda charpentieri	-	-	-	x	-	-	x	-	x	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09580	Oedipoda coerulea	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09590	Oedipoda cynthiae	-	-	-	x	-	-	x	-	x	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09600	Oedipoda fuscocincta	-	-	-	x	-	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09610	Oedipoda germanica	-	-	-	x	-	x	x	-	x	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09620	Oedipoda miniata	-	-	-	x	-	x	x	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S09630	Oedipoda schochii	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09640	Oedipoda venusta	-	-	-	x	-	x	x	-	x	x	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09650	Leptopternis gracilis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09660	Morphacris fasciata	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09670	Mecostethus parapleurus	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S09680	Stethophyma grossum	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S09690	Hyalorrhipis clausii	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09700	Pseudoceles obscurus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09710	Pseudoceles oedipodioides	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09720	Sphingoderus carinatus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09730	Sphingonotus (Neosphingonotus) almeriense	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09740	Sphingonotus (Neosphingonotus) azurescens	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09750	Sphingonotus (Neosphingonotus) morini	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09760	Sphingonotus (Neosphingonotus) nodulosus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09770	Sphingonotus (Neosphingonotus) pachecoi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09780	Sphingonotus (Sphingonotus) arenarius	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09790	Sphingonotus (Sphingonotus) caerulans	-	-	-	x	-	x	x	-	x	-	-	-	-	-	x	x	x	x	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09800	Sphingonotus (Sphingonotus) candidus	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09810	Sphingonotus (Sphingonotus) coerulipes	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09820	Sphingonotus (Sphingonotus) corsicus	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09830	Sphingonotus (Sphingonotus) crivellarii	-	-	-	x	-	x	x	-	x	-	-	-	-	-	x	-	x	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09840	Sphingonotus (Sphingonotus) eurasius	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09850	Sphingonotus (Sphingonotus) gypsicola	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09860	Sphingonotus (Sphingonotus) halocnemi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09870	Sphingonotus (Sphingonotus) halophilus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09880	Sphingonotus (Sphingonotus) imitans	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09890	Sphingonotus (Sphingonotus) lluciapomaresi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09900	Sphingonotus (Sphingonotus) lusitanicus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09910	Sphingonotus (Sphingonotus) maculatus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09920	Sphingonotus (Sphingonotus) obscuratus	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09930	Sphingonotus (Sphingonotus) octofasciatus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09940	Sphingonotus (Sphingonotus) personatus	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09950	Sphingonotus (Sphingonotus) rubescens	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09960	Sphingonotus (Sphingonotus) salinus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09970	Sphingonotus (Sphingonotus) savignyi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S09980	Sphingonotus (Sphingonotus) uvarovi	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	x	-	x	-	-	-	x	-	.
+S09990	Thalpomena algeriana	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10000	Pezotettix anatolica	-	-	-	x	x	x	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	x	-	-	x	x	-	.
+S10010	Pezotettix giornae	-	-	x	x	x	x	-	x	x	x	x	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	x	-	-	x	x	x	.
+S10020	Pezotettix lagoi	-	-	-	x	x	x	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	x	-	-	x	x	-	.
+S10030	Tropidopola cylindrica	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	x	x	.
+S10040	Tropidopola graeca	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S10050	Tropidopola longicornis	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	x	-	.
+S10060	Dericorys carthagenovae	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10070	Dericorys tibialis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10080	Euryparyphes bolivari	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10090	Euryparyphes laetus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10100	Euryparyphes terrulentus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10110	Nocaracris bulgaricus	-	-	-	x	-	-	-	-	-	-	-	-	x	-	x	-	-	x	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S10120	Nocaracris cyanipes	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10130	Nocaracris istanbul	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10140	Nocaracris latipes	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10150	Nocaracris rimansonae	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10160	Nocaracris rubripes	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10170	Nocarodes daghestanicus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10180	Nocarodes geniculatus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10190	Paranocarodes chopardi	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S10200	Paranocarodes fieberi	-	-	-	-	-	-	-	-	x	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	-	-	.
+S10210	Paranocarodes straubei	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10220	Acinipe calabra	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S10230	Acinipe comptei	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10240	Acinipe deceptoria	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10250	Acinipe eulaliae	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10260	Acinipe galvagnii	-	-	-	x	x	x	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	x	x	-	.
+S10270	Acinipe hesperica	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10280	Acinipe ignatii	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10290	Acinipe mabillei	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10300	Acinipe paulinoi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10310	Acinipe perisi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10320	Acinipe segurensis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10330	Acinipe tibialis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10340	Eumigus ayresi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10350	Eumigus cucullatus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10360	Eumigus monticolus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10370	Eumigus punctatus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10380	Eumigus rubioi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10390	Kurtharzia nugatoria	-	-	-	x	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S10400	Kurtharzia sulcata	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10410	Ocneridia nigropunctata	-	-	-	x	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S10420	Ocnerodes brunneri	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S10430	Ocnerodes fallaciosus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10440	Ocnerodes prosternalsi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10450	Ocnerodes soleri	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10460	Orchamus kaltenbachi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	x	-	-	.
+S10470	Orchamus raulinii	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	x	-	-	.
+S10480	Orchamus yersini	-	-	-	x	-	-	-	-	-	-	-	x	-	-	-	-	x	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S10490	Pamphagus marmoratus	-	-	-	-	-	x	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S10500	Pamphagus ortolaniae	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	x	.
+S10510	Pamphagus sardeus	-	-	-	x	-	-	-	x	x	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S10520	Asiotmethis limbatus	-	-	-	x	-	x	-	x	x	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S10530	Asiotmethis muricatus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10540	Asiotmethis tauricus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10550	Asiotmethis turritus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10560	Glyphanus obtusus	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S10570	Glyphotmethis heldreichi	-	-	-	x	-	x	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S10580	Prionotropis appula	-	-	-	x	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S10590	Prionotropis azami	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S10600	Prionotropis flexuosa	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	-	-	.
+S10610	Prionotropis hystrix	-	-	-	x	x	-	-	-	x	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S10620	Prionotropis rhodanica	-	-	-	x	-	-	-	-	x	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	x	-	x	-	-	x	-	-	.
+S10630	Prionotropis willemsorum	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S10640	Pyrgomorpha (Pyrgomorpha) bispinosa	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10650	Pyrgomorpha (Pyrgomorpha) cognata	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10660	Pyrgomorpha (Pyrgomorpha) conica	-	-	-	x	-	x	-	-	x	-	-	-	-	-	-	x	x	x	-	-	-	-	-	-	-	x	-	x	-	-	x	x	-	.
+S10670	Pyrgomorphula serbica	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10680	Paratettix meridionalis	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	x	.
+S10690	Tetrix bipunctata	-	-	x	x	x	x	-	x	-	-	x	-	-	x	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	x	.
+S10700	Tetrix bolivari	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	x	.
+S10710	Tetrix ceperoi	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	x	.
+S10720	Tetrix depressa	x	x	x	-	-	-	-	-	-	-	-	x	-	-	-	x	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	x	.
+S10730	Tetrix fuliginosa	-	x	x	-	-	x	-	x	-	-	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	x	.
+S10740	Tetrix kraussi	-	-	x	x	-	-	-	-	-	-	x	-	-	x	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	x	.
+S10750	Tetrix nodulosa	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10760	Tetrix subulata	x	x	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	x	.
+S10770	Tetrix tenuicornis	-	-	x	x	-	x	x	x	-	-	x	x	-	-	-	x	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	x	.
+S10780	Tetrix transsylvanica	-	-	x	x	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	x	.
+S10790	Tetrix tuerki	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	x	.
+S10800	Tetrix undulata	x	x	x	-	-	x	-	x	-	-	x	x	-	-	-	x	-	-	-	-	-	-	-	-	-	x	-	x	-	-	x	x	x	.
+S10810	Bruntridactylus irremipes	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	x	x	-	x	-	x	-	-	.
+S10820	Bruntridactylus tartarus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10830	Asiotridactylus fasciatus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+S10840	Xya iberica	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	x	x	-	x	-	x	x	x	.
+S10850	Xya pfaendleri	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	x	x	-	x	-	x	x	x	.
+S10860	Xya variegata	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	x	x	-	-	-	-	-	-	-	-	x	x	-	x	-	x	x	-	.
